@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.111189,
+   "cabeceras": {
+      "Date": "Wed, 28 May 2025 19:18:35 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=6f36b413ecc7314868fa84b8b395a1177b6b9f91; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=6e550c5dc33f975c8701636d0225bc5802d510b1; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=d40cd020378f8de78e897a6b488a4e8ae03ba7fe; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=3004e44d33d1433a0a5997f129881960de7d3ab9; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=4f6d05606a502562e544ffa842d422c0a7bb1162; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=51ef77446845748ae931f1326d27a6a02d35f0e7; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=fd881598fd35db0a7eedcbccf515e31db2016add; expires=Wed, 28 May 2025 19:26:55 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52640"
+   }
+}

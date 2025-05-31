@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.390141,
+   "cabeceras": {
+      "Date": "Thu, 03 Apr 2025 21:30:59 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=320c51107cc152a3f22d842a0050f4218c060d1c; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=bc493dfc869b1004c3e91db07f9ddde706287412; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=99261fe259d48a04d45f6dbf9981cb773035ca99; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=15770fe125db9ce567cc7de1342cffd5e92b15aa; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=f1d56a69c7e6a93875ddb770b628d86b884c3531; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=72ab1b356dd2c391ba2a1368d7c60f62f67d6c13; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=0ee9b8b3480b77bcab2f30440fc127534e6a09b3; expires=Thu, 03 Apr 2025 21:39:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29304"
+   }
+}

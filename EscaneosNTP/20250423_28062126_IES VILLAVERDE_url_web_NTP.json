@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villaverde.madrid",
+   "delta_sg": -0.208482,
+   "cabeceras": {
+      "Date": "Wed, 23 Apr 2025 14:59:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villaverde.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villaverde.madrid/index.php/wp-json/wp/v2/pages/303>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villaverde.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3b81e187cde9747e1c193cd75a4d42d06def7573; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=44a2e266393b2fb52073d7db26cfb39b4a7bab96; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=cbecc135a3230051c9e93efb1d5645fe394598f4; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/, wc_session_ids[multi][1]=0a0fc61a82b389b9fecbb43ccf9de6251c635a38; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/, wc_session_ids[multi][2]=8b7ff81f7e9ee9df8d03db9d0568826bd7297aaa; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/, wc_session_ids[multi][3]=9dde2c245482af55c40fcb1c321c341664f1f530; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/, wc_session_ids[multi][4]=6ffec0642bd4e7ed6872a02e948c12c352624fbc; expires=Wed, 23 Apr 2025 15:07:30 GMT; Max-Age=500; path=/ies.villaverde.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "22885"
+   }
+}

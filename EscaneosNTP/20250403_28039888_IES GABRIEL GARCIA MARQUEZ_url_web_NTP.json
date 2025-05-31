@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.garciamarquez.madrid",
+   "delta_sg": 0.413728,
+   "cabeceras": {
+      "Date": "Thu, 03 Apr 2025 21:30:31 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=E710F851E3A4FEFD4FB8810BA763EA02.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 03-Apr-2026 21:30:30 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 03-Apr-2026 21:30:30 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

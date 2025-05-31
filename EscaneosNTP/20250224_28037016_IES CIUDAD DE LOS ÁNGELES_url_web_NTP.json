@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid",
+   "delta_sg": -0.123787,
+   "cabeceras": {
+      "Date": "Mon, 24 Feb 2025 14:46:17 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=383297be867f53f4fe816ef94b809e7c2b05b8f0; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=fbe8a6ee45925dbca49a35fc0195822cd5585265; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=ff93b71a92aaeb3dcbd6493009b7ca3bf1cdf1e3; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][1]=27ac60d6e43cb0dc0b3fd1f0a9f81b97c5aa67d3; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][2]=38d4d6b1625d90f1652925cf838f6eb6e534b106; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][3]=30b20ae2d67b801e5ed75e39b84cc2b09ebda85d; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][4]=81bd60a7b56a7e5e68d0555f12b6838f0011eae8; expires=Mon, 24 Feb 2025 14:54:37 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29801"
+   }
+}

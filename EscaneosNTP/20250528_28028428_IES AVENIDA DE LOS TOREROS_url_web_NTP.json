@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.140583,
+   "cabeceras": {
+      "Date": "Wed, 28 May 2025 19:19:25 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0e239a9dffc86f1d203b2e30202e2883155f2190; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=f5183a4b83fce4c9493a12e704c5e928c422c991; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=4f62f4078078dd5949042c48258c4e4354a343e9; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=2de1938c5a5cd2ff6b0e1d4b6984e2522cedf60a; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=07c386313337e6833a1fd9b92c6618ffc6f54ccd; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=725eca3ecb1423ba59873312251206cc645db466; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=2efc79e4918c585686d718e79c536f41a78e72f8; expires=Wed, 28 May 2025 19:27:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38218"
+   }
+}

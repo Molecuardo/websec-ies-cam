@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.parquealuche.madrid",
+   "delta_sg": 0.91489,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:15:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.parquealuche.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.parquealuche.madrid/index.php/wp-json/wp/v2/pages/117>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.parquealuche.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ecc32bb5bd68f0c96ceae35c61a25b47e0f77d23; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d66123385d67336abece571a176aa5eddd31031d; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=d0ffe06cc04d981236a290b83a16841065e3091a; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/, wc_session_ids[multi][1]=bd6668aadbc5bce3240eaad3c17e1bc5ba3b2152; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/, wc_session_ids[multi][2]=803933db2caffba9652a481818c728992a533351; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/, wc_session_ids[multi][3]=882e4fdbcc13b85663cec8247dc0896ef9dd9401; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/, wc_session_ids[multi][4]=00e69d62cbcefe0a4001ba3e58b9cbf884e75084; expires=Wed, 05 Mar 2025 15:23:50 GMT; Max-Age=500; path=/ies.parquealuche.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "25812"
+   }
+}

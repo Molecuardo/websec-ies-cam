@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": -0.426228,
+   "cabeceras": {
+      "Date": "Wed, 26 Feb 2025 18:41:06 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b20d8db78878d0969da3959ddb12ce99cbbbbf4a; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=7e4cf07bb4967f0b30157aaa28ac250525f484d5; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3044d57999ab7bdd96e6b9ac95232ef96fd8ca48; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=b5c3c35e6f5f3d6c91b1f0ba597749d7d982b237; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=36d51b5a8883c16de3a39302097789719508db54; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=c4eb457da3aa72b7fd08f2f4774229b056762da2; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=d639297c22bd11c47505094e2e6ae34c92eda097; expires=Wed, 26 Feb 2025 18:49:26 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28349"
+   }
+}

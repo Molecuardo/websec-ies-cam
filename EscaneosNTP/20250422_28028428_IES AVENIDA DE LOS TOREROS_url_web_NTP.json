@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": -0.204141,
+   "cabeceras": {
+      "Date": "Tue, 22 Apr 2025 21:18:32 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2aad43ed05cad8931e54f8b2895b79ef325a8d01; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=c325c7131d61354cddc18cb10119a9a2cd6971db; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=927b0028a948ec4bcf51a9de94df40ba8327b05d; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=2e4303106223a5cf7c6678174f81f1676b072e0c; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=2b9126c6567410a58ca1226e5a4ac98ae0f50966; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=0685d3aff62feb3c3f32fe39633cd6f7f275bbdf; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=1578667f2e366539c53db6025f3205852f145e37; expires=Tue, 22 Apr 2025 21:26:52 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "50433"
+   }
+}

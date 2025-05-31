@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.palomerasvallecas.madrid",
+   "delta_sg": -0.995087,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:22:05 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/wp/v2/pages/783>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=68076fbfee4f197399fd0589b27cff231862be3e; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1e6c78745da93aff85c30b57e186ee7952424172; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0ec9243f888f3ec766e12c79d7acbdd590a77288; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][1]=e77019af74490d59bdbf4f3e70d4dd1c9ce97b2f; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][2]=3d5964a302c063cb041ec5cee25d2505511694a9; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][3]=787c33939b783cc3a10c458ffeaa31c7cdc2d711; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][4]=e813041d031935a1aa73f7e30246ddbcd79431e0; expires=Mon, 03 Feb 2025 13:30:26 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "32400"
+   }
+}

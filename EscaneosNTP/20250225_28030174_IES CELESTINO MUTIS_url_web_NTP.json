@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.celestinomutis.madrid",
+   "delta_sg": 0.255414,
+   "cabeceras": {
+      "Date": "Tue, 25 Feb 2025 17:38:33 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.celestinomutis.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.celestinomutis.madrid/index.php/wp-json/wp/v2/pages/1071>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.celestinomutis.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=37fa5c3333e118c9111137c93c687a493a32a99c; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e8dcb7c5619b1af29bac509b0b2864edcc098e62; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=359ea499375810efcb5ca73305fb57dcc912af75; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/, wc_session_ids[multi][1]=7ca680a2bf96dd7903903f83f0065a16cacac72f; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/, wc_session_ids[multi][2]=0b47453102a22f9a596db6323c9fd6222871dc54; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/, wc_session_ids[multi][3]=7b176557ce95dde8d3e1a366a1aecd21f2076e5f; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/, wc_session_ids[multi][4]=adcb5b4da8d69d1307a930a3fb58faabdcf4326d; expires=Tue, 25 Feb 2025 17:46:54 GMT; Max-Age=500; path=/ies.celestinomutis.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27729"
+   }
+}

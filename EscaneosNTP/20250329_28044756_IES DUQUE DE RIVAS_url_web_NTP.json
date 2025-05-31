@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.duquederivas.rivas",
+   "delta_sg": 0.221802,
+   "cabeceras": {
+      "Date": "Sat, 29 Mar 2025 17:57:45 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.duquederivas.rivas/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=b7673c5e36cef5b3396f849997c0396e54ba4a40; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/; secure; HttpOnly, wc_session_ids[all_forms]=db1c5ca549d06302d7512cf049740872b4708d0d; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/; secure; HttpOnly, wc_session_ids[multi][0]=02c7bf6d4ee762b813f878e292128a014896264e; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/, wc_session_ids[multi][1]=031dae630db863ad682406632ae2b72a15e4a0ad; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/, wc_session_ids[multi][2]=e614ac4cbb326c5408444fb0e52fdcfd95578130; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/, wc_session_ids[multi][3]=743bc11880e57771b3b16a1902beb8317fbeebf5; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/, wc_session_ids[multi][4]=26fef86c201cc3d3e9dcad3b1a6c93e4c41c112f; expires=Sat, 29 Mar 2025 18:06:05 GMT; Max-Age=500; path=/ies.duquederivas.rivas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "13500"
+   }
+}

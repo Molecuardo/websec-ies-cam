@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.anammatute.velilla",
+   "delta_sg": -1.52319,
+   "cabeceras": {
+      "Date": "Sun, 18 May 2025 21:06:46 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=F0A64D9244E1A0840FECA21FADA4E93E.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 18-May-2026 21:06:46 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 18-May-2026 21:06:46 GMT; Path=/; HttpOnly, UqZBpD3n=v1P9CGSQ__hTU; Expires=Mon, 19-May-2025 09:06:47 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

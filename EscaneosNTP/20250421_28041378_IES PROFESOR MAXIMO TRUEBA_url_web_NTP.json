@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maximotrueba.boadilla",
+   "delta_sg": -0.124655,
+   "cabeceras": {
+      "Date": "Mon, 21 Apr 2025 11:13:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b2f2647adc7a4c81e66984593d8270c262b46e63; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[all_forms]=f6e065f8847967d0d539918a27c9b0391a12cada; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[multi][0]=5e52fc5c4ed92f3249a07d2e6151bdaf32dfd6df; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][1]=80651cb520a827f89e6611cf4e92e11128036d00; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][2]=1865e622d0252d27388c7dd8a66d2d81bfc5026b; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][3]=ee0c82e84efa10d213ea23edbbd55de33295eedb; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][4]=d16cdc031b25acead3f4f16dcc24c4b033203f91; expires=Mon, 21 Apr 2025 11:21:29 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29064"
+   }
+}

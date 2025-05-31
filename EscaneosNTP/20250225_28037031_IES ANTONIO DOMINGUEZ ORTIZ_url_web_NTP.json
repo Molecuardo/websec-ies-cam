@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antoniodomingue.madrid",
+   "delta_sg": 0.80617,
+   "cabeceras": {
+      "Date": "Tue, 25 Feb 2025 17:40:00 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=71736a3482a99f0b40c429519afdc08d2edc32ee; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e8ca946c9c51ae156586d27303e6d30411244367; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e01fa843eea0ca3800e6f3b33bc6d787b62fd9a7; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][1]=de8fe5b24e8a328fad81dc87f5df9d5ce852f3a8; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][2]=cf19acc09e984ca040945ac3dcca816d716736dd; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][3]=61ee69025d8d16f276ec408d7673322083420473; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][4]=f5877469c57522991297daaf2ee17b418880ae98; expires=Tue, 25 Feb 2025 17:48:20 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28577"
+   }
+}

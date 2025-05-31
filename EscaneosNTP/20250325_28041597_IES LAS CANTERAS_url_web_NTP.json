@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lascanteras.colladovillalba",
+   "delta_sg": -1.33868,
+   "cabeceras": {
+      "Date": "Tue, 25 Mar 2025 22:34:34 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=A9270244051035AFF02B1D56E2E130C5.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 25-Mar-2026 22:34:34 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 25-Mar-2026 22:34:34 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

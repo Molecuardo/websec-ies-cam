@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sancristobal.madrid",
+   "delta_sg": 0.548188,
+   "cabeceras": {
+      "Date": "Tue, 22 Apr 2025 21:16:48 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.sancristobal.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.sancristobal.madrid/index.php/wp-json/wp/v2/pages/655>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.sancristobal.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=39afd95a15511850c24af0f2f55067258a51b57c; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=480fd8a0ca98a440efe25131140eb1d47a83cc80; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=740a97a495aec1c68fac1d8b51d679925c54b47f; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/, wc_session_ids[multi][1]=273308ad2f6e88393069373d4f0a05b716ba2704; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/, wc_session_ids[multi][2]=52b5e207a9a18ab47128656999e8bdf796c04c55; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/, wc_session_ids[multi][3]=0de7b3c923f32c10493b6ff57dcf9252f7af0755; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/, wc_session_ids[multi][4]=a1e90f0e563b453f0baf7bb5d5bdaebfc6e9dbab; expires=Tue, 22 Apr 2025 21:25:08 GMT; Max-Age=500; path=/ies.sancristobal.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "37444"
+   }
+}

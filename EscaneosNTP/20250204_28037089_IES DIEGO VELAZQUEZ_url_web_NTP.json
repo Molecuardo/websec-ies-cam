@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/diego-velazquez",
+   "delta_sg": -2.710206,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 08:11:17 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "44275",
+      "Set-Cookie": "JSESSIONID=E94B33D8FAD96B414B641AAFB130504E.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 04-Feb-2026 08:11:18 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 04-Feb-2026 08:11:18 GMT; Path=/; HttpOnly, UqZBpD3n=v1AdCGSQ__rNr; Expires=Tue, 04-Feb-2025 20:11:18 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

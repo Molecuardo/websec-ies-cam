@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 7200.756293,
+   "cabeceras": {
+      "Date": "Fri, 18 Apr 2025 15:15:59 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5d3abcbd5cffeb7c4f1fa21749d49e55c23611fc; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1eb1041c1729ee3ebb8b050709ff05a70255ca96; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=cc7a136ae7fe3ee5334957bed409b776f31a0eda; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=66ed49a359678f38d5702d73958f87818b4e958d; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=bc58b495b6f5d4631a559f319d62b4d1edb6a65e; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=8b18045dc81a78c44f622ba330ab40c750abca1c; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=6cfa4d06909c06fcd93a143a6ee60a4c09669c6d; expires=Fri, 18 Apr 2025 15:24:19 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29306"
+   }
+}

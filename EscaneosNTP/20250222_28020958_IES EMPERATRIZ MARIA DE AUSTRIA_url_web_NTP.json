@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.emperatrizmaria.madrid",
+   "delta_sg": 0.028511,
+   "cabeceras": {
+      "Date": "Sat, 22 Feb 2025 19:14:49 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.emperatrizmaria.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.emperatrizmaria.madrid/index.php/wp-json/wp/v2/pages/5>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.emperatrizmaria.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=80f4de4f2ff77471a07a9bf6d553d3e4198c9691; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8991010bd318ceb5fc52c9cc28f2c6f01d1ac51a; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=aba7d1352484391c88b8386e2188a638e3d34701; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][1]=0ae291da8e68fb138bbfed27358c94a3f7490caa; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][2]=7da8aeef55f04ca7f32afd03bd9fb7fa4d8f258b; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][3]=4918a301051997f63216278c3e06f1890167a649; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][4]=f35b506d4c570b261fa55a3b0b32cc1b5272c890; expires=Sat, 22 Feb 2025 19:23:10 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33243"
+   }
+}

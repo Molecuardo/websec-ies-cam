@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.tiernogalvan.madrid",
+   "delta_sg": -0.027147,
+   "cabeceras": {
+      "Date": "Mon, 17 Mar 2025 20:26:37 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.tiernogalvan.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.tiernogalvan.madrid/index.php/wp-json/wp/v2/pages/206>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.tiernogalvan.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1f54d1ff9b33f5ca9418f06136d2635d35b6635b; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1e287b8a0a763838475970d5ecfaf799c55a903f; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=4c02ec499d9a646cac82377fc294b579c4ea3138; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/, wc_session_ids[multi][1]=05e5f869a7072f3e696832cbe149d723714007b0; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/, wc_session_ids[multi][2]=51977f6f0cbdc6df75d5b6f9da76ac85f26cc696; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/, wc_session_ids[multi][3]=ac7d9bbb121b91c864baa73ab794b9cdbd992da8; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/, wc_session_ids[multi][4]=4bc5b1ed2c1f2f7e24f3cdf8cc6b95c528c5b184; expires=Mon, 17 Mar 2025 20:34:57 GMT; Max-Age=500; path=/ies.tiernogalvan.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "39904"
+   }
+}

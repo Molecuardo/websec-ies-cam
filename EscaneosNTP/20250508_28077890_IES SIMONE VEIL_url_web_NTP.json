@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.simoneveil.paracuellos",
+   "delta_sg": 0.15381,
+   "cabeceras": {
+      "Date": "Thu, 08 May 2025 19:16:01 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.simoneveil.paracuellos/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.simoneveil.paracuellos/index.php/wp-json/wp/v2/pages/1446>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.simoneveil.paracuellos/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=031ad920031ca89b6e1dc39c430cb93c2dc1623e; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/; secure; HttpOnly, wc_session_ids[all_forms]=6b84d08754158dda4c38979a9ee0011336cc6d84; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/; secure; HttpOnly, wc_session_ids[multi][0]=d911f29e37addc1f07450f3e986e6b35611a3158; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/, wc_session_ids[multi][1]=87ef511ab6b7fe7139c01a2964e0ed5c9a197049; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/, wc_session_ids[multi][2]=1229c0958f63042fba06e0b7fa477bd0a9114613; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/, wc_session_ids[multi][3]=3fcebc863ee283043572ff5df389f6421d3e480c; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/, wc_session_ids[multi][4]=a5c8d2d23f38e34d2a993a17c7b65af6e4b288cf; expires=Thu, 08 May 2025 19:24:21 GMT; Max-Age=500; path=/ies.simoneveil.paracuellos/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "32656"
+   }
+}

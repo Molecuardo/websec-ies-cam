@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.pedroduque.leganes",
+   "delta_sg": 0.641663,
+   "cabeceras": {
+      "Date": "Fri, 28 Feb 2025 17:52:17 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=855CC920A6A2DC5D9CCFB4176E9D62A2.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 28-Feb-2026 17:52:16 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 28-Feb-2026 17:52:16 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

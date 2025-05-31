@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.arquitectoventurarodriguez.boadilla",
+   "delta_sg": -1.524897,
+   "cabeceras": {
+      "Date": "Thu, 29 May 2025 21:24:04 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=AD84B415B516FD9E15FA79CE2E6C9691.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 29-May-2026 21:24:05 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 29-May-2026 21:24:05 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

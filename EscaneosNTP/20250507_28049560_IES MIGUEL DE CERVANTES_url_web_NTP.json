@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.cervantes.mostoles/",
+   "delta_sg": 0.37044,
+   "cabeceras": {
+      "Date": "Wed, 07 May 2025 21:31:44 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/wp/v2/pages/204>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cervantes.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3c7bd7009cdec4581c65a33273d99c44764b2aae; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=8a6502f72edc516d3569117f522d60acf5f31f48; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=3f48078704040992f529323c588a6bc709635185; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][1]=77f35ea4f8ad8ca2da142e8aea5ed860d60a1239; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][2]=df881dfb2100d0cefc186c6da90180e61426fe17; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][3]=627f4f9db28d8ac5ef305a708df0c5aefba4303a; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][4]=f42b7522bd68efffa31c367ad51b95fd9a0288fe; expires=Wed, 07 May 2025 21:40:04 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, cookiesession1=678B2869238E32CC82A15DBDA2CD4F88;Expires=Thu, 07 May 2026 21:31:44 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27915"
+   }
+}

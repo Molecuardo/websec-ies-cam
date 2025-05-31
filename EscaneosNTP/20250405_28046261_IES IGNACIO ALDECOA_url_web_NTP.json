@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ignacioaldecoa.getafe",
+   "delta_sg": 1.529087,
+   "cabeceras": {
+      "Date": "Sat, 05 Apr 2025 21:52:45 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=E8AF00D7B88D3BB92F490ABB161DD5BF.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 05-Apr-2026 21:52:44 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 05-Apr-2026 21:52:44 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

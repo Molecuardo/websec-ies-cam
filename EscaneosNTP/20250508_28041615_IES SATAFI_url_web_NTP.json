@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.satafi.getafe",
+   "delta_sg": -0.339873,
+   "cabeceras": {
+      "Date": "Thu, 08 May 2025 19:11:51 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.satafi.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.satafi.getafe/index.php/wp-json/wp/v2/pages/160>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.satafi.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0daa31671cbb4254078d9abb3e155e9707cf6d69; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=18484ea1e43009742566bbd499271830bb38f0a8; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=6bfa416b15bed1d5eb469d72d5f083a8f7b4c8ae; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/, wc_session_ids[multi][1]=f0026a91de7611c3ca454809b4ebdcfda93c17fb; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/, wc_session_ids[multi][2]=4c988fc02feda68a9b74806f03d73d0668f75cd8; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/, wc_session_ids[multi][3]=1959919270db2b5a23a17c84d4ab9c10aafa095a; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/, wc_session_ids[multi][4]=c8ef64296495fcc7ce72ea0e97e3f1cc8a9bad75; expires=Thu, 08 May 2025 19:20:12 GMT; Max-Age=500; path=/ies.satafi.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "40395"
+   }
+}

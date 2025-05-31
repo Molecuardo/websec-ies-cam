@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.rodriguezdevalcarcel.madrid",
+   "delta_sg": 0.123944,
+   "cabeceras": {
+      "Date": "Tue, 29 Apr 2025 13:08:01 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.rodriguezdevalcarcel.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.rodriguezdevalcarcel.madrid/index.php/wp-json/wp/v2/pages/211>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.rodriguezdevalcarcel.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=66c35b2cddd5e35943ddae00c98db178d9bc30c6; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=283806f23efc1c68a94f8c57950b6ee3a3504be2; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0f77abdf7a889f635395452b7dc0889e303a721d; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/, wc_session_ids[multi][1]=f61e0c91e53dd55726d9fc732d25787503e26542; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/, wc_session_ids[multi][2]=0a98a79deb5dfdac74e7fe0ae6bb908d5415f118; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/, wc_session_ids[multi][3]=003fbcc4837761c6348c0ea2456966eaba131506; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/, wc_session_ids[multi][4]=b95efd33d13912c64cc632a3338d93dea23cb9c5; expires=Tue, 29 Apr 2025 13:16:21 GMT; Max-Age=500; path=/ies.rodriguezdevalcarcel.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "36251"
+   }
+}

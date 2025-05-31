@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antares.rivas",
+   "delta_sg": -0.386935,
+   "cabeceras": {
+      "Date": "Thu, 06 Mar 2025 15:18:41 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.antares.rivas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.antares.rivas/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.antares.rivas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=344fd3238869365acf8b06f11d3a442d3fc0fc21; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/; secure; HttpOnly, wc_session_ids[all_forms]=3eb286d4c6052b9bb6747ea617c8a6f291bce6eb; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/; secure; HttpOnly, wc_session_ids[multi][0]=5ab6fb0e5ccb079a6321e931578447ce042ed38f; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/, wc_session_ids[multi][1]=a7657e5fe5f377a2b41baa5e6768f657bfc51ca2; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/, wc_session_ids[multi][2]=f1dbb8ef15f567257d150dcca9930ebe4e94b013; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/, wc_session_ids[multi][3]=a356dbe6c02973078aeda1cbad13cd1c19c561a0; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/, wc_session_ids[multi][4]=1f18b6cefa43eb5572a1277cb575685421298d37; expires=Thu, 06 Mar 2025 15:27:01 GMT; Max-Age=500; path=/ies.antares.rivas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "19704"
+   }
+}

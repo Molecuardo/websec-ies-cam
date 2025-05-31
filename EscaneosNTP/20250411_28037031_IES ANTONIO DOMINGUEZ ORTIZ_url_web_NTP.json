@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antoniodomingue.madrid",
+   "delta_sg": 7200.261032,
+   "cabeceras": {
+      "Date": "Fri, 11 Apr 2025 19:01:34 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cc21ee6e350a65ce9606e4662a8fed7b0bf317a9; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=9f0d7a6a6cdd5e0fda8721d7dbc39c006cfd9e28; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0fda8477d240e89cb2f234429beaddad2db53fd9; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][1]=1631342ece0bbabc10ac8b15b06515963908529c; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][2]=8f1a7c75bd13b84a93d399fe451392c71986910a; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][3]=8c763d47df3ad93f726806a864dc8eaea4656ed5; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][4]=795d2734ffee7d400047fe8988fc24e7a9f6069c; expires=Fri, 11 Apr 2025 19:09:54 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "36799"
+   }
+}

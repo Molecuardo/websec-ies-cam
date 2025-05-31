@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.837575,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:21:37 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=7512c1bb7479cf5e586b301435c20aeb64fbf124; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1dbe64c6c995f4f7d0ce1d9ae4ea9eebb11acdcb; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=36f57ea97e27965026361d1e8a9f8658e64ce901; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=3c96be9450b31d0ae81879c41669b80eb8164e61; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=246e1b4a4b8b1d93b48dbb082f24c93a33676628; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=d392ce8f2c6bfbd1cd7a948d765e5478c682f74b; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=20b8c55107a8a6c2f97a0db745289e99eb87925b; expires=Wed, 05 Mar 2025 15:29:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49027"
+   }
+}

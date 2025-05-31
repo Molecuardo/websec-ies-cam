@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.newton.madrid",
+   "delta_sg": 0.111505,
+   "cabeceras": {
+      "Date": "Mon, 19 May 2025 22:08:52 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.newton.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.newton.madrid/index.php/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.newton.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=66c997a27ba3b631ee933aa9f3f97bb06e32234e; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=988d8307ad3cf8bccb4cc6a21b0ea8178616a27f; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=4e305696978a117a8c75b09872e50c6a9f4379ed; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/, wc_session_ids[multi][1]=653284f4d717320decc27abc8939dedce3c708c5; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/, wc_session_ids[multi][2]=f7e5ab7ca1377a0f604b17cdda7990b7a442fcc2; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/, wc_session_ids[multi][3]=4155b961a5dab09c6eed90babfe70bfcf75301f9; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/, wc_session_ids[multi][4]=c304e6f4b74e91a0ca451cedbf0e9ea2c1feeae9; expires=Mon, 19 May 2025 22:17:13 GMT; Max-Age=500; path=/ies.newton.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "31360"
+   }
+}

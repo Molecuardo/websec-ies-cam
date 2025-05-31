@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.alcala",
+   "delta_sg": 0.99144,
+   "cabeceras": {
+      "Date": "Thu, 15 May 2025 21:11:34 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.alcala/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.alcala/index.php/wp-json/wp/v2/pages/916>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.alcala/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a50883c93453e6b44c035f7ce325f6245edf3821; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/; secure; HttpOnly, wc_session_ids[all_forms]=4c02d4ea4ed9f85d9c72e520f96bbcff6d9734a5; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/; secure; HttpOnly, wc_session_ids[multi][0]=5053ac14a64be87ab166948d022a217a077476f2; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/, wc_session_ids[multi][1]=f6a6b90cddb82fb8cc62bc15cb8e4bfe672d4369; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/, wc_session_ids[multi][2]=f695125aae9eef0859fc1918fac1a8c93841a69b; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/, wc_session_ids[multi][3]=1441b710efcd3db879c010f22b2ddf64c1180345; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/, wc_session_ids[multi][4]=74c0500df64a2f035a231b86ad03d8eed9a0ac12; expires=Thu, 15 May 2025 21:19:54 GMT; Max-Age=500; path=/ies.cardenalcisnero.alcala/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33651"
+   }
+}

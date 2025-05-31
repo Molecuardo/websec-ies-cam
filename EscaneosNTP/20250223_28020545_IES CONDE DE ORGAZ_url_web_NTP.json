@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.condedeorgaz.madrid",
+   "delta_sg": 0.014398,
+   "cabeceras": {
+      "Date": "Sun, 23 Feb 2025 10:07:16 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.condedeorgaz.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.condedeorgaz.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.condedeorgaz.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e375100465ccee37bff936a71dc669759ed6bfae; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=78a674835f582f90d6ac66d7ac191c680ed775a0; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=68294704066be4d04604e1d0b29b417b6ea65985; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/, wc_session_ids[multi][1]=6f71810ad3aa298383653381818ae7f0a48fef8f; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/, wc_session_ids[multi][2]=7a0d69dfc59fd9661826d2da348fbdb57321a393; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/, wc_session_ids[multi][3]=b29048a2fbe59234c46d9ae18e51bd75b13feb64; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/, wc_session_ids[multi][4]=02217e4e5c026fe944c5aae495e783e37a9c3c39; expires=Sun, 23 Feb 2025 10:15:36 GMT; Max-Age=500; path=/ies.condedeorgaz.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "25571"
+   }
+}

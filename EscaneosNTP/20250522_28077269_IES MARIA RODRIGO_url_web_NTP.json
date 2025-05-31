@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.mariarodrigo.madrid",
+   "delta_sg": -0.103335,
+   "cabeceras": {
+      "Date": "Thu, 22 May 2025 21:20:02 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.mariarodrigo.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.mariarodrigo.madrid/index.php/wp-json/wp/v2/pages/117>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.mariarodrigo.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ffdc54ac4538d33fbfc7869eb2df9820c6904b8b; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=c622d855e535d68a02800dab45fee95fa028c25e; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=5bd8f01e419801ffee1c8e03bdb61aeb4f4b963a; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/, wc_session_ids[multi][1]=06a62f0e901b636fb50455d5ed68fb9e92ea9eb2; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/, wc_session_ids[multi][2]=9189b5b0a82d01d704208439d668fd44f5605300; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/, wc_session_ids[multi][3]=f732d73a316728cc2554fe8058f0d61f4a3ed89d; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/, wc_session_ids[multi][4]=65d22ebe9e87a4802d6eabd4fe872e381c2dccee; expires=Thu, 22 May 2025 21:28:22 GMT; Max-Age=500; path=/ies.mariarodrigo.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "46966"
+   }
+}

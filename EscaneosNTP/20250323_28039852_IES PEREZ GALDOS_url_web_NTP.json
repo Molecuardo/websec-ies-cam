@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.perezgaldos.madrid",
+   "delta_sg": -0.567928,
+   "cabeceras": {
+      "Date": "Sun, 23 Mar 2025 12:10:15 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=B1F21F48045CE778C1D8B613779BF653.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 23-Mar-2026 12:10:14 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 23-Mar-2026 12:10:14 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": -0.21435,
+   "cabeceras": {
+      "Date": "Mon, 17 Mar 2025 20:26:53 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cbbe7ca261337846b05a5ecc3ff841599c97c95e; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=f03fb391317cfed60a3cb75c0cf99f0c80bfb816; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=ea334090d1b19aa24bd0b0838b14296e50078108; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=62882f28885d1d6fe3591f651e0072fdd0033527; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=2710944e75da0af35a78846c4bff468ca0e04c6a; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=cab062efb07122f6dd8d0f0d4e5bb2847c3a3f40; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=22ee830f8b62da890b007e13d6e2370732d7100c; expires=Mon, 17 Mar 2025 20:35:13 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52477"
+   }
+}

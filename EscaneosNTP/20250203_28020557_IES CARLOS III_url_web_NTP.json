@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.carlostercero.madrid",
+   "delta_sg": -0.770703,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:21:35 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.carlostercero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.carlostercero.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.carlostercero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c7bb2c44893886f2a18623d29dc34ee6e7d7a537; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=f9b8158f6a27636fbd2c8dadf29e70106e6c5f92; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=bdcd2c2ec693f45fdb745e5374085b63b9d9d183; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/, wc_session_ids[multi][1]=dc3e2e222324fa31e2a8b3c0845c34a5c18a4099; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/, wc_session_ids[multi][2]=5f8548969a68e3cba48ae9c2bf2cb33795cad1a2; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/, wc_session_ids[multi][3]=af5def4b4162af66e4165c3d72cb83f219c5db8b; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/, wc_session_ids[multi][4]=e9c48d3d929bd57fa2ffe1e091cbc24c944197bf; expires=Mon, 03 Feb 2025 13:29:55 GMT; Max-Age=500; path=/ies.carlostercero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "39389"
+   }
+}

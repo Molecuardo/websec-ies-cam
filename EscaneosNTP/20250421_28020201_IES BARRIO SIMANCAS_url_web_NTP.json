@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.barriosimancas.madrid",
+   "delta_sg": 0.37642,
+   "cabeceras": {
+      "Date": "Mon, 21 Apr 2025 11:07:49 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.barriosimancas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.barriosimancas.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.barriosimancas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=83ce4f72ec4680fc933d464851c40873df5e8c4c; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=a1d4f0db86c45dc1ab6dd44211c48d015f867c54; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=de50fb64d03bc1b02375fb93cbb03eaa37f0017a; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][1]=0c3d523b11132756b0b8ba8df0858f7fa6a3aab6; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][2]=fa25dc6da6c62c434c6eaa8cfddf09581c3ec666; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][3]=852dc2f927939009af44b0f263924ee44dad83ae; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][4]=7d5854b0ba60c3093b7865f6ef5d6a6752d6d3af; expires=Mon, 21 Apr 2025 11:16:09 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "31769"
+   }
+}

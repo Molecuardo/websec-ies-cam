@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.emiliocastelar.madrid",
+   "delta_sg": 0.873366,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:14:43 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=8B00BB5D5C315D8B32C64566B8AB68A4.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 05-Mar-2026 15:14:43 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 05-Mar-2026 15:14:43 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

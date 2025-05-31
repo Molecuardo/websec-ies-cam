@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": -0.137292,
+   "cabeceras": {
+      "Date": "Tue, 29 Apr 2025 13:10:05 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a1605e0b01f1b6a0472a539b2a18e97804576c83; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1f395319e3c28bbc4054cb6923cc41f500b9ad1d; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=604d806f6af433f9e13045294d433a924344239b; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=c4e36b3bb7275fe96fe6d5f7ca7a6174b797ec53; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=da624697fc1ba87daa5455ea76c231d5a0ed486c; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=02e74bc344e207fef8f8161ae4efc555c661184d; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=ecaac4c766132a2deea0e543617829fac79c00f8; expires=Tue, 29 Apr 2025 13:18:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "50429"
+   }
+}

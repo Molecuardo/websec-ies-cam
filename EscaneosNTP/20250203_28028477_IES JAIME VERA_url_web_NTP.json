@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jaimevera.madrid",
+   "delta_sg": 62.703579,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:46:11 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "3768",
+      "Set-Cookie": "JSESSIONID=FE6882891E96FEF880FBC71391D3B73D.worker3; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8"
+   }
+}

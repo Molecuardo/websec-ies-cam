@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.401444,
+   "cabeceras": {
+      "Date": "Sun, 25 May 2025 21:12:04 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9bd2b1f8aa1d25f1df9a348d38533a0822b66d44; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=75be47dd82d67d31aad9669dfce0455b921ef628; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=fd98c11d216946bb3680c7c3a9cc38ae288c1005; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=39608293a864a87974148fc208047b5df2d509bf; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=db4916d105ef707d4f3fdcb47e1afd8350274c24; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=cd132a08e884de6b109bf1411e94d4b53dbc240a; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=304a84c2f47f96ce36400355d98cc5661a83b31f; expires=Sun, 25 May 2025 21:20:24 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38200"
+   }
+}

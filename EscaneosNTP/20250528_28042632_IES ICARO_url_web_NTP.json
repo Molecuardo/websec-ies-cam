@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.icaro.getafe/",
+   "delta_sg": 0.069964,
+   "cabeceras": {
+      "Date": "Wed, 28 May 2025 19:24:22 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/wp/v2/pages/447>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.icaro.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9fc2727740f1f9ece0885c0b0598eba5a708b42e; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=2cd597f79b762c92f794893da6be9a3146d679a0; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=d82d8457d18b4e6b6aff885192add0d4bf33ad0c; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][1]=a44383f2c8d3a4a6795aea6b89299d12374f7b4c; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][2]=f73cdc147955275395bb766806c8ab2ef0ce8872; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][3]=7fccb077b4243bb94c9656e07e43d815b3826b5f; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][4]=8ffd6359d200069ed54e469b3f75f2f14aba43e3; expires=Wed, 28 May 2025 19:32:42 GMT; Max-Age=500; path=/ies.icaro.getafe/, cookiesession1=678B2869C548984219DABFFBFACF5213;Expires=Thu, 28 May 2026 19:24:21 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29959"
+   }
+}

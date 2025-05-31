@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.blancafdezochoa.madrid",
+   "delta_sg": -0.2143,
+   "cabeceras": {
+      "Date": "Sun, 23 Feb 2025 10:27:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.blancafdezochoa.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.blancafdezochoa.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.blancafdezochoa.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cf53f81a61b460558e4e710dc6313746f5c9765c; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=0163e835c4b8133616919cdc06da348acb442841; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=20863df38bf08272d34f6be36ec511b446af6a7e; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][1]=54aca8f8aff0926d4de27e0a2d479e021eae03ed; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][2]=7bc28ee06c1099e531300a4312299a498e8a73a7; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][3]=c1eaeecdaf833e8e6852c679d4249da6654605f3; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][4]=9b87b4b73cfc97045c4799515d92b378ccaca167; expires=Sun, 23 Feb 2025 10:35:50 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26279"
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sanjuanbautista.madrid",
+   "delta_sg": -0.783109,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:45:06 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=66640E0175817198F8AD2A39B658A73E.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Feb-2026 13:45:06 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Feb-2026 13:45:06 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.menendezpelayo.getafe",
+   "delta_sg": 7200.507965,
+   "cabeceras": {
+      "Date": "Sat, 12 Apr 2025 22:05:09 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=398EB50442F4D20520EFEC1B5B56A587.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 12-Apr-2026 22:05:08 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 12-Apr-2026 22:05:08 GMT; Path=/; HttpOnly, UqZBpD3n=v1P9CGSQ__hTU; Expires=Sun, 13-Apr-2025 10:05:09 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

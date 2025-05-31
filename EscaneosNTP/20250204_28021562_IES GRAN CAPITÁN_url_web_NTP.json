@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.grancapitan.madrid",
+   "delta_sg": -2.480957,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 08:09:02 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=36DB2F5742658E5E5D0EE388CE037BAD.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 04-Feb-2026 08:09:03 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 04-Feb-2026 08:09:03 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

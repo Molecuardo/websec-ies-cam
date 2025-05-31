@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.fortuny.madrid",
+   "delta_sg": -0.953266,
+   "cabeceras": {
+      "Date": "Tue, 25 Mar 2025 22:29:21 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "44342",
+      "Set-Cookie": "JSESSIONID=BC644DB26AD455AA6F4585753C1D3F25.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 25-Mar-2026 22:29:21 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 25-Mar-2026 22:29:21 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

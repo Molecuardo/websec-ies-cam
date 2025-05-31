@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.anafrank.madrid/",
+   "delta_sg": 0.770061,
+   "cabeceras": {
+      "Date": "Thu, 15 May 2025 21:16:50 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.anafrank.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.anafrank.madrid/index.php/wp-json/wp/v2/pages/1711>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.anafrank.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=d89b833fd755ac5bd16bc4e1a205a8011b1b002d; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=27a446a139080789434eee17f15cd6438b97271a; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=4fc6f875068faaf346cfd673f634810a0ff26f2f; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/, wc_session_ids[multi][1]=000b07fc379a1fae2210906ba0d3d6f443e38da7; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/, wc_session_ids[multi][2]=6dd6767972f32dfa771980ad92e45c38429f83e2; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/, wc_session_ids[multi][3]=4bce3bf0a48e9e715863b25b36bd55747174211b; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/, wc_session_ids[multi][4]=68ae02ce90c9df44bad3aba19f29cfb6c2a079b9; expires=Thu, 15 May 2025 21:25:10 GMT; Max-Age=500; path=/ies.anafrank.madrid/, cookiesession1=678B28697F1195065F947C33B7CF7E10;Expires=Fri, 15 May 2026 21:16:50 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "35455"
+   }
+}

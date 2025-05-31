@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": -10.993676,
+   "cabeceras": {
+      "Date": "Fri, 30 May 2025 23:30:35 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3886bbcb95743a6ef3686e6843ce37bff27402b5; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1337d8c1e1dab488b513b704e76c65f6bbd3feb5; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=d7b7debd3d5f554848c9d9b7854f84825365a710; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=4e68f7a745d1b2099e3d76b4eb12768a23a53494; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=82682be8a83553252cf91f5d92e88c475c86d03a; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=6695d53c729ee2617d2464494b99edb438044bf3; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=7a313ca890160073c9f5ca3148ec31e3a13ef853; expires=Fri, 30 May 2025 23:38:55 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33958"
+   }
+}

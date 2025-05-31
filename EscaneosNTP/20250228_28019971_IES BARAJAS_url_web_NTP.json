@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.barajas.madrid",
+   "delta_sg": 1.955271,
+   "cabeceras": {
+      "Date": "Fri, 28 Feb 2025 17:23:41 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.barajas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.barajas.madrid/index.php/wp-json/wp/v2/pages/180>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.barajas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=4e00eb44e81abd88ff969a6c69c20fb8b3a1688b; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b04cf7bf7bd9dadb84cb29b8e0e9ccebcffdd7d6; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e8103b1b12fa2812521a2425207ae3b45723089c; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/, wc_session_ids[multi][1]=ad906e0d536eed456d3d5041832dd5879e86eca7; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/, wc_session_ids[multi][2]=acc654d1eca46ced4dee6c961c412356271714d6; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/, wc_session_ids[multi][3]=852bcd5b2cbf951663d8cab0b01d75c5444d174c; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/, wc_session_ids[multi][4]=fcbcaa7b228396b3aab155e5fbee3b442201ef06; expires=Fri, 28 Feb 2025 17:32:01 GMT; Max-Age=500; path=/ies.barajas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "53745"
+   }
+}

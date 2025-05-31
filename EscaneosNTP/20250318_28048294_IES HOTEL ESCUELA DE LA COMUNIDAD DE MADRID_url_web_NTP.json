@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
+   "delta_sg": -0.555108,
+   "cabeceras": {
+      "Date": "Tue, 18 Mar 2025 19:47:34 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.hotelescuela.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.hotelescuela.madrid/index.php/wp-json/wp/v2/pages/6023>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.hotelescuela.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=01c21dfa9e829196dd5479c7452fe8a977ad741f; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=ce9c19fb8c0d5e089499e4830e6c9d940756c23f; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=267ffbe8d071ecdda5c98003c0bd82c6689878d8; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/, wc_session_ids[multi][1]=d5b63c9f21b9dfa32559699f24c67770f382beca; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/, wc_session_ids[multi][2]=f26174d4452fbe7648af3b0be2cf064483d35470; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/, wc_session_ids[multi][3]=d1b2499897155b9c236edd18d4a65686c8987dd2; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/, wc_session_ids[multi][4]=8ffd8436b2ff0392271c17e3af4934b056c32d69; expires=Tue, 18 Mar 2025 19:55:55 GMT; Max-Age=500; path=/ies.hotelescuela.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "22655"
+   }
+}

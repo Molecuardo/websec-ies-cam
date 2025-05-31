@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elisasorianofischer.getafe",
+   "delta_sg": 0.625778,
+   "cabeceras": {
+      "Date": "Thu, 03 Apr 2025 21:35:45 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elisasorianofischer.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elisasorianofischer.getafe/index.php/wp-json/wp/v2/pages/108>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elisasorianofischer.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=8956e3ea101197fd969d3c610e1a9670cb4c177a; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=6e6605b9126676942f2cea11a96d404adb328bb5; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=80987e4938d1cd84723506a65b6bf99f26de7cb6; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][1]=6a22ff3a199a47f6276069f88654f8e5444653ea; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][2]=a359373483255d69651267146e50b78d7a904732; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][3]=830750b36e5083d406734e07d41d93f1397b3b94; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][4]=5eebf3f0a21cfdd58ccb42f2c594f556db1ee0a9; expires=Thu, 03 Apr 2025 21:44:05 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "25688"
+   }
+}

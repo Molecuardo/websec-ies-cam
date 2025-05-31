@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": -0.323529,
+   "cabeceras": {
+      "Date": "Tue, 22 Apr 2025 21:23:26 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2aebf9599844401e9c652d4d488b035982f94a54; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=005cbc50d3396432817ef30048184cc3938a8c24; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0438afa30977a20d29a0ad7e3d8cd0947703dbad; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=ce2d2741582a0913ebea424e0785adcc86784585; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=f093eaec0555a161a3385091809d34b74ce103a4; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=cfaaed6b4d2249f42eb8bc0fbdda77c1187ecadf; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=57d210dcd6cdc4b935d18cf756be8b1fd4a15675; expires=Tue, 22 Apr 2025 21:31:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29299"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.manueldefalla.coslada",
+   "delta_sg": 7199.959858,
+   "cabeceras": {
+      "Date": "Wed, 09 Apr 2025 21:28:53 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=340C5BD7C8ED9C7155CF5696A2CE4406.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 09-Apr-2026 21:28:53 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 09-Apr-2026 21:28:53 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

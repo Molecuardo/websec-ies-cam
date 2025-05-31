@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.churriguera.leganes",
+   "delta_sg": -0.711779,
+   "cabeceras": {
+      "Date": "Mon, 17 Mar 2025 20:25:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.churriguera.leganes/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.churriguera.leganes/index.php/wp-json/wp/v2/pages/90>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.churriguera.leganes/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=37d0e46163cd1a0fd09afc081046d0a1ff8e8531; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/; secure; HttpOnly, wc_session_ids[all_forms]=494395d5022d1b43cfecfa714ae9604292000636; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/; secure; HttpOnly, wc_session_ids[multi][0]=48a5e7996bbd41d47e56b2c5c1b53a5aa15bfab1; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/, wc_session_ids[multi][1]=efef5c4568833dd18b9a72caeb41568b8eaf158e; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/, wc_session_ids[multi][2]=0d20713127d9bbb04a678c87c6ff02de12a58112; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/, wc_session_ids[multi][3]=8d0058020f1708a5b81eeb760ebd8f4e8fe45a99; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/, wc_session_ids[multi][4]=cd54bbf38640140e3e1269ed317372bfe8febc8b; expires=Mon, 17 Mar 2025 20:34:07 GMT; Max-Age=500; path=/ies.churriguera.leganes/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28821"
+   }
+}

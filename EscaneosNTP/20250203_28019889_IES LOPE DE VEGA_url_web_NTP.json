@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lopedevega.madrid",
+   "delta_sg": -0.793787,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:21:29 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=FB599832E018434AF5C0D7A53B91C8E3.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Feb-2026 13:21:29 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Feb-2026 13:21:29 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

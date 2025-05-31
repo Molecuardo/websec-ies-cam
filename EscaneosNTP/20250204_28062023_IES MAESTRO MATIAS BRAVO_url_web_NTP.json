@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maestromatiasbravo.valdemoro",
+   "delta_sg": -1.206028,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 08:39:46 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=2815EEA0695110C9137656425876276B.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 04-Feb-2026 08:39:46 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 04-Feb-2026 08:39:46 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

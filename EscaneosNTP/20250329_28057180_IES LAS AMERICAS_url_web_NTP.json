@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lasamericas.parla",
+   "delta_sg": -0.123149,
+   "cabeceras": {
+      "Date": "Sat, 29 Mar 2025 17:58:59 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.lasamericas.parla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.lasamericas.parla/index.php/wp-json/wp/v2/pages/148>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.lasamericas.parla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fd28569e0baa45370ed55e1b556f9bb65d8be902; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/; secure; HttpOnly, wc_session_ids[all_forms]=adc5174f1c217ab59c2e5b47e7b628e0fa5203f1; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/; secure; HttpOnly, wc_session_ids[multi][0]=8795a1576d630c5f52823ebda570025a55814b77; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/, wc_session_ids[multi][1]=9655febb9d7ae1d2a36226b5dbb5b876c30ce00f; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/, wc_session_ids[multi][2]=a44e6b7c9e43639f9223eaf01fd809b294af2771; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/, wc_session_ids[multi][3]=ebf3b8da805613a05c105a3b479abba00aa10589; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/, wc_session_ids[multi][4]=9ae83744445b872280af1d2bf62990b03b737561; expires=Sat, 29 Mar 2025 18:07:19 GMT; Max-Age=500; path=/ies.lasamericas.parla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30801"
+   }
+}

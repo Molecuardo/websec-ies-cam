@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.juancarlosprimero.ciempozuelos",
+   "delta_sg": 0.526297,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:20:57 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=5AEB7FF405305EFAB01D1F76BFEA0869.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Feb-2026 13:20:55 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Feb-2026 13:20:55 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

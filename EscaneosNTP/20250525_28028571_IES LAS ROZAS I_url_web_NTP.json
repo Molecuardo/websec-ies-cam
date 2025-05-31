@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.uno.lasrozas",
+   "delta_sg": 0.418916,
+   "cabeceras": {
+      "Date": "Sun, 25 May 2025 21:12:15 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.uno.lasrozas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.uno.lasrozas/index.php/wp-json/wp/v2/pages/9694>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.uno.lasrozas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2dc5782559191917fa4d76a7d8691686a81107fd; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/; secure; HttpOnly, wc_session_ids[all_forms]=f4bcc52d03822932ec5e3d3d08064e8ede7489c4; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/; secure; HttpOnly, wc_session_ids[multi][0]=7c142d4b077f25f609e52c55f51184d9fb3be343; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/, wc_session_ids[multi][1]=2767bd198080881a94acf6625acee7e48804aba2; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/, wc_session_ids[multi][2]=bf56c9cd6a0a3f99f572c778ce758d1d9e7c73bd; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/, wc_session_ids[multi][3]=07ff75ac5da4028b7fda389d8b18d4946befcc49; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/, wc_session_ids[multi][4]=973f86bf9393079a63dbd4ef484db548c9aa4c56; expires=Sun, 25 May 2025 21:20:35 GMT; Max-Age=500; path=/ies.uno.lasrozas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29773"
+   }
+}

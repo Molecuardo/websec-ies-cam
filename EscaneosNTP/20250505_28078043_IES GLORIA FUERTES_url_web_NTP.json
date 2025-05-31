@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://site.educa.madrid.org/ies.gloriafuertes.alcobendas/",
+   "delta_sg": 0.332375,
+   "cabeceras": {
+      "Date": "Mon, 05 May 2025 20:30:48 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/index.php/wp-json/wp/v2/pages/552>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fe40c6379637c8e3fcb8a8dc651e76f337e1d99d; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/; secure; HttpOnly, wc_session_ids[all_forms]=240be2e39abc03b81135f1d193e0d7c745a8017e; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/; secure; HttpOnly, wc_session_ids[multi][0]=a3b3f52504a63ec84419cf498930f7c175fa1d4b; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][1]=471ea188c216c71bc6ccfddb874c14cc9c746cd2; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][2]=4c0300ee11be92cbb6e8c42232401146d7ab4923; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][3]=8618d7b2784117e2e56c64a8271954011e788d51; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][4]=ce141861f0104b9249afd7454b777244efdbb612; expires=Mon, 05 May 2025 20:39:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26877"
+   }
+}

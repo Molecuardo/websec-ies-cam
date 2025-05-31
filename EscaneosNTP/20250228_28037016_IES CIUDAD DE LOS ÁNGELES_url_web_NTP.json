@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid",
+   "delta_sg": 0.583479,
+   "cabeceras": {
+      "Date": "Fri, 28 Feb 2025 17:34:50 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cb7fb5f350989d7cfe0bda2f20a886efde3f9978; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8b3c967932e11f0da1bd79ad1983298eb7e639c4; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=97e112783daedd982d93426929de2d7b1f7fe9b1; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][1]=884de0f38bed8c24fb84ab8ab9d2be3cf625ed98; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][2]=1fa149f4983da0e5244199d93ab7888dd9e3f9cb; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][3]=6fa18d012ab867769787a7ba67b8f9e007b57ee6; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][4]=90a78b92baecd6d0e9083f587d80fa5747bebf22; expires=Fri, 28 Feb 2025 17:43:10 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29806"
+   }
+}

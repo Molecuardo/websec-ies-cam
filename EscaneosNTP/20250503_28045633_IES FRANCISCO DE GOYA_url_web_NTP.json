@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.goya.madrid",
+   "delta_sg": 0.726591,
+   "cabeceras": {
+      "Date": "Sat, 03 May 2025 16:47:27 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.goya.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.goya.madrid/index.php/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.goya.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fceb69d1745147ed84972e276884dd15dcf8f3da; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=6a4c05c3589e959d5b0eb3355d19b858eb6cbcf0; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=6b40efdd9a49e41a9c9aae515beafe0ccc3e1887; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/, wc_session_ids[multi][1]=b55abf6ab4df9354cb3860e024571e2dc22a0cd4; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/, wc_session_ids[multi][2]=005f21ce06fb93e069b2ef3192dcfb7744c92b84; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/, wc_session_ids[multi][3]=73af0ed4a988142497dedd356d358a77a2dac6ca; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/, wc_session_ids[multi][4]=3c7269b6f6acc8f211b88630d7b976a5b056da0b; expires=Sat, 03 May 2025 16:55:47 GMT; Max-Age=500; path=/ies.goya.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30147"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.704266,
+   "cabeceras": {
+      "Date": "Wed, 19 Mar 2025 20:25:46 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c6547a813348302f16ea64a1b5db5c7d1b60013f; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=4ab96a36d439d3754b019e8b01f730de8e5dd1e7; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=333dc749218ca0ff81135addb40634efe4770ca8; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=337f3e4c251d464d7af65f4e0aafdb09da5ad186; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=f73e0bb8ee574dc0ee4a9aaa482130c86d9f80cb; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=7c8d2fe8607a981e6ed18be6f196f1b68e116bb0; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=532a06a1a9a8b139421e2b3fe3d277e3f4b5117c; expires=Wed, 19 Mar 2025 20:34:06 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28740"
+   }
+}

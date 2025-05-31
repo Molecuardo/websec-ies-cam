@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.neilarmstrong.valdemoro",
+   "delta_sg": -0.125237,
+   "cabeceras": {
+      "Date": "Mon, 17 Mar 2025 20:47:05 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.neilarmstrong.valdemoro/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=30147d227090be5e2b0d745890cf3d381998e92e; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/; secure; HttpOnly, wc_session_ids[all_forms]=f418e9f1526fd141ef58644a0761021a9b71095b; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/; secure; HttpOnly, wc_session_ids[multi][0]=7aaeec2075d243f5d6413b479bd3fad6cb92a3c6; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/, wc_session_ids[multi][1]=c2a33dc44a5844d54805fd5c44b74b9885cde911; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/, wc_session_ids[multi][2]=c02b8d0ba431e945f17e2a040151559537e72fb0; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/, wc_session_ids[multi][3]=75d3f66f278945364e1feca997987d40e86e7e74; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/, wc_session_ids[multi][4]=e16c6fcd0001c908326ea54af8d28c65d6be0d5c; expires=Mon, 17 Mar 2025 20:55:25 GMT; Max-Age=500; path=/ies.neilarmstrong.valdemoro/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "36024"
+   }
+}

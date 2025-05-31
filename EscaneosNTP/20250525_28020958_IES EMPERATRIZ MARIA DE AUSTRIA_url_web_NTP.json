@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.emperatrizmaria.madrid",
+   "delta_sg": -0.123313,
+   "cabeceras": {
+      "Date": "Sun, 25 May 2025 21:11:18 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.emperatrizmaria.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.emperatrizmaria.madrid/index.php/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.emperatrizmaria.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5a9b0cd799cd95201b92011ecaac417a17e204bd; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b4237f9a85c96725bc42d19a0b1be976350ba79a; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0c8e33a09b4cb08c2537680492bdfc011af4f306; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][1]=4b75aa0f025a2cd6fbcf707a65cd6cde56903644; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][2]=4ffa4a601aaa332a46265dde433321cb1474f424; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][3]=9391345ca24a191e1b16c82b705f80f5c08e58db; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/, wc_session_ids[multi][4]=7660a4aa9a45af3e3fa30fa1ad8226f398be26a2; expires=Sun, 25 May 2025 21:19:38 GMT; Max-Age=500; path=/ies.emperatrizmaria.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "34187"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.janegoodall.madrid",
+   "delta_sg": 0.032797,
+   "cabeceras": {
+      "Date": "Wed, 23 Apr 2025 15:00:26 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.janegoodall.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.janegoodall.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.janegoodall.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=dff3f2db631c4e0a3e7955e07ae97ecc7893674e; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=dedb0a09c42bdb007ee85c969dd27570d70ae7fb; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2d2396d10a59332f430395062b8869cc11b24070; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/, wc_session_ids[multi][1]=65d3e71a4188a14b9e83dff9886d241f9858f055; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/, wc_session_ids[multi][2]=dbee41fea1a9767d929b1a4ccad78a4342c41326; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/, wc_session_ids[multi][3]=cffa5856425f7e448e7bfc001e5d11e97b0f966d; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/, wc_session_ids[multi][4]=1c48a9bedd6ef321cd9074cf3e9a6ab0246ee079; expires=Wed, 23 Apr 2025 15:08:46 GMT; Max-Age=500; path=/ies.janegoodall.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "16645"
+   }
+}

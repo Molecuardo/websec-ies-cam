@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sanagustin.sanagustin",
+   "delta_sg": -0.084325,
+   "cabeceras": {
+      "Date": "Sat, 22 Feb 2025 19:32:34 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "44368",
+      "Set-Cookie": "JSESSIONID=AE236A7A1CBA0EA4C5938436E4C45484.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 22-Feb-2026 19:32:34 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 22-Feb-2026 19:32:34 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

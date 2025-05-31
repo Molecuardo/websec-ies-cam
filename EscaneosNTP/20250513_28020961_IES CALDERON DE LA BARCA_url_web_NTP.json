@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.calderondelabar.madrid",
+   "delta_sg": 0.101552,
+   "cabeceras": {
+      "Date": "Tue, 13 May 2025 20:30:10 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/wp/v2/pages/3943>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e1970c9d2687278ddc48ff70de5a0314ab8fee0e; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=950b7b29cf919b5dc0a7bf88d4b6cdcf799f03b3; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=5391d6dbd9f18ac8762cf457a5170c3f17a92fc9; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][1]=d700c3a3bc164cb88ce992251dacfc155ea66f57; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][2]=92384aee8d7b28515f6fbcee89ed17d2ec052ae5; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][3]=22c17f8e656903bc9ebbb34c8061b54d97d73cfd; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][4]=531bf9fe8b18933fd6c76295402de33d883c9787; expires=Tue, 13 May 2025 20:38:30 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "43236"
+   }
+}

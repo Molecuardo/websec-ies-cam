@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.migueldelibes.torrejondelacalzada",
+   "delta_sg": 0.065316,
+   "cabeceras": {
+      "Date": "Thu, 06 Mar 2025 15:18:15 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.migueldelibes.torrejondelacalzada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.migueldelibes.torrejondelacalzada/index.php/wp-json/wp/v2/pages/339>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.migueldelibes.torrejondelacalzada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0a6add753b474919d2c24e95eff80a776d9bb5a0; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/; secure; HttpOnly, wc_session_ids[all_forms]=854ca684c391a7368c9eec9a516ddadd4f6facbc; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/; secure; HttpOnly, wc_session_ids[multi][0]=f398d4e9f0e8d1cd53ea8fb39c52d9c635eb4b6a; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/, wc_session_ids[multi][1]=a3a9f56ae3500cb79ce2d56f2a3c4b5aae4dafcc; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/, wc_session_ids[multi][2]=7b4f9423d601d52b4fe70ad56de0736e2e942d0d; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/, wc_session_ids[multi][3]=12d16dad22ccdce99b26f318fce52835893ddc7a; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/, wc_session_ids[multi][4]=538ad26e52f7ed4297da8db6e741a2008c39b7fb; expires=Thu, 06 Mar 2025 15:26:35 GMT; Max-Age=500; path=/ies.migueldelibes.torrejondelacalzada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28685"
+   }
+}

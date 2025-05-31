@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": 1.20453,
+   "cabeceras": {
+      "Date": "Mon, 26 May 2025 19:59:15 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cacc8d63316306324aa504629c831af3499428f0; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e8baba067cd9ee5d7a53ab0e957c680ad96428fb; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=fe047a7b5572d27f2dd2589b4097e303a8bbf047; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=25d51bfd615984d82cb4147eb0ff3ea672da24bf; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=5f2afcd932ba88924b9d61039ef7cbbdef28b40e; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=817436cc4e3997b0120522fa16d2bdb1ffc3acc9; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=cc20cd61159b8b0d37637bad95768825212525a8; expires=Mon, 26 May 2025 20:07:35 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33961"
+   }
+}

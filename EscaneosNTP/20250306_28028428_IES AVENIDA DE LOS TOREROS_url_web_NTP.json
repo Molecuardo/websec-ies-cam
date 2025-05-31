@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": -0.317642,
+   "cabeceras": {
+      "Date": "Thu, 06 Mar 2025 15:04:05 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a421bbba3c6f618f9a8cec80665fdec7db1554a8; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=4a1a93bf30d43ff905610880efa99beca02e67da; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=9bbee3ccd94579208afed82523515704533368e3; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=ff9075ab53d1a63df234e227731813943c775dfe; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=c3c9b65c68d4e9307595fbe8cf5d21f2f5908677; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=46b4907680f7ecdaa99e312cf003aa1e55513875; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=60bb0c5d14f4e807c67c7fff666bb59178f23fd1; expires=Thu, 06 Mar 2025 15:12:25 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49346"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 7200.87568,
+   "cabeceras": {
+      "Date": "Thu, 10 Apr 2025 20:26:27 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3d27bf8f8788c35aa8d72618b52827c7dfe0969b; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=058e0c4937ada9fd211895dc278c2690f202c2f6; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=fc003e26a55c51e5cc2873bfe04dbd71644ae3a4; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=d0894d06b3485b16962ad086a5a582f228405875; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=ca98ba4c3b1de1971b3d36d8e6499fbc87eff082; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=2db373dcfbaba19d918b25759a15978d3f4f0876; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=8ee9b321b20df6a47a21fbcc795f58673b541f4e; expires=Thu, 10 Apr 2025 20:34:47 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29300"
+   }
+}

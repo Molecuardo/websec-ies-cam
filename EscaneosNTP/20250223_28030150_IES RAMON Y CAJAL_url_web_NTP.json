@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ramonycajal.madrid",
+   "delta_sg": 2.313349,
+   "cabeceras": {
+      "Date": "Sun, 23 Feb 2025 10:13:58 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=87D400A4DA7CD42B705BEB5FD62B82D7.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 23-Feb-2026 10:13:55 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 23-Feb-2026 10:13:55 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

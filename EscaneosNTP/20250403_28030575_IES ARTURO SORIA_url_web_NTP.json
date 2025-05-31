@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.arturosoria.madrid",
+   "delta_sg": 1.243904,
+   "cabeceras": {
+      "Date": "Thu, 03 Apr 2025 21:27:41 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=DFF8C5560072B32BB3531FD1C330DC7D.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 03-Apr-2026 21:27:40 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 03-Apr-2026 21:27:40 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

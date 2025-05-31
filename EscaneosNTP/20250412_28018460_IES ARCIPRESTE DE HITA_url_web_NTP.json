@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.arciprestedehita.madrid",
+   "delta_sg": 7208.264069,
+   "cabeceras": {
+      "Date": "Sat, 12 Apr 2025 21:53:50 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=490F702D80704A546D7A02A3FD4FA1DC.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 12-Apr-2026 21:53:48 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 12-Apr-2026 21:53:48 GMT; Path=/; HttpOnly, UqZBpD3n=v1ANCGSQ__1MP; Expires=Sun, 13-Apr-2025 09:53:43 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

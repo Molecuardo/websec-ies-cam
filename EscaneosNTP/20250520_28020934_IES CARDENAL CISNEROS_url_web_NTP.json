@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.879326,
+   "cabeceras": {
+      "Date": "Tue, 20 May 2025 21:01:44 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1f74550d7b01a6aa365e1a6674c534687702aee5; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8add678f159abd392fdf8deca0552a4fe1c725f5; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=eab8cfd3b51c1d58352f50cc167505e99339f25f; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=06199eb7a5875257454ee39643fee624ddca46d3; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=b372bb998ee42da7c28035a32c1bff20ff963486; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=469ac97b3f746d41d231134ce50464d1ab309b26; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=0ea2ab98c3240c5dcb4f9c071f4b21444c09d111; expires=Tue, 20 May 2025 21:10:04 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52600"
+   }
+}

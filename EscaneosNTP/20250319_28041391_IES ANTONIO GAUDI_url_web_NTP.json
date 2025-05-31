@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antoniogaudi.coslada",
+   "delta_sg": 0.0296,
+   "cabeceras": {
+      "Date": "Wed, 19 Mar 2025 20:25:59 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.antoniogaudi.coslada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.antoniogaudi.coslada/index.php/wp-json/wp/v2/pages/224>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.antoniogaudi.coslada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=de30404c6db64f28d41c83eea19af0036b77a976; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/; secure; HttpOnly, wc_session_ids[all_forms]=68322a22bd023b44f0e8ae4c051696f2c847d46c; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/; secure; HttpOnly, wc_session_ids[multi][0]=af6c87c057702b3585c9e7b2168a6cb949f90111; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/, wc_session_ids[multi][1]=85df652e1aec21340f822e63bbe274c81ba98dcf; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/, wc_session_ids[multi][2]=658089f78a20fc0c5e7736bea2fd459e377ad78d; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/, wc_session_ids[multi][3]=3d522fbf762348f2948577717919f07ac748b202; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/, wc_session_ids[multi][4]=017a98f75fde87a2cb42768e3ae421f27f4f7657; expires=Wed, 19 Mar 2025 20:34:19 GMT; Max-Age=500; path=/ies.antoniogaudi.coslada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "24813"
+   }
+}

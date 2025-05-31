@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antoniogala.mostoles",
+   "delta_sg": 94.278199,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 08:15:29 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "3768",
+      "Set-Cookie": "JSESSIONID=717069DBCC923F85EDDA4758CE5EDD0D.worker3; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8"
+   }
+}

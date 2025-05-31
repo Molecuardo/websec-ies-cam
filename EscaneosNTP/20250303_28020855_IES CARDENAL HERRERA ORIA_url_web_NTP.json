@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalherrera.madrid",
+   "delta_sg": 0.321907,
+   "cabeceras": {
+      "Date": "Mon, 03 Mar 2025 21:17:45 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/wp/v2/pages/1046>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=38bdf18ed54910c16a3e931d4673e73d69d45498; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=27e3f79731ab491cd632d539240a843141939f3a; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3d2e70ab9a50331ac43f34540cd3c1090062b3bc; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][1]=17469b65a849ca449d3136ea59a415903922ee59; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][2]=bc6fadb2693ede74089525c2666235262993a3b8; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][3]=da71ee8be641712b790dbb9469042692daef95a0; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][4]=eab9af40f824d6a80a9f23a1c1477410d84f9b57; expires=Mon, 03 Mar 2025 21:26:05 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28224"
+   }
+}

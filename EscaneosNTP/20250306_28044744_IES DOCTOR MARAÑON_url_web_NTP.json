@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maranon.alcala",
+   "delta_sg": -0.331801,
+   "cabeceras": {
+      "Date": "Thu, 06 Mar 2025 15:16:27 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.maranon.alcala/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.maranon.alcala/index.php/wp-json/wp/v2/pages/531>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.maranon.alcala/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fc1a2336e8479992fc7da7c53e60155dd68372f1; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/; secure; HttpOnly, wc_session_ids[all_forms]=47e4a4b539e7d2b5bec61625fdfca1859880e5b4; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/; secure; HttpOnly, wc_session_ids[multi][0]=264d4157d85361e3468f1c28442e078c89a5cf69; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/, wc_session_ids[multi][1]=bd5ace4b4666f144b6db3433f6f369118ce3f403; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/, wc_session_ids[multi][2]=dbc34ee7f243462ecd5a799074087535132d62ce; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/, wc_session_ids[multi][3]=141a6863b3ed2945e47fe744eaebb32181e4c98d; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/, wc_session_ids[multi][4]=fe13817cf79384f1ddce75816c8889425f6e7152; expires=Thu, 06 Mar 2025 15:24:47 GMT; Max-Age=500; path=/ies.maranon.alcala/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "22817"
+   }
+}

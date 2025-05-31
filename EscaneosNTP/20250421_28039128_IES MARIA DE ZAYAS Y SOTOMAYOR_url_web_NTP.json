@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.mariadezayas.majadahonda",
+   "delta_sg": 0.0804,
+   "cabeceras": {
+      "Date": "Mon, 21 Apr 2025 11:11:57 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.mariadezayas.majadahonda/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.mariadezayas.majadahonda/index.php/wp-json/wp/v2/pages/29>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.mariadezayas.majadahonda/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a42d6ee7b668d0d491c31871cb7ecbb270dced68; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/; secure; HttpOnly, wc_session_ids[all_forms]=e80f662406dcd9c9060b3713d388ed53f79aa3bb; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/; secure; HttpOnly, wc_session_ids[multi][0]=2a968380470586d4559e88d02924e4e83a9036a8; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/, wc_session_ids[multi][1]=3b1c72cc4438c1675d4e7f6212d18702727f9e95; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/, wc_session_ids[multi][2]=0096cd6741bfae77a88769370de6907154b36c14; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/, wc_session_ids[multi][3]=715aff6621b416169e55108e50403900f9f466a5; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/, wc_session_ids[multi][4]=c8de68fc26924519fec2f16de80e4b1d220bcdd3; expires=Mon, 21 Apr 2025 11:20:17 GMT; Max-Age=500; path=/ies.mariadezayas.majadahonda/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "47473"
+   }
+}

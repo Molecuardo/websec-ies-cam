@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elisasorianofischer.getafe",
+   "delta_sg": 0.34335,
+   "cabeceras": {
+      "Date": "Sat, 05 Apr 2025 21:55:23 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elisasorianofischer.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elisasorianofischer.getafe/index.php/wp-json/wp/v2/pages/108>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elisasorianofischer.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c7f90f90ba585d7bad651802887f85423256917b; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=b64213927702fcd272178b48e2c469ffefef74c9; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=f3016422af62ea48aaa7b4912f774ece1d0da17a; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][1]=aa9f9e65e4aaf05e649c9d59e656263457c42785; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][2]=6ab3f3186380e5f43eb1ec62c9ae54a74871db6c; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][3]=c59d402fe796604762cbfdd851eb9fc731a6af24; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/, wc_session_ids[multi][4]=6dfb5808c57b3854bb19f1c70b332d1ef5504aca; expires=Sat, 05 Apr 2025 22:03:43 GMT; Max-Age=500; path=/ies.elisasorianofischer.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "25687"
+   }
+}

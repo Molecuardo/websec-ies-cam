@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.540625,
+   "cabeceras": {
+      "Date": "Thu, 22 May 2025 21:11:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cd8a6da89d3a074dcc6281c270ff344e10a6502f; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=c8c7f3becefc3508ae22ab6abcd0d64df7519839; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=df7f9ffca53ebed790dcaee294b2300c890fc49c; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=ff1ced7230a49002c7acd2ad12c75189268794e8; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=b6f3003b57bf6d843ffc0fcc03e5cec0730ab369; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=fbf68fe5e4d5d18ca74cda46af0afeb00bc390ce; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=aed3d1a41bd516274b0af38ab0e34fe66da2d2f8; expires=Thu, 22 May 2025 21:19:29 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52601"
+   }
+}

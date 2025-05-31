@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.vallecasuno.madrid/",
+   "delta_sg": 0.5101,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:15:24 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.vallecasuno.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.vallecasuno.madrid/index.php/wp-json/wp/v2/pages/6915>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.vallecasuno.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=216f69edd12487a3e6d567698f0c97473bf8fce0; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=25707bbd1e30ad46fe791492df31c13be3f61dcd; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=41609fa4ca8e6af1e4a7dafc005d9e95802efc0d; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/, wc_session_ids[multi][1]=6c14b273488362b6b96e66610a3ce3667a973e40; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/, wc_session_ids[multi][2]=15c15f27fbbacbcc25ca4b4f65d45422f33ed1d0; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/, wc_session_ids[multi][3]=da6023333528fc0a988be913dc10d9c37772e880; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/, wc_session_ids[multi][4]=2b5f297ae036733d9ecfcee1e1fa21a2fca27dfa; expires=Wed, 05 Mar 2025 15:23:44 GMT; Max-Age=500; path=/ies.vallecasuno.madrid/, cookiesession1=678B2869EF43D4209715B5D4177C3419;Expires=Thu, 05 Mar 2026 15:15:24 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "32265"
+   }
+}

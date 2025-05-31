@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ginerdelosrios.alcobendas",
+   "delta_sg": -0.123686,
+   "cabeceras": {
+      "Date": "Wed, 26 Feb 2025 18:29:43 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ginerdelosrios.alcobendas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ginerdelosrios.alcobendas/index.php/wp-json/wp/v2/pages/219>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ginerdelosrios.alcobendas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=34b48bf5ce1e4e187ac377e282d27bab3b1d505e; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/; secure; HttpOnly, wc_session_ids[all_forms]=e8fc127c22f0011393953300783a7ef69f40e7d0; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/; secure; HttpOnly, wc_session_ids[multi][0]=c501f0fe2fca29d326dd5f07d7ac6aee6ba5340f; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/, wc_session_ids[multi][1]=c2123fae679c9b8c2b1959d1f672683f56edc4a1; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/, wc_session_ids[multi][2]=cb435bcae4ca012e4322d29fe84a5dd09fe88dab; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/, wc_session_ids[multi][3]=e99f0e7d0f24d9653015df78f197a34b8e570562; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/, wc_session_ids[multi][4]=a35c396868fa3eab2cb2dd7d13846ec9e96e3c77; expires=Wed, 26 Feb 2025 18:38:03 GMT; Max-Age=500; path=/ies.ginerdelosrios.alcobendas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "24421"
+   }
+}

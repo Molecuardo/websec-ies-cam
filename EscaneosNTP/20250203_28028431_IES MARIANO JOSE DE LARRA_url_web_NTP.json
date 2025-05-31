@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.larra.madrid",
+   "delta_sg": 65.526313,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:46:07 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=383B14558A8ECE9CF646F585B4B8121F.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Feb-2026 13:46:05 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Feb-2026 13:46:05 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.5538,
+   "cabeceras": {
+      "Date": "Thu, 29 May 2025 21:21:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9828579159180199b5987120fcf1267470bf64ec; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=202a33bdf71f46afce23f733d68161093eb647f9; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=7a12b0da3a5f8583464adb76d1f4e732a95f5ba1; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=23809b901f0a6544b3a287156cff9472433f7cd2; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=7df65c42515735a413ba975f9b3ae1ffce9c6a18; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=d27716d7f57b1232d95a35b2cc10b30ca89f9934; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=f73563544366a5807f4583b9c95cb2ab2e360ff7; expires=Thu, 29 May 2025 21:29:29 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29202"
+   }
+}

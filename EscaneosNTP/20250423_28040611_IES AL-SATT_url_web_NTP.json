@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alsatt.algete",
+   "delta_sg": 0.111265,
+   "cabeceras": {
+      "Date": "Wed, 23 Apr 2025 14:54:50 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.alsatt.algete/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.alsatt.algete/index.php/wp-json/wp/v2/pages/1264>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.alsatt.algete/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=8900d5dffe1c1accd7a56538d0767db16d5c6ef4; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/; secure; HttpOnly, wc_session_ids[all_forms]=bb5e73a2dbee1428f4ace4371456eecc5ff958f5; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/; secure; HttpOnly, wc_session_ids[multi][0]=5e7e9c33594d3c357aa6dfd0fa00a73527df5aa2; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/, wc_session_ids[multi][1]=6b2f11d1ce2bf15f6caa2bb0f8dd0e07ed5b9493; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/, wc_session_ids[multi][2]=0cde745e6841c7793703ef4153511af3f14026df; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/, wc_session_ids[multi][3]=012d58fee86fb71f516f83ac9a3a14907c91d671; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/, wc_session_ids[multi][4]=db600ef319c3ce878421da1a397b3b33f7a817d8; expires=Wed, 23 Apr 2025 15:03:10 GMT; Max-Age=500; path=/ies.alsatt.algete/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "20827"
+   }
+}

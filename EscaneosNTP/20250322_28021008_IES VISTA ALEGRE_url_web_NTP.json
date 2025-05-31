@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.vistaalegre.madrid",
+   "delta_sg": 8.377125,
+   "cabeceras": {
+      "Date": "Sat, 22 Mar 2025 19:29:41 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=AC586884CDC6768B70BE234650B60E37.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 22-Mar-2026 19:29:33 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 22-Mar-2026 19:29:33 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
+   "delta_sg": -0.235532,
+   "cabeceras": {
+      "Date": "Sun, 23 Feb 2025 10:14:53 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/wp/v2/pages/130>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a120fdbf91709aba409eaad05c1c2b6176811099; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[all_forms]=69ad047b38618074a226995de64607b3202c13b1; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[multi][0]=ea4d21822fdb4a9e5313572ef2e258f72d5d55f5; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][1]=ef286767eb83a8c6e0aee7964518f915cae32433; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][2]=abec5ccf29d52163cfa53e87ab5d41d104d2061b; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][3]=9785f1f4f1127d30c4b8ff4ab526ab52a4ae0991; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][4]=3d1c5d0f8d903a5ea781d5c1aa88ebc2d6c8f29b; expires=Sun, 23 Feb 2025 10:23:13 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "35543"
+   }
+}

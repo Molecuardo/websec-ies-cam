@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.felipetrigo.mostoles",
+   "delta_sg": 0.054675,
+   "cabeceras": {
+      "Date": "Wed, 19 Mar 2025 20:21:22 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=2466C5805D56906A0606FB3BF28656D9.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 19-Mar-2026 20:21:21 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 19-Mar-2026 20:21:21 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

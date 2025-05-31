@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.altojarama.torrelaguna",
+   "delta_sg": 0.385903,
+   "cabeceras": {
+      "Date": "Wed, 07 May 2025 21:24:47 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=EF8E80D0B1CC17AF44DD5D36334FF01D.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 07-May-2026 21:24:47 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 07-May-2026 21:24:47 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

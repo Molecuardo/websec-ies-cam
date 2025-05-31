@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.anselmolorenzo.sanmartindelavega",
+   "delta_sg": 0.040125,
+   "cabeceras": {
+      "Date": "Tue, 06 May 2025 19:53:07 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.anselmolorenzo.sanmartindelavega/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=41075d3104ecdf4cbbdb5a297ba68a1ec921b265; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/; secure; HttpOnly, wc_session_ids[all_forms]=cd48b13ca8336f85dffa68b432360f4617993fcc; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/; secure; HttpOnly, wc_session_ids[multi][0]=ea534816f6c539a11c7788b6e776b6ea1335fc00; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/, wc_session_ids[multi][1]=77f33296a9d32dca053fbbb0be5aa213e28f2721; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/, wc_session_ids[multi][2]=fc14992b87761780c3f0ee8956604a2e2cb8a2b5; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/, wc_session_ids[multi][3]=f8556b6813190b80e6de12966f7f744265fabc70; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/, wc_session_ids[multi][4]=6c6362fbc72bf8d8d790fcb8640785e3cbed241d; expires=Tue, 06 May 2025 20:01:27 GMT; Max-Age=500; path=/ies.anselmolorenzo.sanmartindelavega/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49103"
+   }
+}

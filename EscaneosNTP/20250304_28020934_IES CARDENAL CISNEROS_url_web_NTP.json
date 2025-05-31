@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.832537,
+   "cabeceras": {
+      "Date": "Tue, 04 Mar 2025 16:08:12 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=8e8c517a263181259a022a66479f22465c37edbd; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=dd8516fa12c79e6df09c2fd7044593ddeae263da; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=f707b49b7c4e4c88b3a408d8f4ca8f7cff772333; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=2fb29020a7cb71e218cddf3a7e9d30e315c84146; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=4a0bbdb20af8c9db34cf4e1cf2f829da5765b169; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=471e3e75837f315376fc1da4269d7e75f026d1af; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=f33161f9c21a4b41df48677bc1502f815e16c246; expires=Tue, 04 Mar 2025 16:16:32 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52362"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.pedrosalinas.madrid",
+   "delta_sg": -0.197225,
+   "cabeceras": {
+      "Date": "Sat, 22 Feb 2025 19:34:17 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.pedrosalinas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.pedrosalinas.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.pedrosalinas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=55a1c0685d07db236726bf68e371dd73223e1944; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=f2c7671a0927765355bd91943ecb6a157ea16496; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=4d4e5695a254c9e1d150d1b6cf93cc3ba1b9243f; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/, wc_session_ids[multi][1]=6edaa44c630cfe87be680269b4fe2df6afbdb8e6; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/, wc_session_ids[multi][2]=95a737dd5a1300ba2b556ae4ca843d3c8e8aa02e; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/, wc_session_ids[multi][3]=2f8c8dac230dfc14f3b8629cb5d97570e6ac1939; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/, wc_session_ids[multi][4]=233345667a66391c9e2d43a990ecf06a004ab3b1; expires=Sat, 22 Feb 2025 19:42:38 GMT; Max-Age=500; path=/ies.pedrosalinas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "21314"
+   }
+}

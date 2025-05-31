@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.benjaminrua.mostoles",
+   "delta_sg": 0.0113,
+   "cabeceras": {
+      "Date": "Thu, 06 Mar 2025 15:08:14 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.benjaminrua.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.benjaminrua.mostoles/index.php/wp-json/wp/v2/pages/145>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.benjaminrua.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=cd64a7b4e00a3986b1734e6bb5a055dad02e8cda; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=a5936f9808e3e4e83aff181d0e34b517410ba2ba; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=89b055c4e73eabd9de55ae05b98627cd7d2c706e; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/, wc_session_ids[multi][1]=9df3a986ef770072b68612d6fd4a1098f32184e4; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/, wc_session_ids[multi][2]=7e94a14620b5d373f933cf0ddb20e0df230c1b64; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/, wc_session_ids[multi][3]=e611890ed3d5955a9090faeedc9246fce2d227f7; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/, wc_session_ids[multi][4]=3dcbbc2c32f1284e8820c6022f77c131468f4e0c; expires=Thu, 06 Mar 2025 15:16:34 GMT; Max-Age=500; path=/ies.benjaminrua.mostoles/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28465"
+   }
+}

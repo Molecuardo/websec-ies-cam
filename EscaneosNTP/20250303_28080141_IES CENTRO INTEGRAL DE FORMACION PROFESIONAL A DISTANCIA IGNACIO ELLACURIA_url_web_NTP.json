@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ignacioellacuria.alcorcon",
+   "delta_sg": 0.379574,
+   "cabeceras": {
+      "Date": "Mon, 03 Mar 2025 21:39:56 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ignacioellacuria.alcorcon/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ignacioellacuria.alcorcon/index.php/wp-json/wp/v2/pages/3175>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ignacioellacuria.alcorcon/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=eca12394a24fca9c3949912d49fc2fe099979b2a; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/; secure; HttpOnly, wc_session_ids[all_forms]=20c1daab7e444bc115c4a745ca7eca7a794795cd; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/; secure; HttpOnly, wc_session_ids[multi][0]=180d7b8cc7e20ef06473ce9590cd23f1ef267119; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/, wc_session_ids[multi][1]=fadd97ea86e921ef3fc740a0aa5a1d2dc1dbf74b; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/, wc_session_ids[multi][2]=fa730d0ffa062cb93c538ad6dabc1eeae35b3282; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/, wc_session_ids[multi][3]=0558988c7b14e07215bef3badba1692184d1f19a; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/, wc_session_ids[multi][4]=bbdfe1e8d620691ca429340d4bd391d6d6080b06; expires=Mon, 03 Mar 2025 21:48:16 GMT; Max-Age=500; path=/ies.ignacioellacuria.alcorcon/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29097"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.laslagunas.rivas",
+   "delta_sg": 0.215579,
+   "cabeceras": {
+      "Date": "Mon, 24 Feb 2025 14:49:27 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.laslagunas.rivas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.laslagunas.rivas/index.php/wp-json/wp/v2/pages/1014>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.laslagunas.rivas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5155d0b3ddeef122b299778365a88d8e0e6400fc; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/; secure; HttpOnly, wc_session_ids[all_forms]=0d9657b71cf15da387363b63b5150c0f50857c13; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/; secure; HttpOnly, wc_session_ids[multi][0]=46fd89bb5e4334202ae354a644309ca12246439e; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/, wc_session_ids[multi][1]=f6ad6a2329780fbe6946ddca7008420a3266ea56; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/, wc_session_ids[multi][2]=db6b5fdc8a0b249669b7976a78f1f285d495af0a; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/, wc_session_ids[multi][3]=3377201acf5059bd8d4604ce57221211c1efacb6; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/, wc_session_ids[multi][4]=b9c9a8446bffedcda1bd472ce75c8d417330077f; expires=Mon, 24 Feb 2025 14:57:47 GMT; Max-Age=500; path=/ies.laslagunas.rivas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28863"
+   }
+}

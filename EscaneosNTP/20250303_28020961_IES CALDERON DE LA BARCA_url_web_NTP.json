@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.calderondelabar.madrid",
+   "delta_sg": 0.445091,
+   "cabeceras": {
+      "Date": "Mon, 03 Mar 2025 21:17:57 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/wp/v2/pages/3943>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ed62939515534adbea6e55fc33f75734e352056c; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=4276ef1fbd3d9443b2ccf983d6456bd93d480a55; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3786ccb5d19606af6f64571b379fd412bb6a65e7; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][1]=bcadbaf30af32892092c308f6073c8d0581f7839; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][2]=64d624b4062d5d28d69bbc0cd534b3f627d84a4b; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][3]=5fd0d36171c5369b54991ee6b213f18fdb4b1b48; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][4]=e5cf0efe874197dac26ecae0f184cf94ba2fdd98; expires=Mon, 03 Mar 2025 21:26:17 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "40013"
+   }
+}

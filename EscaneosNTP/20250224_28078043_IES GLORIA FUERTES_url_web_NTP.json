@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://site.educa.madrid.org/ies.gloriafuertes.alcobendas/",
+   "delta_sg": -0.04464,
+   "cabeceras": {
+      "Date": "Mon, 24 Feb 2025 15:00:49 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/index.php/wp-json/wp/v2/pages/552>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.gloriafuertes.alcobendas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=d97cbb52a40f8d2eb10e12313b99b0a7abf6ec5f; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/; secure; HttpOnly, wc_session_ids[all_forms]=b0eed9a276007793c328e2bddd0e99a8177c4eb7; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/; secure; HttpOnly, wc_session_ids[multi][0]=2ea859822bbd76b0392bc92e6cb1456c1a52e22f; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][1]=9bf3143b43b9109b775cd8d712fccb6d8006a1d6; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][2]=6f4497f67eb30ad1760c8029959b22dd4c95301c; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][3]=2267bc5cc67893fce660e5775b7c6125f6061ccf; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/, wc_session_ids[multi][4]=001dba905bf586f9823a39062820281eb29e0bb7; expires=Mon, 24 Feb 2025 15:09:09 GMT; Max-Age=500; path=/ies.gloriafuertes.alcobendas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "25670"
+   }
+}

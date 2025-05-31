@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.miguelcatalan.coslada",
+   "delta_sg": 0.145221,
+   "cabeceras": {
+      "Date": "Sat, 22 Feb 2025 19:13:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.miguelcatalan.coslada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.miguelcatalan.coslada/index.php/wp-json/wp/v2/pages/11833>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.miguelcatalan.coslada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ad4b3317514fe5ed5abf89298b37eb945b12d4cb; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/; secure; HttpOnly, wc_session_ids[all_forms]=6eb63005028a57edcafbd9f94ab47b2de9595a3c; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/; secure; HttpOnly, wc_session_ids[multi][0]=b795a78789e7f9872f0009a27e0cf7a444d65aa0; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/, wc_session_ids[multi][1]=defeda988ae14363a46a17f706c2458f2a291a2a; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/, wc_session_ids[multi][2]=676bc2373d475a6ca6c1da0c56a9353237400376; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/, wc_session_ids[multi][3]=829009b963fc620bdcae9ce8c723c3085f3f0cc4; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/, wc_session_ids[multi][4]=064dd0fa2fa74b7b9b3e2ebbefa77bc72a652c44; expires=Sat, 22 Feb 2025 19:21:50 GMT; Max-Age=500; path=/ies.miguelcatalan.coslada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "20163"
+   }
+}

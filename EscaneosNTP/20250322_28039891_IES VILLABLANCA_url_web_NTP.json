@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villablanca.madrid",
+   "delta_sg": 0.842819,
+   "cabeceras": {
+      "Date": "Sat, 22 Mar 2025 19:34:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villablanca.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villablanca.madrid/index.php/wp-json/wp/v2/pages/92>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villablanca.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b45627837f72ea534a2970d196924daa2a13c339; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8ab39bee7f61a78d5eccfb4fd4665cfe1d308058; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2de82349b916588099432560f7da08633c20e748; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/, wc_session_ids[multi][1]=2a01f48677f1091114fdad33babcb77035add445; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/, wc_session_ids[multi][2]=5c6149ad762d3fb1e4b227c3dab3108770b0c9a2; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/, wc_session_ids[multi][3]=0083a7c9376c3968bac796ecdcefd808e613322a; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/, wc_session_ids[multi][4]=7df76359b784e246d8ef768b779ab820df53a84d; expires=Sat, 22 Mar 2025 19:42:30 GMT; Max-Age=500; path=/ies.villablanca.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "22203"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.franciscoumbral.ciempozuelos",
+   "delta_sg": -0.035563,
+   "cabeceras": {
+      "Date": "Tue, 29 Apr 2025 13:21:42 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=ABDFB0C6936EB64AB85D80CA1F1B79FC.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 29-Apr-2026 13:21:41 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 29-Apr-2026 13:21:41 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

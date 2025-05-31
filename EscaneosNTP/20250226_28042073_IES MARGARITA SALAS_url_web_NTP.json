@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.margaritasalas.majadahonda",
+   "delta_sg": 1.236221,
+   "cabeceras": {
+      "Date": "Wed, 26 Feb 2025 18:42:07 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=6AC670A2CAC78658ACA8871EFDC8EAEC.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 26-Feb-2026 18:42:05 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 26-Feb-2026 18:42:05 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

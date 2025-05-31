@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.isaacperal.torrejondeardoz",
+   "delta_sg": -1.360017,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 08:09:12 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=8A321F5FC02F86BE99580554A63C1F91.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 04-Feb-2026 08:09:12 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 04-Feb-2026 08:09:12 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

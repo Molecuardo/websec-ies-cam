@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.04558,
+   "cabeceras": {
+      "Date": "Fri, 16 May 2025 22:15:19 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3d174990e414d3f0ff0e1f4a4d0284c421a6a0bd; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=ae6148393f5421c0a90acc7db0a7b972ef37ad1a; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=339c12874643207b3d04d031a438c9ac11c437d9; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=48ed5bf361ec98563c3a73773b1ce69627083a68; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=cd5a5ec079252eb95148dfa57f6fe48256c2d8cf; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=db5aa0ab371acc4eef1b7eb6bf802ee5364d6b95; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=fe62bf375f8b239ea2bea400e1fff9247d92155e; expires=Fri, 16 May 2025 22:23:39 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52492"
+   }
+}

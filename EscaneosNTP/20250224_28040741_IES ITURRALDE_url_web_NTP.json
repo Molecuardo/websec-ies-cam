@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.iturralde.madrid",
+   "delta_sg": -0.262566,
+   "cabeceras": {
+      "Date": "Mon, 24 Feb 2025 14:48:41 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.iturralde.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.iturralde.madrid/index.php/wp-json/wp/v2/pages/708>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.iturralde.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=79497094c049eada3d2a8d477a1ef2c14ceba3c5; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=0fe5e00eea1b9b8ee13eb3e7ac87c53438bd219b; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=8d27dc8e240d89cba6165ef9b25e9b7c66d629f0; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/, wc_session_ids[multi][1]=1cf098c82478b386412c4d71dd77f5bfcf2204de; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/, wc_session_ids[multi][2]=6f7ef8c8760fb70e3663b929ae1fe173c66ad702; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/, wc_session_ids[multi][3]=cf8b08411453bdd4ff13dfe8ad04c04baf73b111; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/, wc_session_ids[multi][4]=e86b161ca3019915d0da8ad5313091364978edde; expires=Mon, 24 Feb 2025 14:57:02 GMT; Max-Age=500; path=/ies.iturralde.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "20636"
+   }
+}

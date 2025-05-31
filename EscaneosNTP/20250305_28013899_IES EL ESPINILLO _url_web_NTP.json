@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elespinillo.madrid",
+   "delta_sg": 0.540797,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:14:32 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elespinillo.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elespinillo.madrid/index.php/wp-json/wp/v2/pages/774>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elespinillo.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3b0b9071e1600b7d3e8ed96adfc74cc0f8512e09; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=0f439fcdf2fb74091a7ead3594b3f30a110bc346; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2737626d42e7ccc10659e021ed0e731c71dc2338; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/, wc_session_ids[multi][1]=badb7ef369066ac0e47d891772fff7f546992f9c; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/, wc_session_ids[multi][2]=ed5cf6f819ad9dd2924933ab7845e95db058b8a2; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/, wc_session_ids[multi][3]=4853769af03be0ab34afa1a24f9ba0100727c38f; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/, wc_session_ids[multi][4]=692f824ee4ddc0d68efd59c8348787e054b1443c; expires=Wed, 05 Mar 2025 15:22:52 GMT; Max-Age=500; path=/ies.elespinillo.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30879"
+   }
+}

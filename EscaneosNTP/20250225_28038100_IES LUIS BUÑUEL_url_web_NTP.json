@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.luisbunuel.alcorcon",
+   "delta_sg": 0.5351,
+   "cabeceras": {
+      "Date": "Tue, 25 Feb 2025 17:40:19 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.luisbunuel.alcorcon/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.luisbunuel.alcorcon/index.php/wp-json/wp/v2/pages/4287>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.luisbunuel.alcorcon/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fba0f0b61592cb225c8e2edf478be94af395913c; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/; secure; HttpOnly, wc_session_ids[all_forms]=a0ce9ff74ce18d054c73cd161018b83eec15b4be; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/; secure; HttpOnly, wc_session_ids[multi][0]=ec5f80c924f397fdb181d946b412fcd478d263bd; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/, wc_session_ids[multi][1]=136d61e2fee84727b3f1859062230dca5d0adb06; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/, wc_session_ids[multi][2]=41022ac5c72c2bfdcaa4e43fd5238e7117ccd639; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/, wc_session_ids[multi][3]=e396de72044e81943e2380ca020a70958832a3b4; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/, wc_session_ids[multi][4]=02b6de6e5dd31987f70bc301cc6689f080bf0473; expires=Tue, 25 Feb 2025 17:48:39 GMT; Max-Age=500; path=/ies.luisbunuel.alcorcon/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "21531"
+   }
+}

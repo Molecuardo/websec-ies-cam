@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.mariagoyrigoyri.madrid",
+   "delta_sg": 0.751187,
+   "cabeceras": {
+      "Date": "Sat, 22 Mar 2025 19:40:39 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Content-Length": "44374",
+      "Set-Cookie": "JSESSIONID=C55AD5C71D39B2048AAE31183BD9603B.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 22-Mar-2026 19:40:39 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 22-Mar-2026 19:40:39 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

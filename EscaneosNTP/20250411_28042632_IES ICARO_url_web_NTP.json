@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.icaro.getafe/",
+   "delta_sg": 7199.431081,
+   "cabeceras": {
+      "Date": "Fri, 11 Apr 2025 19:05:23 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/wp/v2/pages/447>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.icaro.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=74a405328fb2a317c15f8dffcfe377e171ba7cc1; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=b17d6eaefd4ad58d137ceb3556b900015edb6c4b; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=57bcff5ee96365d4fc235f3ca12181e6556388b2; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][1]=22947572037574fb5e54fdd1f0c0dde8db90658e; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][2]=342f86203bfef9a38ec28fb1b970c1051bffa8b7; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][3]=dc41ea3348822c27905f2ba487b476959de021aa; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][4]=6dcaa3618374d46681046d983ceb228441d44931; expires=Fri, 11 Apr 2025 19:13:43 GMT; Max-Age=500; path=/ies.icaro.getafe/, cookiesession1=678B286962BC91D1F10D4432157CF6F5;Expires=Sat, 11 Apr 2026 19:05:23 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30724"
+   }
+}

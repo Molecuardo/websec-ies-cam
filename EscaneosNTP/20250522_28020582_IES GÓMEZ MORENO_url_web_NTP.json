@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.gomezmoreno.madrid",
+   "delta_sg": 0.411398,
+   "cabeceras": {
+      "Date": "Thu, 22 May 2025 21:10:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.gomezmoreno.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.gomezmoreno.madrid/index.php/wp-json/wp/v2/pages/809>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.gomezmoreno.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1e652721427085dc246d82fffd48245282e5ddb2; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d5bbf0294735d1bc0f46bb71dcd73acffa14d945; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=17f8c7d0da62a32f25ce720ca2bc035fc59d0f5e; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/, wc_session_ids[multi][1]=2b02187beb96ac3fe1fe0f0f148d6aad5cd37df0; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/, wc_session_ids[multi][2]=923c5cad32f83beade34e8495dbdfbc03ab41990; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/, wc_session_ids[multi][3]=c5e337493a332b93e565970a9f3641ac55e84fbc; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/, wc_session_ids[multi][4]=5fe28093620a4271c5b02f1fcc078a3aead38e9a; expires=Thu, 22 May 2025 21:19:07 GMT; Max-Age=500; path=/ies.gomezmoreno.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26240"
+   }
+}

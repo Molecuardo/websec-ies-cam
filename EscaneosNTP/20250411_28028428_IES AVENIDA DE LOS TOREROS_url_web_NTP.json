@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 7200.321322,
+   "cabeceras": {
+      "Date": "Fri, 11 Apr 2025 18:59:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b491c8fc04f7f3c73532ff48493bdf0d5ddc6bab; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=604be837015497c89e774a55934b97374b5b4b42; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3a906e6b04eb331ec8885519980072e8d6d7b181; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=17cbf8fcf797a643eba8aa6409e339722ba4f25b; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=93e4d9a118749c2e7b4e2f396b1a60031dc80f36; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=f006633eebb21a613c2672bf85c16b713998d5ea; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=bc2e15c13c33cb19ccef08fef39b6f9144a6d8b8; expires=Fri, 11 Apr 2025 19:08:07 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "50432"
+   }
+}

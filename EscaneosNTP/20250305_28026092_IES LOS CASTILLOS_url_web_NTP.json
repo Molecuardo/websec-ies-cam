@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.loscastillos.alcorcon",
+   "delta_sg": 0.369436,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:21:26 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.loscastillos.alcorcon/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.loscastillos.alcorcon/index.php/wp-json/wp/v2/pages/3677>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.loscastillos.alcorcon/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ed1a91b469b608362933b06b1c4379806f46de4d; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/; secure; HttpOnly, wc_session_ids[all_forms]=95b70f2ab51388e7d0fe6e6173942a5ba631ba02; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/; secure; HttpOnly, wc_session_ids[multi][0]=9a00731b314c4debd06f012f058b6ed4d831ee89; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][1]=e0af03fa1e6ca6b6299ef2e11369517c1b9934b4; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][2]=1f01af9654e73fa5c3566d55cfb85c738a209578; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][3]=2404cf7a030fd9f354d979560f73da99dffbae40; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][4]=e86fc6198db1e745020b60fb10c6b3b6dd6c97dc; expires=Wed, 05 Mar 2025 15:29:47 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "32337"
+   }
+}

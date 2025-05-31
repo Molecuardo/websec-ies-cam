@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.300517,
+   "cabeceras": {
+      "Date": "Thu, 08 May 2025 19:07:20 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c0a0c602173cc75987dbaa22631f44f7d4bf6a7f; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=a9a7868b91f4930526a80b0ba9386bdde4ae74ba; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=61c87fd39e53172768b37b99ad7053cfec92932c; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=e13c561463d01eee97f334d038b576a1c51597b0; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=5099be48f8f1d6e79da856eee894aba049a50a97; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=3fde0cf8db9f3f6b1101b69ebf14d48632dc476e; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=3832dc96e9fa669ff94ee60c9c413510568babad; expires=Thu, 08 May 2025 19:15:40 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "50501"
+   }
+}

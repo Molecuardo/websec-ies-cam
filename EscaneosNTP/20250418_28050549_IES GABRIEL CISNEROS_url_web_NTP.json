@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.gabrielcisneros.mostoles",
+   "delta_sg": 7201.35767,
+   "cabeceras": {
+      "Date": "Fri, 18 Apr 2025 15:19:26 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=FFFC620C1D7F54DAC39857A195F72E50.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 18-Apr-2026 15:19:25 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 18-Apr-2026 15:19:25 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

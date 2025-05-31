@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://site.educa.madrid.org/ies.juanramonjimenez.madrid/",
+   "delta_sg": 0.077183,
+   "cabeceras": {
+      "Date": "Wed, 23 Apr 2025 15:00:03 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.juanramonjimenez.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.juanramonjimenez.madrid/index.php/wp-json/wp/v2/pages/2326>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.juanramonjimenez.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=27d160592f463a0a595fa9684683038ea67ac258; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b5a0eb0ec53a40930b7ba6891ddfcb7745e53ca5; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=af2a4437e8fa23a50863be480e0c09d16d5dc486; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][1]=daf08c3de5d94f6cfdeee586b59bc2c16c277361; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][2]=f8c6df81130a10838aa1f01fe099b6d7cf3c1e25; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][3]=ab239d302696d0e5bc787f2d4ade84fc707954a7; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][4]=7a5d76ed26e11ed7e73a29c7d981b940468ac90c; expires=Wed, 23 Apr 2025 15:08:23 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49599"
+   }
+}

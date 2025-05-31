@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alfonsomoreno.brunete",
+   "delta_sg": 0.0743,
+   "cabeceras": {
+      "Date": "Thu, 22 May 2025 21:18:24 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.alfonsomoreno.brunete/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.alfonsomoreno.brunete/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.alfonsomoreno.brunete/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=44a9d5567ecf05819de624c1c8b39e786e459b0c; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/; secure; HttpOnly, wc_session_ids[all_forms]=38e72b9c5385377bd437a8663b390815ddc14289; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/; secure; HttpOnly, wc_session_ids[multi][0]=5ee1df2456daef856227618d7fdff8a4b1a9903b; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/, wc_session_ids[multi][1]=2e1d12abd6b491d3f000fe8707fb00f3828b5564; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/, wc_session_ids[multi][2]=d654a6c1860c4d1327bfa9511a9581d565fd525a; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/, wc_session_ids[multi][3]=bb1bc898cde2668ede1b3f906bbb8cbf58f22610; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/, wc_session_ids[multi][4]=0e6f06f9e66a6882b04ed2f11a12ff93fd89c7b2; expires=Thu, 22 May 2025 21:26:45 GMT; Max-Age=500; path=/ies.alfonsomoreno.brunete/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "19009"
+   }
+}

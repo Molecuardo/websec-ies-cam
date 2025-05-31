@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": 0.454315,
+   "cabeceras": {
+      "Date": "Wed, 05 Mar 2025 15:22:51 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e55cde4549e11fa47521013191a5fcdb877a7e58; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=9fe5278c379f69b0dac7aa889eea349b221af0b4; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e943792838557b15f29a714c18435299d1576889; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=b11460f03172ee4e43227c6cf60783028040b006; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=834548b651e01a11776e36df462d8dd304916bae; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=58364021b56f249e6b740d7d1c38a6e7de29cf92; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=8d95eeb33f9004be0f75e146b0d0e9a0fe003c30; expires=Wed, 05 Mar 2025 15:31:12 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33452"
+   }
+}

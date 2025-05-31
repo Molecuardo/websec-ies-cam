@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.blancafdezochoa.madrid",
+   "delta_sg": 1.234751,
+   "cabeceras": {
+      "Date": "Sat, 22 Mar 2025 19:40:33 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.blancafdezochoa.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.blancafdezochoa.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.blancafdezochoa.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0e2bfb1d3d0670fb83b5ba32113a900170217f7b; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d63b8c1b1149ed837ed1bb4754b700d69b263376; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=b7c058ba5a00f3a621bace40c67fb612b511119c; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][1]=abf84a50607f25a325d032d20038565e44d2e3cc; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][2]=6245eaa1fc480b9c1d15d98f2f7ec1a460837ddc; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][3]=9003b3fb185bf8d380d3a3518ac0806b23f9f00e; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/, wc_session_ids[multi][4]=4e0ab5cd184aaa47d7e5730452b5aa081bae190a; expires=Sat, 22 Mar 2025 19:48:53 GMT; Max-Age=500; path=/ies.blancafdezochoa.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26558"
+   }
+}

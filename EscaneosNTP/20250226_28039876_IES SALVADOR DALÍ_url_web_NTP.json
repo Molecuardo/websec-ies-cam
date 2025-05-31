@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.salvadordali.madrid",
+   "delta_sg": 0.107252,
+   "cabeceras": {
+      "Date": "Wed, 26 Feb 2025 18:40:39 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.salvadordali.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.salvadordali.madrid/index.php/wp-json/wp/v2/pages/391>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.salvadordali.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=10cc5131ef08c8110664ea107c016ede0a3f6486; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b8646a8c9b3980c05b4bb15fae1d46e62478f5a5; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=1b5d9ee15b8649e39834f246e1f5f6157681aae2; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/, wc_session_ids[multi][1]=66a8e6c1ff9ed7db7ba9ffa0d1320b0756f2a91b; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/, wc_session_ids[multi][2]=c77e38d66cb985a4cb51f3bb139100ac40eba1e4; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/, wc_session_ids[multi][3]=97ea5e128f6f11eeafc332d90e5e5e5066391c44; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/, wc_session_ids[multi][4]=aaab7051390f041651ab9258187ba95e7f23a953; expires=Wed, 26 Feb 2025 18:48:59 GMT; Max-Age=500; path=/ies.salvadordali.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49286"
+   }
+}

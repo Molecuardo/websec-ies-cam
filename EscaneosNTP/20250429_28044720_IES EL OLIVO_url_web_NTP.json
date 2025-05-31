@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.elolivo.parla/",
+   "delta_sg": -0.123989,
+   "cabeceras": {
+      "Date": "Tue, 29 Apr 2025 13:16:54 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elolivo.parla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elolivo.parla/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elolivo.parla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=081b8736358373d202203abd6a52630418c93a2b; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/; secure; HttpOnly, wc_session_ids[all_forms]=1f78f6fec795c63e3635470e72ef40e0fbaff578; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/; secure; HttpOnly, wc_session_ids[multi][0]=25c0deaf76449b9cdfa60f90ab1459697c564101; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][1]=dd929b6415c698a12c0549d4a2095cd9b8ca6915; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][2]=2b66587362f1747890bae3f30e6797221579f3f0; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][3]=4a78f20466745de49399bcda83b8f57256e9b706; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][4]=67c2716dcc762ff9c3a42b3987bbf88edc24e97f; expires=Tue, 29 Apr 2025 13:25:14 GMT; Max-Age=500; path=/ies.elolivo.parla/, cookiesession1=678B286947BF0601828200E44A16398B;Expires=Wed, 29 Apr 2026 13:16:54 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33733"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.595725,
+   "cabeceras": {
+      "Date": "Mon, 12 May 2025 20:46:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=4d6c7c8f640900054238de594d260e68c1601ab9; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=6ca00d94f3fde879b81b258e49acb6f979927222; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=6b6743d76e98b1c231126150e4f86a95ae07f0b5; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=b89b8c4f6774f4a32719c3a4f6bba5ee69a9eef8; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=b9b49abbb023ba1bd8d834f67abe42e8526c1fa2; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=09f238716510374c824247e1e82c7273d0fa8c32; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=013017734bd14ab2ab12711639257441bd90398e; expires=Mon, 12 May 2025 20:54:50 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29270"
+   }
+}

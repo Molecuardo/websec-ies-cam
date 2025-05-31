@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maximotrueba.boadilla",
+   "delta_sg": 0.145215,
+   "cabeceras": {
+      "Date": "Sun, 23 Feb 2025 10:17:13 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=bc7365b41cc2e69539e29af5f02c77747557b6f9; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[all_forms]=2f8f465086d622e76a3377a06327c50588b63156; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[multi][0]=26cb8c632626162d8dd85ead2b34ac01f90c6afe; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][1]=b62850f0800bc81fc96b22a38275cdfca43f1da4; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][2]=f08c4a3704d3f88e88505a16fa2eafddd2fd41b8; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][3]=04deda3996eda840d3c7446cb87c1854e8383615; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][4]=5eb2793dca5a9abce1dfeee0b893d1ff017dc457; expires=Sun, 23 Feb 2025 10:25:33 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28440"
+   }
+}

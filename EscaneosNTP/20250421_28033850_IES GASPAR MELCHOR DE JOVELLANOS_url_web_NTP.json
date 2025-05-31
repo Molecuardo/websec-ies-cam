@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
+   "delta_sg": 0.296998,
+   "cabeceras": {
+      "Date": "Mon, 21 Apr 2025 11:10:33 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/wp/v2/pages/130>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9f20040b663936ab876d13275d51ef5627226e2f; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[all_forms]=3c010e97ecae1ed7bd2d0906874382f41236348b; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[multi][0]=4b502d2a5028dc3e57a1846660c599073043d848; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][1]=b236c1b9193045cbbf265e223999d053539e4511; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][2]=576e6fc3760edc6e3c412ffca6c005d6e425d3da; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][3]=1749df72fb688ea75f8ae01f29a7369a9b16fcf3; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][4]=aceef6dcc4186a1e1a88d645e2b8b976db72b790; expires=Mon, 21 Apr 2025 11:18:53 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30616"
+   }
+}

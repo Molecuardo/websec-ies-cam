@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.elolivo.parla/",
+   "delta_sg": 0.005729,
+   "cabeceras": {
+      "Date": "Wed, 07 May 2025 21:30:36 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elolivo.parla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elolivo.parla/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elolivo.parla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=31b59a7707f327f0549f2ade36d0d35b992313df; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/; secure; HttpOnly, wc_session_ids[all_forms]=b0fac403c60f62f4dde4ce89277ccc33c5278751; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/; secure; HttpOnly, wc_session_ids[multi][0]=c16c5e01419c326791c98f4025008c67640673a9; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][1]=d0077134d8252f9ff7075fe15648ed6f4b89edcc; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][2]=2ac729fdc0f2054703d9520843c22790e79de207; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][3]=57ad76fe92d7d86ea0b31ec4dc036bf00ef4e049; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/, wc_session_ids[multi][4]=923cdcf7246f20ac361c8dd0c5f962ae2480dcc9; expires=Wed, 07 May 2025 21:38:56 GMT; Max-Age=500; path=/ies.elolivo.parla/, cookiesession1=678B2869F6579B645007548CB5D7817D;Expires=Thu, 07 May 2026 21:30:36 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33732"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.julioverne.leganes",
+   "delta_sg": 0.073726,
+   "cabeceras": {
+      "Date": "Thu, 08 May 2025 19:10:43 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.julioverne.leganes/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.julioverne.leganes/index.php/wp-json/wp/v2/pages/845>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.julioverne.leganes/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c7582b04746f95583f0386d29c118918d67a3dd9; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/; secure; HttpOnly, wc_session_ids[all_forms]=ec2736f10b8ad580d5d1008bf625c06bd97adf7c; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/; secure; HttpOnly, wc_session_ids[multi][0]=1cf7c44691631ceff108450cbafcb79c3db3ba45; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/, wc_session_ids[multi][1]=17d20385ca476c1dec2a2c439cc6882473726ae4; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/, wc_session_ids[multi][2]=40cf48bf91ec04300984d498f7006a1ca96e260b; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/, wc_session_ids[multi][3]=8f39bfba0c944bb96f172c99ba404c5af6536210; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/, wc_session_ids[multi][4]=72b25a70b14bbb4cb25bd4663278ede14e68a223; expires=Thu, 08 May 2025 19:19:03 GMT; Max-Age=500; path=/ies.julioverne.leganes/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "37927"
+   }
+}

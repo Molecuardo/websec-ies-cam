@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.juandemairena.sansebastian",
+   "delta_sg": -2.391603,
+   "cabeceras": {
+      "Date": "Mon, 05 May 2025 19:32:06 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=22F61AD901A051BF8357521776D76C27.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 05-May-2026 19:32:07 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 05-May-2026 19:32:07 GMT; Path=/; HttpOnly, UqZBpD3n=v1B9CGSQ__yxJ; Expires=Tue, 06-May-2025 07:32:08 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

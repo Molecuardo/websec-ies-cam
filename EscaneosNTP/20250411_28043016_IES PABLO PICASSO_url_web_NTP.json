@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.picasso.pinto",
+   "delta_sg": 7200.259536,
+   "cabeceras": {
+      "Date": "Fri, 11 Apr 2025 19:05:40 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.picasso.pinto/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.picasso.pinto/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.picasso.pinto/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2bd8e402d67bf75d2683c51e2c4f92d89bcfe31a; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/; secure; HttpOnly, wc_session_ids[all_forms]=b7750d9aaa280b1f435b26381420c9349510dc3e; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/; secure; HttpOnly, wc_session_ids[multi][0]=52165c69b60c093bfcba670a217b909fabff09ef; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/, wc_session_ids[multi][1]=22d7dd7ee867cecf75a003126196fce49b07d26d; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/, wc_session_ids[multi][2]=823b41cecdaa32748c190d7339c17a7ce44272ed; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/, wc_session_ids[multi][3]=de6fa330905838499ab108e896890b88ecade940; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/, wc_session_ids[multi][4]=2bed8b541903c83b945a18c2afc937bfd7e1035d; expires=Fri, 11 Apr 2025 19:14:00 GMT; Max-Age=500; path=/ies.picasso.pinto/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "40193"
+   }
+}

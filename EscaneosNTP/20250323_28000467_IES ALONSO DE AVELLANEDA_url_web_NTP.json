@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alonsodeavellan.alcala",
+   "delta_sg": 0.025637,
+   "cabeceras": {
+      "Date": "Sun, 23 Mar 2025 12:00:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.alonsodeavellan.alcala/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.alonsodeavellan.alcala/index.php/wp-json/wp/v2/pages/975>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.alonsodeavellan.alcala/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=6ec13db1dd88c80a31d00d30f84a47608ce65fe0; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/; secure; HttpOnly, wc_session_ids[all_forms]=952b5d2508f295a660b8e54c202ec81cab5a701f; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/; secure; HttpOnly, wc_session_ids[multi][0]=122132b4c3a8f10370707e8a98f2f2d9054f77cf; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/, wc_session_ids[multi][1]=8065410e8a498687c66089f66cdb7436ac5b2c69; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/, wc_session_ids[multi][2]=921268f4677dc1d93f28ae0eaad8728e4dda66a1; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/, wc_session_ids[multi][3]=c4e3e42db30af33d7a35cec81733165516da9c64; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/, wc_session_ids[multi][4]=cc55ca0fefa7dc37f320152f3efddc195e2a5abb; expires=Sun, 23 Mar 2025 12:09:07 GMT; Max-Age=500; path=/ies.alonsodeavellan.alcala/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33262"
+   }
+}

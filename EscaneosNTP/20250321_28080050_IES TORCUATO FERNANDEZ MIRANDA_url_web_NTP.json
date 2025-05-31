@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.torcuatofdezmiranda.arroyomolinos",
+   "delta_sg": 177.13107,
+   "cabeceras": {
+      "Date": "Fri, 21 Mar 2025 21:40:21 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=25A2635D11487AA1B490F5813AD1BC63.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 21-Mar-2026 21:40:20 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 21-Mar-2026 21:40:20 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

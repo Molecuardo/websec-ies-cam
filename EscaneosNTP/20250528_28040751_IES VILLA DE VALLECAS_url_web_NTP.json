@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.529247,
+   "cabeceras": {
+      "Date": "Wed, 28 May 2025 19:23:15 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=f5ff5f7ea486c4251e68839bf048379039b61d5c; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=cede298357caf22ef930760e6cb183e4baebefb8; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=9289b8dfed4c90243d5f75b4304c9f3c346777aa; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=5c9558818b92fe0191709b94b693bb4545e471d3; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=a79641d9e9bbeb9d64919aeefee363267d614be7; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=aaef23f2072f94e21894c3496227ea8babf7e14e; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=ec2a075ae04be16ca683798f6e48654db5dc3a6e; expires=Wed, 28 May 2025 19:31:35 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29201"
+   }
+}

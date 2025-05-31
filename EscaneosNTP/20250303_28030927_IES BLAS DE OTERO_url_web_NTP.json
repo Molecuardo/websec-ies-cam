@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.blasdeotero.madrid",
+   "delta_sg": 0.90159,
+   "cabeceras": {
+      "Date": "Mon, 03 Mar 2025 21:24:58 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.blasdeotero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.blasdeotero.madrid/index.php/wp-json/wp/v2/pages/94>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.blasdeotero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=53313820347c646f81d7c6b8d9ff67233b78133a; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=a8bc47d725267a42effa9ab931786c226f761c0f; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2a010b2c7a0635ee49cacceee5bb455fb4591ed9; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/, wc_session_ids[multi][1]=b7a130fd65afa1db2acbcfc9578b0524984e6ee4; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/, wc_session_ids[multi][2]=097f62767ddb26c5465cbe8b3000a3bc695cfccb; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/, wc_session_ids[multi][3]=d866d9cfdb50525183d48cd41eace7875e05baa9; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/, wc_session_ids[multi][4]=5fdc278e05a874c956d661ec07d18cef55ff89ee; expires=Mon, 03 Mar 2025 21:33:18 GMT; Max-Age=500; path=/ies.blasdeotero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27165"
+   }
+}

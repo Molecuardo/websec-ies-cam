@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.narcismonturiol.parla",
+   "delta_sg": -1.423213,
+   "cabeceras": {
+      "Date": "Thu, 03 Apr 2025 21:29:16 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=8DD71717DD1E79CB1FCEEC30E8DF005D.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 03-Apr-2026 21:29:17 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 03-Apr-2026 21:29:17 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

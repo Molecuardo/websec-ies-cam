@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.300485,
+   "cabeceras": {
+      "Date": "Tue, 27 May 2025 20:03:10 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=320439671067f1c78d15f56cf2d656c6b7fcba22; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8a36ffbdc1ba7ef655be37708cde94ebdfdd918b; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=dc6adc64a57ebabd9222b40b583c9ebe49bd3465; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=623978f5e4c0d6261623cb5585072c11e68190a3; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=c20589657b299e0f8f760356d98d966c853cf949; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=efe51863ff67d6b750d6f644171a31ef54a2d7f2; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=95417c1265d66aecffd22cf6f5ed6819b44343fb; expires=Tue, 27 May 2025 20:11:30 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38209"
+   }
+}

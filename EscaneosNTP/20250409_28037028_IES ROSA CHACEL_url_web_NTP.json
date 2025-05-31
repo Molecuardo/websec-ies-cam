@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.rosachacel.madrid",
+   "delta_sg": 7200.654288,
+   "cabeceras": {
+      "Date": "Wed, 09 Apr 2025 21:25:06 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.rosachacel.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=d6a21f4af450414d31dea0d61e8528a8f24930e0; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=3e50403b55d89db428beb9dbd3cc4eb7c1e61fc0; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=fc6f6c85ea69789ee4d6b241f56db7c24368c84a; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/, wc_session_ids[multi][1]=b0e6fd9fb371f08c71ba075922e7fb2bd1820cd6; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/, wc_session_ids[multi][2]=fced0e99d9defe4444afa5957140055b7a839738; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/, wc_session_ids[multi][3]=ada1bf833336260922d579a8f0370a7a61734809; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/, wc_session_ids[multi][4]=fc76f919f7eb5bb75cec5ce2f17de3bc81edb453; expires=Wed, 09 Apr 2025 21:33:27 GMT; Max-Age=500; path=/ies.rosachacel.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26993"
+   }
+}

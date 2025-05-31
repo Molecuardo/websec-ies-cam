@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.dionisioaguado.fuenlabrada",
+   "delta_sg": -0.95275,
+   "cabeceras": {
+      "Date": "Mon, 03 Feb 2025 13:44:57 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff, nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=8F20A3146117F765B86E9CA4E8B8B9A4.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Feb-2026 13:44:57 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Feb-2026 13:44:57 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8"
+   }
+}

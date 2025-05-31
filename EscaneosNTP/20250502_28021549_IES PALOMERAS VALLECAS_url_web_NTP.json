@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.palomerasvallecas.madrid",
+   "delta_sg": 0.001912,
+   "cabeceras": {
+      "Date": "Fri, 02 May 2025 16:04:48 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/wp/v2/pages/783>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=29bdc9eca77f7bd57b2d8d5ab007146ef5dd5e19; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=ffc69be3c67925e6f19caf7520fbd7e29ff2fc97; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=f0321140fc909f160aeafdcc8c9eda959ee13a84; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][1]=bfe20dd9d20c7352391768a2f22b417ac2bc66a8; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][2]=d7d0595c9701ac4d00d9cc2312b2b8e8129e3ae1; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][3]=9d4c94d5063c8a506253bb5469849aeb0b163c45; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][4]=7dc83ef4014829a9dc4a0fe172c223995ea44bf0; expires=Fri, 02 May 2025 16:13:09 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "36793"
+   }
+}

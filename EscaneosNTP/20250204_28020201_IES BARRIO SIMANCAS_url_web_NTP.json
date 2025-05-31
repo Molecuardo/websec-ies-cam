@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.barriosimancas.madrid",
+   "delta_sg": 0.210006,
+   "cabeceras": {
+      "Date": "Tue, 04 Feb 2025 07:45:58 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.barriosimancas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.barriosimancas.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.barriosimancas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2bfa8bc539d8f81fdbc9b284b022090e034c07ac; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=60f1bca2eb2afaf0b09704f90a9965fc1e7258fa; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=0281bc42d1d76705091941fc4e92e8b49a962b59; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][1]=bb0df22b47985cdd186a7418c532711113137de4; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][2]=450c6614299a2f7ecdfff1dcf1a35dbc226fafad; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][3]=8529bb47ad89550ac093f58627836f70fd1e786d; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/, wc_session_ids[multi][4]=5a225b840ab497852ea7f6ba5130e3ad6a83cea7; expires=Tue, 04 Feb 2025 07:54:18 GMT; Max-Age=500; path=/ies.barriosimancas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30794"
+   }
+}

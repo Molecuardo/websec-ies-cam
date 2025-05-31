@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://site.educa.madrid.org/ies.juanramonjimenez.madrid/",
+   "delta_sg": 0.124812,
+   "cabeceras": {
+      "Date": "Tue, 04 Mar 2025 16:30:24 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.juanramonjimenez.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.juanramonjimenez.madrid/index.php/wp-json/wp/v2/pages/2326>; rel=\"alternate\"; type=\"application/json\", <https://site.educa.madrid.org/ies.juanramonjimenez.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=7e9f451402f77c513d6dba8f42a6be8d779d4313; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=c2f9291a42941ab0646ca274dd0e1cfd6e6cbffa; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3be45a27f77f0f13c80f4b75060057b2a4f674ff; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][1]=856d47d2ec46896cddb938b5177397efed7f4a52; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][2]=9bf3c25f8168abf8f3689832ec80b6e9f5bfd000; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][3]=4db421ef2617a4785a8349506088462104f1a30b; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/, wc_session_ids[multi][4]=3160d7fa21315e186a319626ec5c5a15b5e8629a; expires=Tue, 04 Mar 2025 16:38:44 GMT; Max-Age=500; path=/ies.juanramonjimenez.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "49203"
+   }
+}
