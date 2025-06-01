@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.antoniodomingue.madrid",
+   "delta_sg": 0.185585,
+   "cabeceras": {
+      "Date": "Sat, 31 May 2025 22:12:09 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/index.php/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.antoniodomingue.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=56b16b1ff3bd1eaba90381fd5d55d59c7c9ef627; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d3ff5abe424d78fc6840d926d3696371646ca7da; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=050bd0410c1518a182ec0aaca8ee7b69d0fd7450; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][1]=b1317b89aa6fcefb2f2eec1d4e23a33e5859a411; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][2]=5ebccec3d821447a801b070e3ba92854889b013a; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][3]=fa7355081b74f75a55a01a2b3544e8261648b056; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/, wc_session_ids[multi][4]=7b870101a26a80d6c61846c3241a9d3f96fcfc4f; expires=Sat, 31 May 2025 22:20:29 GMT; Max-Age=500; path=/ies.antoniodomingue.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "36893"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.isabellacatolica.boadilla",
+   "delta_sg": -0.017392,
+   "cabeceras": {
+      "Date": "Sat, 31 May 2025 22:21:33 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=5A532D5A9422A1A0E7E3594FD1E1C10C.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 31-May-2026 22:21:32 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 31-May-2026 22:21:32 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

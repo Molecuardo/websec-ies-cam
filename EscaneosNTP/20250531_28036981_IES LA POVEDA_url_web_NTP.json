@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lapoveda.arganda",
+   "delta_sg": 0.55667,
+   "cabeceras": {
+      "Date": "Sat, 31 May 2025 22:12:00 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.lapoveda.arganda/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.lapoveda.arganda/index.php/wp-json/wp/v2/pages/424>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.lapoveda.arganda/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5db23a2d98bdf340673faf3a8d6541ac475b3171; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/; secure; HttpOnly, wc_session_ids[all_forms]=2595df6c0c874aacdd7e5178c4846006036bee3f; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/; secure; HttpOnly, wc_session_ids[multi][0]=6285e92fffc6169263480731b48249b5e62320a1; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/, wc_session_ids[multi][1]=057435ebdcf1682228989d133c1267802c413557; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/, wc_session_ids[multi][2]=99ac108967014abb21ed4cb1e58f20de4bd66ca3; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/, wc_session_ids[multi][3]=449c05d6c5a672f2e8819edff21c51e90016c8b7; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/, wc_session_ids[multi][4]=1dc69cf771699ddce4aa56039554ff408fb489e3; expires=Sat, 31 May 2025 22:20:20 GMT; Max-Age=500; path=/ies.lapoveda.arganda/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27215"
+   }
+}
