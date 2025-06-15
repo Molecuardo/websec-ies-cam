@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.785193,
+   "cabeceras": {
+      "Date": "Mon, 02 Jun 2025 20:52:25 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b84ac8b5acd38b065c5d08dfa10d28354bb7efba; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=02fb9728989ca03fa7a255f2b7e339bc003daa8e; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=9598f6240d14fde2e420777a1d40aad8008efffd; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=2490b28b6741fcb3f0ae363579816693503129bc; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=cf93a72efcb47c368d5e509e643df43f5c8eca28; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=9758bc1ecaa1f4dd4cacd65dff47dd4af2dd09a0; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=ec8c88b63bbc297876397a2ffa98a2449476dc21; expires=Mon, 02 Jun 2025 21:00:45 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38205"
+   }
+}

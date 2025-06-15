@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elcanaveral.mostoles",
+   "delta_sg": -0.045285,
+   "cabeceras": {
+      "Date": "Tue, 03 Jun 2025 21:24:29 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elcanaveral.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elcanaveral.mostoles/index.php/wp-json/wp/v2/pages/713>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elcanaveral.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=f852bc3c77b915a59dcc7a455c7e80a2f30dcc02; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=d7e0aaff690a04ed61d206e8e65e13ec74cda5ea; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=55cd84b54c65ce9f0c8ff64c057e145cf99402c0; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/, wc_session_ids[multi][1]=1a41d845863075b10d840b7357e6004fe32bfc18; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/, wc_session_ids[multi][2]=fc9cf1f3ef22c8f1e636d5863432fb482cc48909; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/, wc_session_ids[multi][3]=41e80a98f85497ecfaa39f3ab70c397513c8af94; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/, wc_session_ids[multi][4]=5ed6eb359223ecbe819469ad8c9d0a01d1b145a2; expires=Tue, 03 Jun 2025 21:32:49 GMT; Max-Age=500; path=/ies.elcanaveral.mostoles/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "22541"
+   }
+}

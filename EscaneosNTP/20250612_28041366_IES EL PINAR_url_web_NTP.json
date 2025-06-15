@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elpinar.alcorcon",
+   "delta_sg": 0.025127,
+   "cabeceras": {
+      "Date": "Thu, 12 Jun 2025 23:01:01 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.elpinar.alcorcon/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.elpinar.alcorcon/index.php/wp-json/wp/v2/pages/187>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.elpinar.alcorcon/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=2c297a9f4b969a9549dbe8b4be7807be8e610837; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/; secure; HttpOnly, wc_session_ids[all_forms]=61758148e7f4014501e2df4e66f4c2846fd73b0e; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/; secure; HttpOnly, wc_session_ids[multi][0]=8f152b517e96f884a20662476627f6c3362b4854; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/, wc_session_ids[multi][1]=58ea3aa41deed713a278803ae3307b9a4be5ba5a; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/, wc_session_ids[multi][2]=b894b7e0a59010952813ecf3398b29fb0733a4a1; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/, wc_session_ids[multi][3]=0c05e36c10a580fa0be90167df135bff92d82b9c; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/, wc_session_ids[multi][4]=9edbdadbd43d8868375170274e40273bca31be8d; expires=Thu, 12 Jun 2025 23:09:21 GMT; Max-Age=500; path=/ies.elpinar.alcorcon/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38469"
+   }
+}

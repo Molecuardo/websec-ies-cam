@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": -0.788015,
+   "cabeceras": {
+      "Date": "Fri, 13 Jun 2025 21:37:14 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e2e2621aacee2a94eebd84d304064b31f4c19533; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=f8bc4fe94bb7e047686193ff912986a70ac5d3e2; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=480441dd2dc1f1693d45da6a3ad9b1ed03858d0c; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=8ed0028d75bb831457627091263cbf6073413f3a; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=63c9fe209c5883853cd508f2837254fc5247b480; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=1df7a0e7b55d9d7cbebac2ae6a66bcdfb2dd8428; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=0ae7994e0fe454eefa511e40833245a65efc68ba; expires=Fri, 13 Jun 2025 21:45:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38194"
+   }
+}

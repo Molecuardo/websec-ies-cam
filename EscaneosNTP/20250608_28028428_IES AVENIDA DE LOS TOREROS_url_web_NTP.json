@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.056063,
+   "cabeceras": {
+      "Date": "Sun, 08 Jun 2025 21:49:37 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a177a8bf7b64f2a8dd89157f392fa6ae39e2169c; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=c0cdffba2e43f96cee5aa765c5b40058a26722da; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=b352993654a05e902e3c6a2b4fd371c189210a66; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=264160a533f845a09ef98b4277537bec3d61308d; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=4c372febfc4a1bf2a93f3d0f75e45aaea7d8a7d1; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=9e341c51476a3c504804b303418a36ec286aec00; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=ca6c41c847efa1b102c9dd03e72d5cc7638da192; expires=Sun, 08 Jun 2025 21:57:57 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38208"
+   }
+}

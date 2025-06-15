@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avalon.valdemoro",
+   "delta_sg": -0.797137,
+   "cabeceras": {
+      "Date": "Sat, 14 Jun 2025 23:37:43 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=B9A75698CB3135BDB242F8BFB980E918.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 14-Jun-2026 23:37:43 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 14-Jun-2026 23:37:43 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

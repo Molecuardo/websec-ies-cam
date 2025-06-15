@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.grandecovian.arganda",
+   "delta_sg": -0.376282,
+   "cabeceras": {
+      "Date": "Wed, 11 Jun 2025 21:29:54 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=CBFF1B3ED5B794FF907761C18FA3588A.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 11-Jun-2026 21:29:54 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 11-Jun-2026 21:29:54 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

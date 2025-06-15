@@ -1,0 +1,20 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.mirasierra.madrid",
+   "delta_sg": 0.09056,
+   "cabeceras": {
+      "Date": "Sun, 08 Jun 2025 21:51:53 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "X-Pingback": "https://site.educa.madrid.org/ies.mirasierra.madrid/xmlrpc.php",
+      "Link": "<https://site.educa.madrid.org/ies.mirasierra.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.mirasierra.madrid/index.php/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.mirasierra.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e316c476cecd2e829e568ee812e0b8b5cabe935b; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=661fcd47dd494b18735b282fe4a0a153c2c8076e; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=6934841a98de9db13f6782ed886277c7029eeb78; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/, wc_session_ids[multi][1]=3ffd39c39c91bbea409a967d3e631a05c3fb80c7; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/, wc_session_ids[multi][2]=99084eae53a056aeab4fe3297513ae270a2a2dc3; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/, wc_session_ids[multi][3]=51a257c30e480fda2523d036deeadb4cc1da71bb; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/, wc_session_ids[multi][4]=9f3f1877d519d99000b4631c929900bc4e63db40; expires=Sun, 08 Jun 2025 22:00:13 GMT; Max-Age=500; path=/ies.mirasierra.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "34002"
+   }
+}

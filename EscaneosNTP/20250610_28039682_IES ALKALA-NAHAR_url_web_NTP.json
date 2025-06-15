@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alkalanahar.alcala",
+   "delta_sg": -0.305779,
+   "cabeceras": {
+      "Date": "Tue, 10 Jun 2025 21:20:13 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=FCA39947F5EB77384A2F4DAF9D5CF696.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 10-Jun-2026 21:20:13 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 10-Jun-2026 21:20:14 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

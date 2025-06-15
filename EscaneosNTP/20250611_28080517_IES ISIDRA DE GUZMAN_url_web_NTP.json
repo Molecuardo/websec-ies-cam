@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.isidradeguzman.alcala",
+   "delta_sg": -1.375175,
+   "cabeceras": {
+      "Date": "Wed, 11 Jun 2025 21:36:27 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=4A4F3BCF4642AFD57DA18239E2C96E75.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 11-Jun-2026 21:36:28 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 11-Jun-2026 21:36:28 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

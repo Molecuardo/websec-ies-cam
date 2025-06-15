@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.028675,
+   "cabeceras": {
+      "Date": "Sun, 01 Jun 2025 20:05:14 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=aa5cd46615313538bc533b854a33287c0ce3569f; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=ed69c2ec9e636a2a53232a2c798c36ee673481bc; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=da2b599152c53fe58330838b70b715f494e81e25; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=93a3b7a9dabcc9317f29f741aa3b55a99adada82; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=9ed29b4301d5aa1b2a0fdd906da3c5678d09af44; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=bd7737516c25a73b10e49e1f9cf2fb47508cab44; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=b5373d12c00b6f53172954cfaa6072943907bc57; expires=Sun, 01 Jun 2025 20:13:34 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38199"
+   }
+}

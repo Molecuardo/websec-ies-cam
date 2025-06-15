@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.becquer.algete",
+   "delta_sg": 0.070472,
+   "cabeceras": {
+      "Date": "Tue, 03 Jun 2025 21:17:29 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.becquer.algete/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.becquer.algete/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.becquer.algete/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=85dd89e8b098742ee04e12a2a860db8fe808fe1d; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/; secure; HttpOnly, wc_session_ids[all_forms]=b84d1a7acc8d66ce4af3238c347c45d04c778565; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/; secure; HttpOnly, wc_session_ids[multi][0]=c3baa2ee48b4383996c535463c925585b12629ea; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/, wc_session_ids[multi][1]=6a2650c98523bc6f0ae06ff48b2a1163dc1f9822; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/, wc_session_ids[multi][2]=1bf18f723381e221669db94ae2a703717fce351f; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/, wc_session_ids[multi][3]=31ce6cd977f447bbbabf0554935ed645f4c7ef99; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/, wc_session_ids[multi][4]=875a6a6fec1c5508a0049b846428e50a977ed618; expires=Tue, 03 Jun 2025 21:25:49 GMT; Max-Age=500; path=/ies.becquer.algete/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "45134"
+   }
+}

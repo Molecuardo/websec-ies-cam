@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sannicasio.leganes",
+   "delta_sg": -0.203284,
+   "cabeceras": {
+      "Date": "Mon, 09 Jun 2025 21:41:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.sannicasio.leganes/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.sannicasio.leganes/index.php/wp-json/wp/v2/pages/271>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.sannicasio.leganes/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1bd996f56ebde30d1716bfe3fcb12426de4f8ce0; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/; secure; HttpOnly, wc_session_ids[all_forms]=628a905965c5d55947647302c594d4d92cfef326; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/; secure; HttpOnly, wc_session_ids[multi][0]=a6194f799e5b81e3d2887fd74bdc829c5c06f70d; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/, wc_session_ids[multi][1]=361ef091cb7a3c69a67590d6bfd88cac7926f3b1; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/, wc_session_ids[multi][2]=f32aeab30bef40e4d7b6f6cec318a66b06c92d9f; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/, wc_session_ids[multi][3]=cb8e3c6baff1a5e6e963722420485fa4893f4622; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/, wc_session_ids[multi][4]=5d9d7846d2a34b573f7d29731ef14eda0dc7c3bf; expires=Mon, 09 Jun 2025 21:49:51 GMT; Max-Age=500; path=/ies.sannicasio.leganes/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "21400"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.elcarrascal.arganda",
+   "delta_sg": -0.906087,
+   "cabeceras": {
+      "Date": "Tue, 10 Jun 2025 21:13:44 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=74C6F4F121565F62DDB9AD97B0E823C6.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 10-Jun-2026 21:13:45 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 10-Jun-2026 21:13:45 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

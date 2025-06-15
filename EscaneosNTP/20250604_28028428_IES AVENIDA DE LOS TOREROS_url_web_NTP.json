@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.384216,
+   "cabeceras": {
+      "Date": "Wed, 04 Jun 2025 22:14:24 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=251a7501f3b299b175b5296f7fcabaef82077358; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e399180b4dc2e4a0d2b79bd2c3286464d71a6fae; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=379899e1b1a812627e867ab562f83e7258d50559; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=951601e5c7e7b2986876263a6720a439f5a52604; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=745b3522b909151e573ea4f95b469b7410ce91b0; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=c2b8806c1a2ea4cdb9b6eaf2cc5bd4b859b347ea; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=145a79edb897a3b4292d0087bbb3dcba8a77b1ae; expires=Wed, 04 Jun 2025 22:22:44 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38188"
+   }
+}

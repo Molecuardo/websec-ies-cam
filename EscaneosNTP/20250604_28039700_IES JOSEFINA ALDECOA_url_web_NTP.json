@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.josefinaaldecoa.alcorcon",
+   "delta_sg": -0.912521,
+   "cabeceras": {
+      "Date": "Wed, 04 Jun 2025 22:17:14 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=AA2B6509A6E507C1959575D78ABF74C2.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 04-Jun-2026 22:17:14 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 04-Jun-2026 22:17:14 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

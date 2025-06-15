@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lazarocarreter.alcala",
+   "delta_sg": 0.214167,
+   "cabeceras": {
+      "Date": "Fri, 13 Jun 2025 21:43:56 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=F6FDB5D26D8E59A6832F206DC0432489.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 13-Jun-2026 21:43:55 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 13-Jun-2026 21:43:55 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.carpediem.fuenlabrada",
+   "delta_sg": -0.649454,
+   "cabeceras": {
+      "Date": "Sun, 08 Jun 2025 21:57:31 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=CED6BD7C13FDC22B4DF841B3B303EABE.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 08-Jun-2026 21:57:30 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 08-Jun-2026 21:57:30 GMT; Path=/; HttpOnly, UqZBpD3n=v1ANCGSQ__1MP; Expires=Mon, 09-Jun-2025 09:57:32 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

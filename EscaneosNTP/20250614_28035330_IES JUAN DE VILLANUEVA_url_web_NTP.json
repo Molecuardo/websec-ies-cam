@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.juandevillanuev.madrid",
+   "delta_sg": 0.225887,
+   "cabeceras": {
+      "Date": "Sat, 14 Jun 2025 23:29:55 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=7E6A4CC966F295AB0E15D4AA96F072DA.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 14-Jun-2026 23:29:53 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 14-Jun-2026 23:29:53 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

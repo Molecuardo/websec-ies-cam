@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lacabrera",
+   "delta_sg": 0.957689,
+   "cabeceras": {
+      "Date": "Mon, 09 Jun 2025 21:41:51 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.lacabrera/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.lacabrera/index.php/wp-json/wp/v2/pages/5461>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.lacabrera/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=271e62da907a1f0501d543a893e40157d4a5aca2; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/; secure; HttpOnly, wc_session_ids[all_forms]=cfae5266367e71803dab05a6c0a3db22a8232434; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/; secure; HttpOnly, wc_session_ids[multi][0]=9e6dda04d9bad4a95430f34ef38dab27d5117daa; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/, wc_session_ids[multi][1]=686bc6a0bc07af47c3457bf3dc8deb03e6366c00; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/, wc_session_ids[multi][2]=d79863fbad7b17ba531510f520b91237f04c41d2; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/, wc_session_ids[multi][3]=45fcb6839e2aec4f4f27fe6e6753e5ea24897095; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/, wc_session_ids[multi][4]=1ae4da92e55b182ee10ca9c7fb775b0fc87e958f; expires=Mon, 09 Jun 2025 21:50:11 GMT; Max-Age=500; path=/ies.lacabrera/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28951"
+   }
+}

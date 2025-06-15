@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.islasfilipinas.madrid",
+   "delta_sg": -0.02688,
+   "cabeceras": {
+      "Date": "Mon, 02 Jun 2025 20:54:29 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=9F02E521021BC441202118646DA76F02.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 02-Jun-2026 20:54:29 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 02-Jun-2026 20:54:29 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

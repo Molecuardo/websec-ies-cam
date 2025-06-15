@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.santaeugenia.madrid",
+   "delta_sg": 0.511303,
+   "cabeceras": {
+      "Date": "Mon, 02 Jun 2025 20:57:27 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.santaeugenia.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.santaeugenia.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.santaeugenia.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b068a7644fe7c9354088fac63090f7f9c95c8aff; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=7f4d92cc99da2a70d147fa5961254e0d1c74c777; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=7fe9f4220edac5954e8eacf344ec1ced96d7ae34; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/, wc_session_ids[multi][1]=19c1802702b88b536641287e4fcaa08ece028571; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/, wc_session_ids[multi][2]=4bef7b3df7347c454f043f5e04714ffd1b43206d; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/, wc_session_ids[multi][3]=92c1118cde849560eb88b001437bfa1d2ae1aaba; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/, wc_session_ids[multi][4]=ec7222724f02d8a045ca3a77fbbf4d3920617da4; expires=Mon, 02 Jun 2025 21:05:47 GMT; Max-Age=500; path=/ies.santaeugenia.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "46234"
+   }
+}

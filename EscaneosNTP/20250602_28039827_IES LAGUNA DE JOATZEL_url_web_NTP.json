@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lagunadejoatzel.getafe",
+   "delta_sg": 0.420984,
+   "cabeceras": {
+      "Date": "Mon, 02 Jun 2025 20:55:31 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.lagunadejoatzel.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=4208baf2a0b3db70b431ba30b46dc3f550680533; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=dc81aeacec4493e799517924da9fd5e70755c54d; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=9a78916dffd7c339ac7e63d771668df306416dba; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/, wc_session_ids[multi][1]=30303f61baebcabc4f1ce89eb51eae1c1b8055b3; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/, wc_session_ids[multi][2]=7c6b50cca5ca25243206ac927b7d085834a56614; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/, wc_session_ids[multi][3]=b939d42e12cae852e9ae231d8978b8794d54ab6e; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/, wc_session_ids[multi][4]=b0508443869c0d839a1d540249e2170c19b1a9e0; expires=Mon, 02 Jun 2025 21:03:51 GMT; Max-Age=500; path=/ies.lagunadejoatzel.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29637"
+   }
+}

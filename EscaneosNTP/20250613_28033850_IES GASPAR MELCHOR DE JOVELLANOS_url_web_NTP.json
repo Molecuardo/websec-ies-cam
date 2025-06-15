@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
+   "delta_sg": 0.42324,
+   "cabeceras": {
+      "Date": "Fri, 13 Jun 2025 21:38:41 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/wp/v2/pages/130>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b5729c8aab114d2407c363189d9c7baf60c7063a; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[all_forms]=1832e4dd8f76acb6a763ce09f9702925a978da8f; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[multi][0]=d83d0e50dcd273e24422654c4e3e6a4ce8b90efb; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][1]=f45aac9eaa3ed730bc3b8638543f7bebc1357477; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][2]=c6a1321f49378270ae45b014549f6d4c9b533098; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][3]=2f242d52efc15850be2586a4ed3509e567652dde; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][4]=31e30386912f684e0c8e61b0a233a95f2f726031; expires=Fri, 13 Jun 2025 21:47:01 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27003"
+   }
+}

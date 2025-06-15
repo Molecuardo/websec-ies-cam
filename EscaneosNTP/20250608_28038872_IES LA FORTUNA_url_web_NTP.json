@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lafortuna.leganes",
+   "delta_sg": 0.545833,
+   "cabeceras": {
+      "Date": "Sun, 08 Jun 2025 21:52:16 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=2A54ECA72631B0C045BA14D78F8A9CB4.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 08-Jun-2026 21:52:14 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 08-Jun-2026 21:52:14 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

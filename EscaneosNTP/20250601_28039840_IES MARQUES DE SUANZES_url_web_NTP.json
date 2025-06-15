@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.marquesdesuanzes.madrid",
+   "delta_sg": -0.123693,
+   "cabeceras": {
+      "Date": "Sun, 01 Jun 2025 20:08:25 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.marquesdesuanzes.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.marquesdesuanzes.madrid/index.php/wp-json/wp/v2/pages/688>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.marquesdesuanzes.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a67c0966c0e0cb6bf6f4cc7fadfa96994e3571f2; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=740f96d9277548fed699037eeffc36d3f5bff005; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=57a4b6dce9f5491b3c8d5d7f39dc4c8964b6d175; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/, wc_session_ids[multi][1]=c03ee583ad95ecb6ffe40277b4ef28d17fee3922; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/, wc_session_ids[multi][2]=03f6da6698ddbe40b8ee871e2956e205ca280f94; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/, wc_session_ids[multi][3]=c0bd765e9792bced7893ca856a976395776fad5f; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/, wc_session_ids[multi][4]=185c46ff30dcd5dcff63948b71866d7e4395b3d9; expires=Sun, 01 Jun 2025 20:16:45 GMT; Max-Age=500; path=/ies.marquesdesuanzes.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27713"
+   }
+}

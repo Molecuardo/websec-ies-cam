@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.malasana.mostoles",
+   "delta_sg": -0.426515,
+   "cabeceras": {
+      "Date": "Sun, 01 Jun 2025 20:06:42 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.malasana.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.malasana.mostoles/index.php/wp-json/wp/v2/pages/415>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.malasana.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=02de983254b3e70efeefe31cddd9e142686a6daf; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=7e81051bf1521ae4962b4d21aa92db4927840d81; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=45836acff53e10900ec7f47eb3b2b9b79763582b; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/, wc_session_ids[multi][1]=d38e82cc8a022742842027897572a037f698b299; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/, wc_session_ids[multi][2]=d360de9883c2fbed66c97d1e13f26457355585a4; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/, wc_session_ids[multi][3]=eba5f9f01c37239c617e17c5775b9fe9163d90ab; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/, wc_session_ids[multi][4]=6e802d4113a37b80ca82b4e419bcca547ec3eb50; expires=Sun, 01 Jun 2025 20:15:03 GMT; Max-Age=500; path=/ies.malasana.mostoles/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "23206"
+   }
+}

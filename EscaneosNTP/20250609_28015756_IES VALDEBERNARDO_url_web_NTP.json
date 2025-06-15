@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.valdebernardo.madrid",
+   "delta_sg": 0.734898,
+   "cabeceras": {
+      "Date": "Mon, 09 Jun 2025 21:33:18 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=3E10AF00B68442400554324000B41FA9.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 09-Jun-2026 21:33:17 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 09-Jun-2026 21:33:17 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

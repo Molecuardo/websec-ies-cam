@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.renacimiento.madrid",
+   "delta_sg": -1.23341,
+   "cabeceras": {
+      "Date": "Fri, 13 Jun 2025 21:43:35 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.renacimiento.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.renacimiento.madrid/index.php/wp-json/wp/v2/pages/121>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.renacimiento.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=074212ea1627e85543b2fa52f46829e5b872ec03; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=620094353b011c293b541f8df98bcf7325cb872d; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=290d54a514dc2a65a053d4d7dd93772e6b738d22; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/, wc_session_ids[multi][1]=ecab1ef4ddce4e36603bb7c34a3d3b66293d981a; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/, wc_session_ids[multi][2]=ab2a297aa82d8e279385ad5e1fc5448e3d06d32a; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/, wc_session_ids[multi][3]=f0336cca820494d8e3ff1262cff1373c25fc6835; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/, wc_session_ids[multi][4]=7cb72ee5ede10d6da82a0e3312d148f75ef41f2e; expires=Fri, 13 Jun 2025 21:51:56 GMT; Max-Age=500; path=/ies.renacimiento.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "34558"
+   }
+}

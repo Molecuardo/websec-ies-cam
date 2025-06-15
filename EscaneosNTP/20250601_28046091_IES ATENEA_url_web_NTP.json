@@ -1,0 +1,20 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.atenea.alcala",
+   "delta_sg": -0.2678,
+   "cabeceras": {
+      "Date": "Sun, 01 Jun 2025 20:11:07 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "X-Pingback": "https://site.educa.madrid.org/ies.atenea.alcala/xmlrpc.php",
+      "Link": "<https://site.educa.madrid.org/ies.atenea.alcala/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.atenea.alcala/index.php/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.atenea.alcala/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3b1814bf69db7201c04be5927506c3e7d1265c30; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/; secure; HttpOnly, wc_session_ids[all_forms]=62f5599f5266bcf324b4ac21c0596cee1b22e1e9; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/; secure; HttpOnly, wc_session_ids[multi][0]=b6a5db30aa1e2cc812f60748f256a36f20dbce00; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/, wc_session_ids[multi][1]=eb249c992a41a34138c082d6fcfe7a6ab5c6ffbc; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/, wc_session_ids[multi][2]=a40de6a46a0238e0465d9fb4f80576facb632028; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/, wc_session_ids[multi][3]=bc61d74a140ebe9c24819e947fd1090d0fa6a12c; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/, wc_session_ids[multi][4]=ec238283e79279d53f876af2bbec995f656e321b; expires=Sun, 01 Jun 2025 20:19:28 GMT; Max-Age=500; path=/ies.atenea.alcala/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "37373"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.albeniz.leganes",
+   "delta_sg": -0.19041,
+   "cabeceras": {
+      "Date": "Mon, 02 Jun 2025 20:55:32 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=AAFA191F232204504E57D644D9AECF86.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 02-Jun-2026 20:55:32 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 02-Jun-2026 20:55:32 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

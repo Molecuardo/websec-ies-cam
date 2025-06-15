@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": 0.100981,
+   "cabeceras": {
+      "Date": "Sun, 08 Jun 2025 21:50:44 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9ca265fba37b4bbf40a35486fbd79c63335250bc; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8a6ef3412727e53ca02a827667f038fb530556ea; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=69d49ce5f138e6182e2b3823dbde787d73d25ce3; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=a8c4092d0957f1b28b66c7066b8c7290b38df569; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=e2ce67c7e7ddaf2e9ad7ac8ec32bf6fbb6fa9f6b; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=675a609052e5a1154282beda3438221907b3d44f; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=6497209867538ac55ca2127fdbf31ec53816af04; expires=Sun, 08 Jun 2025 21:59:04 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "34104"
+   }
+}
