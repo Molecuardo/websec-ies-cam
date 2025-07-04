@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cervantes.mostoles",
+   "delta_sg": 0.451465,
+   "cabeceras": {
+      "Date": "Fri, 27 Jun 2025 23:03:17 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/wp/v2/pages/204>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cervantes.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=20070bc553c8fa119317c83bf33b9eef5580539a; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=e1e19535ecec2af95356d04b6b020f78ef4e9370; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=2eb2bfe4832e69d6fc28a9cccfe202c40ec57891; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][1]=dfcae77f488e7cff27f76c59611b0a64e7610aa6; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][2]=eeb605e947e86351e8c436573f663c3d52cfcee1; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][3]=ec5042e2d9c0de38d425e89933424e3a023d3168; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][4]=153859f6b3737dc403b81fd141651e4d807ead28; expires=Fri, 27 Jun 2025 23:11:37 GMT; Max-Age=500; path=/ies.cervantes.mostoles/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26614"
+   }
+}

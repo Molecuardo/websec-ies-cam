@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.889806,
+   "cabeceras": {
+      "Date": "Tue, 17 Jun 2025 22:01:12 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=37c27596d79b864712e83c39bdf548728d81fd36; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=eb8ee8a71a5b2e8dc63f751fe6f741de80844c8f; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=b609649a003333a634c50f31d0af6f2807a34727; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=6e09ff0ed689cde041bdce26850dac7f3e141b22; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=79b538e79bec2ab2d032e56bfb1b2d5c65298dfe; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=5ee8b3e721efad19eb3ceecfd3bc87bbde7a2f2f; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=9e0ede0071e0bffe029d5e4b19e580324c705f55; expires=Tue, 17 Jun 2025 22:09:33 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29316"
+   }
+}

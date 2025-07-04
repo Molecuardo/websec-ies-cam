@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": -0.540282,
+   "cabeceras": {
+      "Date": "Sun, 15 Jun 2025 21:30:06 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=6d054e8d8a3afbf8e6132fe9d8b0e0966e64d2b9; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=37c80d6d2b638647765440398b5fd730dd0fa80c; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=131226f95685246164288c9bc97654efb8c6fb95; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=cda7883c06b23fda2eae00830c8c694066f714b0; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=f6d48413c1635e3ea2338fef8caaf01699c6af81; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=7e2d2889430a0f08855583f40dedb1f35a0be5a0; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=a1d488b248b29f90c3d18941d112780d40337395; expires=Sun, 15 Jun 2025 21:38:27 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29333"
+   }
+}

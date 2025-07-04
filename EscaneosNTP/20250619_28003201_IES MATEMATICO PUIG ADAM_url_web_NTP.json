@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.puigadam.getafe",
+   "delta_sg": -0.549148,
+   "cabeceras": {
+      "Date": "Thu, 19 Jun 2025 22:03:39 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.puigadam.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.puigadam.getafe/index.php/wp-json/wp/v2/pages/947>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.puigadam.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=47c362151317d6220c2878bd6b8faf5b3697c4d3; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=3397decc9c2bd4ffa2554fad87aed83d9d4c006d; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=4c05e8a78544024f4413a0d81470d566a8b5047c; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/, wc_session_ids[multi][1]=db246bedfcc142d15e4022169350bce6a4354b07; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/, wc_session_ids[multi][2]=b7b69ae764626d73d16003e34938cd983da8bccd; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/, wc_session_ids[multi][3]=cbac70068c961bc2125d712aaebb00daad2a8331; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/, wc_session_ids[multi][4]=aaca830cd2213ca66b3174f8d5b4b6a8324b2d3f; expires=Thu, 19 Jun 2025 22:12:00 GMT; Max-Age=500; path=/ies.puigadam.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "54680"
+   }
+}

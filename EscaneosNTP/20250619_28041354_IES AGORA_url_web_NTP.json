@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.agora.alcobendas",
+   "delta_sg": -0.10462,
+   "cabeceras": {
+      "Date": "Thu, 19 Jun 2025 22:09:11 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.agora.alcobendas/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.agora.alcobendas/index.php/wp-json/wp/v2/pages/330>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.agora.alcobendas/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0ea778e706750d5edd11fec006b1edcf528d5567; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/; secure; HttpOnly, wc_session_ids[all_forms]=244b7b4b5f6eba33bd8825fbcc3f38b40294ed95; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/; secure; HttpOnly, wc_session_ids[multi][0]=f02c858a9dad3b29ebaa5a5d0369a4c5deb53f64; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/, wc_session_ids[multi][1]=65e43f4bfd4d9b0295941df53e436341450eb856; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/, wc_session_ids[multi][2]=6823eac0740798027c43c3d02ce8835337d35012; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/, wc_session_ids[multi][3]=a6555d8c7a1f237dee3226b8f97cc3da9e0cbdd8; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/, wc_session_ids[multi][4]=8bf76e8b3a2d6386b7ab47861241f9638c9a10e9; expires=Thu, 19 Jun 2025 22:17:31 GMT; Max-Age=500; path=/ies.agora.alcobendas/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "19688"
+   }
+}

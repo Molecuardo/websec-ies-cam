@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.franciscadepedraza.alcala",
+   "delta_sg": -0.332549,
+   "cabeceras": {
+      "Date": "Tue, 17 Jun 2025 22:05:47 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=9405AE797938EC1FD079FDC3488B47DE.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 17-Jun-2026 22:05:47 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 17-Jun-2026 22:05:47 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

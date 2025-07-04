@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.gonzalochacon.arroyomolinos",
+   "delta_sg": 1.040483,
+   "cabeceras": {
+      "Date": "Mon, 16 Jun 2025 21:37:35 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=9E9FF61A8ADEF0706ACF6F01ACADAD62.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 16-Jun-2026 21:37:33 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 16-Jun-2026 21:37:33 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

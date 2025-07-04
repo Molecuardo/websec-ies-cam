@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 0.026499,
+   "cabeceras": {
+      "Date": "Thu, 19 Jun 2025 22:04:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a896dc5041f10eb2f572b227b22a696813b0af0f; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=3cd019b1dad93ef90b5d090c73815e5bec814829; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=d38a9abb9ce60dd9153f8e500599c0d1c45d1c8e; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=60fb2f92f8e5a3b524fe728d5dbb947b524fe61a; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=acc3af6c61df89a8acfcd5ba5226bc184c887b60; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=40db133d0e4df586237e7ea9e4c16b41a59cc0d4; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=529aea3a76f1b0da1b1ea06f0a73ca32d7c3aaba; expires=Thu, 19 Jun 2025 22:13:07 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "52884"
+   }
+}

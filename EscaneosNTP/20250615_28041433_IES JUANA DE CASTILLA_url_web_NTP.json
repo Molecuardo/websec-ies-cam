@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.juanadecastilla.madrid",
+   "delta_sg": -1.311849,
+   "cabeceras": {
+      "Date": "Sun, 15 Jun 2025 21:30:20 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=BB58603415FBBDB21BED57F238942381.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 15-Jun-2026 21:30:20 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 15-Jun-2026 21:30:20 GMT; Path=/; HttpOnly, UqZBpD3n=v1AdCGSQ__rNr; Expires=Mon, 16-Jun-2025 09:30:21 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

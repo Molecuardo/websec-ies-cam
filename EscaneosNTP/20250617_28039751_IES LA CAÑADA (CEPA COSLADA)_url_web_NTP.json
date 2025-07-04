@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.cepa.coslada/inicio",
+   "delta_sg": 0.936849,
+   "cabeceras": {
+      "Date": "Tue, 17 Jun 2025 22:00:24 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=2C6E8F01706E5CDA4BBC1B81F46ABD8C.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 17-Jun-2026 22:00:23 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 17-Jun-2026 22:00:23 GMT; Path=/; HttpOnly, UqZBpD3n=v1P9CGSQ__hTU; Expires=Wed, 18-Jun-2025 10:00:25 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

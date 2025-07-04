@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalherrera.madrid",
+   "delta_sg": 0.009152,
+   "cabeceras": {
+      "Date": "Thu, 19 Jun 2025 22:04:36 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/wp/v2/pages/1046>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=079cbbdd095eefbb1f08f9d60add1418de3f3266; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=77accb09403c3c293a883479ca9afae0b791501f; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3457b76545e094f3a0465c6978201814a512d407; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][1]=01940ca7a6ad1fad44c2d51424a5da1c0e47253a; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][2]=061d7564283b08709635c848376a3053c00c973b; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][3]=b90b41ac778da4da0ee0d9a91efbb349a269da05; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][4]=78279ec572d55925d3603b4ff867f1d19a4c32e3; expires=Thu, 19 Jun 2025 22:12:56 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28865"
+   }
+}

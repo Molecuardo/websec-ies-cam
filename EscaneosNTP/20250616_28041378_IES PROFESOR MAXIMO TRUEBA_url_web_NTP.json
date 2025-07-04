@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maximotrueba.boadilla",
+   "delta_sg": 1.04124,
+   "cabeceras": {
+      "Date": "Mon, 16 Jun 2025 21:34:48 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b472adc393a13885f524d3be3bfaad254bce7ad0; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[all_forms]=51374f66d6b3caa6a6d71f692b1e7ebda4513871; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[multi][0]=dca54dbbd9f952616acfc36852370ac99db9c92c; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][1]=6b2aec1c17b5a2e764246f9d87bb92429f8d1284; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][2]=c943f07772d752dece8cff79017dfc37f3da2b70; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][3]=93b042a423cfd050099585185d1a72d58f807b7f; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][4]=c36d316d1e386c95b65879a674ea814a6a150692; expires=Mon, 16 Jun 2025 21:43:08 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28124"
+   }
+}
