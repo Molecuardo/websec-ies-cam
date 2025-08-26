@@ -85,12 +85,12 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-    - [Project Index](#project-index)
+  - [Project Index](#project-index)
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -99,8 +99,6 @@
 ---
 
 ## Overview
-
-
 
 ---
 
@@ -163,71 +161,71 @@
 ### Project Index
 
 <details open>
-	<summary><b><code>WEBSEC-IES-CAM/</code></b></summary>
-	<!-- __root__ Submodule -->
-	<details>
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ __root__</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/lighthouse_test.py'>lighthouse_test.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/certificado_test.py'>certificado_test.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/LICENSE'>LICENSE</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/notas.txt'>notas.txt</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/lighthouse_report.json'>lighthouse_report.json</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/CM_Institutos_Pablo.pbix'>CM_Institutos_Pablo.pbix</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/ntp_test.py'>ntp_test.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/cabeceras_web_test.py'>cabeceras_web_test.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-			</table>
-		</blockquote>
-	</details>
-	<!-- EscaneosCertificados Submodule -->
-	<details>
-		<summary><b>EscaneosCertificados</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ EscaneosCertificados</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-			</table>
-		</blockquote>
-	</details>
+ <summary><b><code>WEBSEC-IES-CAM/</code></b></summary>
+ <!-- __root__ Submodule -->
+ <details>
+  <summary><b>__root__</b></summary>
+  <blockquote>
+   <div class='directory-path' style='padding: 8px 0; color: #666;'>
+    <code><b>⦿ __root__</b></code>
+   <table style='width: 100%; border-collapse: collapse;'>
+   <thead>
+    <tr style='background-color: #f8f9fa;'>
+     <th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
+     <th style='text-align: left; padding: 8px;'>Summary</th>
+    </tr>
+   </thead>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/lighthouse_test.py'>lighthouse_test.py</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/certificado_test.py'>certificado_test.py</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/LICENSE'>LICENSE</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/notas.txt'>notas.txt</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/lighthouse_report.json'>lighthouse_report.json</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/CM_Institutos_Pablo.pbix'>CM_Institutos_Pablo.pbix</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/ntp_test.py'>ntp_test.py</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+    <tr style='border-bottom: 1px solid #eee;'>
+     <td style='padding: 8px;'><b><a href='https://github.com/Molecuardo/websec-ies-cam/blob/master/cabeceras_web_test.py'>cabeceras_web_test.py</a></b></td>
+     <td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+    </tr>
+   </table>
+  </blockquote>
+ </details>
+ <!-- EscaneosCertificados Submodule -->
+ <details>
+  <summary><b>EscaneosCertificados</b></summary>
+  <blockquote>
+   <div class='directory-path' style='padding: 8px 0; color: #666;'>
+    <code><b>⦿ EscaneosCertificados</b></code>
+   <table style='width: 100%; border-collapse: collapse;'>
+   <thead>
+    <tr style='background-color: #f8f9fa;'>
+     <th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
+     <th style='text-align: left; padding: 8px;'>Summary</th>
+    </tr>
+   </thead>
+   </table>
+  </blockquote>
+ </details>
 </details>
 
 ---
@@ -238,12 +236,12 @@
 
 This project requires the following dependencies:
 
-- **Programming Language:** JavaScript
-- **Package Manager:** Npm, Cmake, Bower, Yarn
+- **Programming Language:** Pythton and JavaScript
+- **Package Manager:** Npm
 
 ### Installation
 
-Build websec-ies-cam from the source and intsall dependencies:
+Build websec-ies-cam from the source and install dependencies:
 
 1. **Clone the repository:**
 
@@ -260,142 +258,33 @@ Build websec-ies-cam from the source and intsall dependencies:
 3. **Install the dependencies:**
 
 <!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![npm][npm-shield]][npm-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [npm-shield]: https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white -->
-	<!-- [npm-link]: https://www.npmjs.com/ -->
+ <!-- [![npm][npm-shield]][npm-link] -->
+ <!-- REFERENCE LINKS -->
+ <!-- [npm-shield]: https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white -->
+ <!-- [npm-link]: https://www.npmjs.com/ -->
 
-	**Using [npm](https://www.npmjs.com/):**
+ **Using [npm](https://www.npmjs.com/):**
 
-	```sh
-	❯ npm install
-	```
+ ```sh
+ ❯ npm install
+ ```
 <!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![cmake][cmake-shield]][cmake-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [cmake-shield]: None -->
-	<!-- [cmake-link]: None -->
-
-	**Using [cmake](None):**
-
-	```sh
-	❯ echo 'INSERT-INSTALL-COMMAND-HERE'
-	```
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![bower][bower-shield]][bower-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [bower-shield]: None -->
-	<!-- [bower-link]: None -->
-
-	**Using [bower](None):**
-
-	```sh
-	❯ echo 'INSERT-INSTALL-COMMAND-HERE'
-	```
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![yarn][yarn-shield]][yarn-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [yarn-shield]: https://img.shields.io/badge/Yarn-2C8EBB.svg?style={badge_style}&logo=yarn&logoColor=white -->
-	<!-- [yarn-link]: https://yarnpkg.com/ -->
-
-	**Using [yarn](https://yarnpkg.com/):**
-
-	```sh
-	❯ yarn install
-	```
-
 ### Usage
 
 Run the project with:
 
 **Using [npm](https://www.npmjs.com/):**
+
 ```sh
 npm start
-```
-**Using [cmake](None):**
-```sh
-echo 'INSERT-RUN-COMMAND-HERE'
-```
-**Using [bower](None):**
-```sh
-echo 'INSERT-RUN-COMMAND-HERE'
-```
-**Using [yarn](https://yarnpkg.com/):**
-```sh
-yarn start
-```
-
-### Testing
-
-Websec-ies-cam uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [npm](https://www.npmjs.com/):**
-```sh
-npm test
-```
-**Using [cmake](None):**
-```sh
-echo 'INSERT-TEST-COMMAND-HERE'
-```
-**Using [bower](None):**
-```sh
-echo 'INSERT-TEST-COMMAND-HERE'
-```
-**Using [yarn](https://yarnpkg.com/):**
-```sh
-yarn test
 ```
 
 ---
 
 ## Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-## Contributing
-
-- **💬 [Join the Discussions](https://github.com/Molecuardo/websec-ies-cam/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Molecuardo/websec-ies-cam/issues)**: Submit bugs found or log feature requests for the `websec-ies-cam` project.
-- **💡 [Submit Pull Requests](https://github.com/Molecuardo/websec-ies-cam/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
-<summary>Contributing Guidelines</summary>
-
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/Molecuardo/websec-ies-cam
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/Molecuardo/websec-ies-cam/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Molecuardo/websec-ies-cam">
-   </a>
-</p>
-</details>
+- [X] **`Task 1`**: <strike>Implement Basic functionality.</strike>
+- [ ] **`Task 2`**: Implement data analysis & visualization.
 
 ---
 
@@ -407,7 +296,7 @@ Websec-ies-cam is protected under the [LICENSE](https://choosealicense.com/licen
 
 ## Acknowledgments
 
-- Credit `contributors`, `inspiration`, `references`, etc.
+- Credit To `Javier Sánchez Zurdo`
 
 <div align="right">
 
@@ -415,8 +304,6 @@ Websec-ies-cam is protected under the [LICENSE](https://choosealicense.com/licen
 
 </div>
 
-
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-
 
 ---
