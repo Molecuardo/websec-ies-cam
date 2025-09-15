@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
+   "delta_sg": 1.33896,
+   "cabeceras": {
+      "Date": "Thu, 11 Sep 2025 21:20:54 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalcisnero.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1e7251e3d6fc6ec00967e55fbb4373eb6290043d; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=426f8447c6b7d1bd2b46b3b91981e1725c0260cb; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=7e3a731202ea0506780bef404ba06b189081080d; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][1]=3c549f1d4e64444e8b1b85ffd522b6373d849ebc; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][2]=d74810cf8cc8ab705378e1f04cbe65708614bc26; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][3]=4563bac7b6d96c5eeac3b330f610324cf463312b; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/, wc_session_ids[multi][4]=eeadfd921077ba123213f687420ae0c1d6af9cbe; expires=Thu, 11 Sep 2025 21:29:14 GMT; Max-Age=500; path=/ies.cardenalcisnero.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "53720"
+   }
+}

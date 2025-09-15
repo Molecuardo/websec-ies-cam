@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.butarque.leganes",
+   "delta_sg": 1.987071,
+   "cabeceras": {
+      "Date": "Sun, 14 Sep 2025 20:14:50 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=7F3894BAC5D2AEE1ED2282EC0D84C144.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 14-Sep-2026 20:14:49 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 14-Sep-2026 20:14:49 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}
