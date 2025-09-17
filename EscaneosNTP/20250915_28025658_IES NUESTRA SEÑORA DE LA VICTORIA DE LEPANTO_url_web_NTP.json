@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.victoria.villarejo",
+   "delta_sg": -0.695149,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:37:00 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.victoria.villarejo/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.victoria.villarejo/index.php/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.victoria.villarejo/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=01ff12bb379be5d0b8753a6448a50a9d65a86834; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/; secure; HttpOnly, wc_session_ids[all_forms]=d3003ef327d39fdb0c506bdbcb771647b580ffe8; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/; secure; HttpOnly, wc_session_ids[multi][0]=32f7cfab08de31ef04f146aabbfa442d011e27bf; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/, wc_session_ids[multi][1]=e350a5176ffc0c7250ba7d6537c82e2a79a40878; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/, wc_session_ids[multi][2]=5db0eaa97f68b1302ba2c355b246733b8cc01059; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/, wc_session_ids[multi][3]=3b91be5f097599ad2d6f8af3e1c7bf3912c4dfb4; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/, wc_session_ids[multi][4]=2a0a3dc1ca41d8ca26d5f46f68170cb9078a80eb; expires=Mon, 15 Sep 2025 20:45:20 GMT; Max-Age=500; path=/ies.victoria.villarejo/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "24250"
+   }
+}

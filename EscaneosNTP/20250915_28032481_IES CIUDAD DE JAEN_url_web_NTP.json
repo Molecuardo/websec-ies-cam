@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ciudaddejaen.madrid",
+   "delta_sg": -0.03418,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:38:08 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ciudaddejaen.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ciudaddejaen.madrid/index.php/wp-json/wp/v2/pages/276>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ciudaddejaen.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=d0965ef037e713b7963fb0729555454fabc896b4; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b0ff9743e9b151b10991260880a0d2c4bd3f597a; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=b3a22d73df0875bdf89071e25a19263d3e4a86f3; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/, wc_session_ids[multi][1]=4c02c8e0713214a51914510f7f88fc1130a0a108; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/, wc_session_ids[multi][2]=569934ab81f934467efda7a70c495ddc63822e67; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/, wc_session_ids[multi][3]=9374ab5883f3b1647d125a24da8a9e74fb17e264; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/, wc_session_ids[multi][4]=e9c6a2defb88e5af49b2d3f3bdc0fc2b67f7e3d9; expires=Mon, 15 Sep 2025 20:46:28 GMT; Max-Age=500; path=/ies.ciudaddejaen.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "31683"
+   }
+}

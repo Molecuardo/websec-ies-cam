@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.josehierro.getafe",
+   "delta_sg": 0.386992,
+   "cabeceras": {
+      "Date": "Tue, 16 Sep 2025 21:45:23 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.josehierro.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.josehierro.getafe/index.php/wp-json/wp/v2/pages/121>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.josehierro.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=deba0776d68b0bb40d5e161aa09859b0f650fc12; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=46e127d3948638ffce612eec9f5ec4edda6ddb6a; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=d61ccef29a1fa79bdbf3fbbbe4660737943582fb; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/, wc_session_ids[multi][1]=92fcc7b3c3b06924dd035f053d05535693ae5bd2; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/, wc_session_ids[multi][2]=c1af79b6b70c53a171c6b0ed9f0cddbe0d249721; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/, wc_session_ids[multi][3]=31e4ff36d66028be851a5f0d4e918abb44c648e9; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/, wc_session_ids[multi][4]=dcc36222b9858a5eca0d2535c138d41bce1ad79d; expires=Tue, 16 Sep 2025 21:53:43 GMT; Max-Age=500; path=/ies.josehierro.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28731"
+   }
+}

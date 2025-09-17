@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sanisidro.madrid",
+   "delta_sg": -0.69384,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:36:37 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.sanisidro.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.sanisidro.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.sanisidro.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5c5748227b4a9217353cf22a29addd705ff41157; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=5e9ffee1862c89f70d410778d07b45db4979daf2; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=3f3459862563fd1a86518eb4d4d4d3a293926077; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/, wc_session_ids[multi][1]=de30288e23eab692ca63e9f615f11f11c09e52d7; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/, wc_session_ids[multi][2]=82c925559abc92339bb10d2eb16ab23b908dc489; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/, wc_session_ids[multi][3]=f4ddc088d2c41f0493b6b91053dbc98fc974fd53; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/, wc_session_ids[multi][4]=92e6a71a1529817bdacd3e3dd9595b364e87b81d; expires=Mon, 15 Sep 2025 20:44:58 GMT; Max-Age=500; path=/ies.sanisidro.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "70779"
+   }
+}

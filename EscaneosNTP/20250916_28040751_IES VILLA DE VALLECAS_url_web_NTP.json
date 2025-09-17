@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.285629,
+   "cabeceras": {
+      "Date": "Tue, 16 Sep 2025 21:45:29 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=8258cd6121ccabddc63d86bac22a508c59e9cdaf; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1c4942a2180b8d3f975a8b249b2611db37e3eb8c; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=239a69e10269d9e4970f827dec30ab278ba96072; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=e2a09768213bb070ead1055e50abb9699ff528f8; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=b041d07e79703a24ef3eb4a6d2acc5d6e82c4d11; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=d0490d3ee826aa557abb120b617cca0eca7a9251; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=8a0c096dac04304d5d41e0f7900eb4a54a8a081c; expires=Tue, 16 Sep 2025 21:53:49 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29149"
+   }
+}

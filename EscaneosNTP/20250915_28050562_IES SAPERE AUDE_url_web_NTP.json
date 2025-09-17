@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villanuevadelpardillo",
+   "delta_sg": -0.625644,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:41:39 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villanuevadelpardillo/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villanuevadelpardillo/index.php/wp-json/wp/v2/pages/163>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villanuevadelpardillo/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=42215a311f41eda87bfec5825b10403dd72429b5; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/; secure; HttpOnly, wc_session_ids[all_forms]=0f3695dd7291769d858da9571a38b89f2d6cbb71; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/; secure; HttpOnly, wc_session_ids[multi][0]=5de24d5f0a5dd61026e6657a87020344d5041046; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/, wc_session_ids[multi][1]=71e00d262b14cf67df206157501df9f8815a55bb; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/, wc_session_ids[multi][2]=fae94d8cf26856f4765bc4094738ae44f409e5b9; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/, wc_session_ids[multi][3]=c2dce2113f2813fde47d29881730b225c13497f4; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/, wc_session_ids[multi][4]=7317e4996b598581a6fbf9e29a7a0edba62fa86d; expires=Mon, 15 Sep 2025 20:49:59 GMT; Max-Age=500; path=/ies.villanuevadelpardillo/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26968"
+   }
+}

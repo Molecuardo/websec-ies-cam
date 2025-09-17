@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.040465,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:37:08 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=fd8278311b61e2db16d1610cc421050758d38beb; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=1dfd56242999aad4e667894efc0da56c8972fd00; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=d3130f282e7f8a8cb019138ace64299f3a9d6c75; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=90d7243a668627a73ae7f6d38c6195c8d9e7ff9f; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=a2fa99c3a4ee65fcb0728027980236427c052853; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=04369e2650263d46b9100386bd057cd8d84b3b25; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=ca77bde305a073af0a89bfee2694bd1a955ff3d7; expires=Mon, 15 Sep 2025 20:45:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38064"
+   }
+}

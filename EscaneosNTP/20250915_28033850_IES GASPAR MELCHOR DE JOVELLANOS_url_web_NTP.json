@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
+   "delta_sg": 0.175182,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:38:14 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/wp/v2/pages/130>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b3f9130d22f1f11341789a4d1655d9b781a4a37b; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[all_forms]=a5efa56e5d6bd2dc8e7d344773dab73f15e08926; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[multi][0]=5beddcaeb1a80e806efedbb1f877614938ab463f; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][1]=2158bb9cd0a55ef34d76680d2745c7f0baa70fca; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][2]=af41d481f40f01ca31729c9b0e53c8f2e71ba25d; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][3]=ad1253da9a18fc775474447bee3950d55ff9110d; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][4]=2257a9c0dade947f06069483f7894a167891a0f8; expires=Mon, 15 Sep 2025 20:46:34 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27006"
+   }
+}

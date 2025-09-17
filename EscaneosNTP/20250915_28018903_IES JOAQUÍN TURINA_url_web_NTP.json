@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.joaquinturina.madrid",
+   "delta_sg": 0.001616,
+   "cabeceras": {
+      "Date": "Mon, 15 Sep 2025 20:36:08 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.joaquinturina.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.joaquinturina.madrid/index.php/wp-json/wp/v2/pages/272>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.joaquinturina.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=1de398d531691fe75799f2a73521d44f2faa09d9; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b7852dbfd11b1146268373ac0f2e54f00752ece6; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=390cee0f84ca078fe0044f87ff99217cabce0fdb; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/, wc_session_ids[multi][1]=20358acd0ddb4f9067a04623c9487e7aaece0bcf; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/, wc_session_ids[multi][2]=e0661245d7ace1a1d4727a94a59027bf24d8ba4c; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/, wc_session_ids[multi][3]=7ff21d484fec4f131568f60f511f4675d9f430b0; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/, wc_session_ids[multi][4]=5826920d5f331389553693bb8e2dedd10e01af8d; expires=Mon, 15 Sep 2025 20:44:28 GMT; Max-Age=500; path=/ies.joaquinturina.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "61454"
+   }
+}
