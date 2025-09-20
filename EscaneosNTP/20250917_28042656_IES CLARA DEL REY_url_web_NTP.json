@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.claradelrey.madrid",
+   "delta_sg": -0.598892,
+   "cabeceras": {
+      "Date": "Wed, 17 Sep 2025 18:55:39 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.claradelrey.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.claradelrey.madrid/index.php/wp-json/wp/v2/pages/110>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.claradelrey.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=013323ad9d250395e96f9f3f8c663e4b9bda95b8; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=a4b2cea1711a8d0bf94b9b670f77b6f5456bfc78; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=67c7bdc09afd388dd730c702e5224b080911e63b; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/, wc_session_ids[multi][1]=72e3e0176fa61b7c91d2acb628c2a6c4e10019f8; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/, wc_session_ids[multi][2]=34504b963ded1aff27565b49989f714ed884eb96; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/, wc_session_ids[multi][3]=00f4e50f874d1446f480f9806acee53b80179123; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/, wc_session_ids[multi][4]=0457e1027ccd6cf5fb3bc0933e34451bc61b6871; expires=Wed, 17 Sep 2025 19:04:00 GMT; Max-Age=500; path=/ies.claradelrey.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27695"
+   }
+}

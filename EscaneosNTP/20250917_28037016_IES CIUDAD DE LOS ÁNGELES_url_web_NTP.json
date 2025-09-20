@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid",
+   "delta_sg": 0.106315,
+   "cabeceras": {
+      "Date": "Wed, 17 Sep 2025 18:53:25 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.ciudaddelosangeles.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=ca6d210a861d88a1c2f721685f9cef57503e8dcf; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e4cb6d8cd9180e269632a34449fbdf5fc3da3a69; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=5a119dc86021fece21d43a5da02992146b7931e3; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][1]=c8e023cb4dded92f3a4173806f25d1b5813225f8; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][2]=016ec5cf86d811f60bd0c89ecc50cf1cca0f8df3; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][3]=ccbacd32cb4c672fdfe32d3a88183732ec44d5a9; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/, wc_session_ids[multi][4]=6565bfd44260c5518c450b07b316cecdcd7f6b9f; expires=Wed, 17 Sep 2025 19:01:45 GMT; Max-Age=500; path=/ies.ciudaddelosangeles.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29275"
+   }
+}
