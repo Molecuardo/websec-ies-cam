@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": 0.143406,
+   "cabeceras": {
+      "Date": "Sun, 05 Oct 2025 20:10:29 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=40cc9bcf2ab1ae24bf825b4546952e2f504441f0; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d4bd2b88bc8963fce48f9ccd9e05aa2b68c9af8b; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e2b06cc8e7a11d8aaf5e99f60d663af2cc97f741; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=af31fcb69efa5360def145485d72b2b11277b44b; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=7c65a161bc5123fc5dee1fe0db326695acdb28a2; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=f0ca00caf8c383b03ec4a07e3fcb71767ff05ed7; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=ca5f8047f6dbb7bcee692572ae3606e2737177de; expires=Sun, 05 Oct 2025 20:18:49 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33366"
+   }
+}

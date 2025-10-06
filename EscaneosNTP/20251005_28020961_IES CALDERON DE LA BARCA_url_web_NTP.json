@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.calderondelabar.madrid",
+   "delta_sg": 0.012937,
+   "cabeceras": {
+      "Date": "Sun, 05 Oct 2025 20:08:52 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/index.php/wp-json/wp/v2/pages/3943>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.calderondelabar.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=42bbb5fb94ba214655757125dde0db07628f865b; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=58ab0225c24e81d4d95d937f64a537da60978902; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=a91c22691391285a2ad15d9b10dd85a4a93a9fa9; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][1]=d4c924152937d96129e73609b1f84e1769adb260; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][2]=3466806765e5e3e15e2717923c007ce185e5e7aa; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][3]=d24ddcddaa76c358df41da0be9a29e9aa06e2162; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/, wc_session_ids[multi][4]=ceb71c1e6bf6d49b5266d6eecca048f44728f41d; expires=Sun, 05 Oct 2025 20:17:12 GMT; Max-Age=500; path=/ies.calderondelabar.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "37038"
+   }
+}
