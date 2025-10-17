@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.cervantes.mostoles/",
+   "delta_sg": 0.384292,
+   "cabeceras": {
+      "Date": "Thu, 09 Oct 2025 20:44:00 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cervantes.mostoles/index.php/wp-json/wp/v2/pages/204>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cervantes.mostoles/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9fd64432066d283650425473d7327c7d961d2102; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[all_forms]=9598c66aaad07432e4f9d17522047d1c745de310; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/; secure; HttpOnly, wc_session_ids[multi][0]=64daae54528aaf231b268a81aab439a9b8dedaf4; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][1]=0676dd1666e2b684e9446085b683e14452b95511; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][2]=c848d8f007d46a7626a65f2e0e7cabccbc3dd511; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][3]=1d393d4ffa9ec190a5886ed148ba03291c323168; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, wc_session_ids[multi][4]=8f8c8d14a8d356dd465775d66fca6752488ac4be; expires=Thu, 09 Oct 2025 20:52:20 GMT; Max-Age=500; path=/ies.cervantes.mostoles/, cookiesession1=678B2867C1060B9CF501DE8B4C5406AD;Expires=Fri, 09 Oct 2026 20:44:01 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26017"
+   }
+}

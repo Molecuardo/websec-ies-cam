@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.delibes.madrid",
+   "delta_sg": 0.5178,
+   "cabeceras": {
+      "Date": "Tue, 07 Oct 2025 21:29:22 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.delibes.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.delibes.madrid/index.php/wp-json/wp/v2/pages/141>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.delibes.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=99dc682b3431ba89df2020158caf938a213ea6fa; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=a5a4227bcccc109efe0be812369edcc2f4833a5d; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=f42b6f37254a62050558ea0c76495530e2edcc42; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/, wc_session_ids[multi][1]=58a15585b21235d61a5dc46c9b137fa772c688f0; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/, wc_session_ids[multi][2]=5706faf10d02c9305878f264966a0610f872a005; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/, wc_session_ids[multi][3]=c4c9bb48bc9211ecc0f09f4731e8cfd566972f34; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/, wc_session_ids[multi][4]=7302fc9bf077802e2838f0f7a047998a225424be; expires=Tue, 07 Oct 2025 21:37:42 GMT; Max-Age=500; path=/ies.delibes.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "34331"
+   }
+}

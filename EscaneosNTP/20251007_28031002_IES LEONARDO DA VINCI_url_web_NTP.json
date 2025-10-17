@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": -0.000111,
+   "cabeceras": {
+      "Date": "Tue, 07 Oct 2025 21:29:47 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=d65ec6ce357e01ea641f2a4129da1a31e7bf8230; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=b9db6235463f2c913fffdf18006eff14ec83075c; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=1db7cfc071ee32037b63fbcf288ae86b3b391d50; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=330187a413d47445e21f43b04e58a0237a9efe8d; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=6472a765c17e840394839ae18c35d36812ecc58a; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=559e72af1079857eae5aea7500290866fcdf7c34; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=60e28347526b66563ee96950882415df28b184ca; expires=Tue, 07 Oct 2025 21:38:07 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33371"
+   }
+}

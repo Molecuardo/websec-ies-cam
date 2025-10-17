@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
+   "delta_sg": 0.08668,
+   "cabeceras": {
+      "Date": "Tue, 07 Oct 2025 21:30:01 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/index.php/wp-json/wp/v2/pages/130>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.jovellanos.fuenlabrada/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=3ddfd9dbd0bdea0c091a94b47c788ec02716d46d; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[all_forms]=8029a6273f825a440a7dfc9b28645143a4480d1c; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/; secure; HttpOnly, wc_session_ids[multi][0]=d88944067a37f3a018ce8a69c65d9e9938f05e20; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][1]=8a3ec05d417e2fc3c51e53bb17f7a454e2a7a695; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][2]=ecbda1df18312b24f869e7835d801c3811e9303b; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][3]=da0e6d2053c788d42187fc4264305d3cf58b961b; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/, wc_session_ids[multi][4]=e73c4d6076a5a3655663466f948a2d5de644fd2e; expires=Tue, 07 Oct 2025 21:38:22 GMT; Max-Age=500; path=/ies.jovellanos.fuenlabrada/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "26658"
+   }
+}

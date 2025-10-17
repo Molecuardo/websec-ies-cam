@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alarnes.getafe",
+   "delta_sg": 0.138356,
+   "cabeceras": {
+      "Date": "Wed, 15 Oct 2025 20:25:45 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=F77F5DE215DEE097E8621C9E05A90FC5.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 15-Oct-2026 20:25:46 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 15-Oct-2026 20:25:46 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

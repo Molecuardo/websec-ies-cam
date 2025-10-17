@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.cardenalherrera.madrid",
+   "delta_sg": 1.398318,
+   "cabeceras": {
+      "Date": "Thu, 16 Oct 2025 20:34:07 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/index.php/wp-json/wp/v2/pages/1046>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.cardenalherrera.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e2e11c88e88342a3e3ba6b215c55df1862e61560; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=5d39baaf70d45c5a0f11392e92e3047590622c0b; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=bacb3a890e7c0e7b2aa8150a11086243899bc10d; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][1]=cfacf374cdc15ae9f6cca9da8658bc9ad86cb622; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][2]=890d1455449fa5b2f2f9e3863a52a318247dd935; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][3]=b98a1458251e3402c01a601baf5e92c0eff2bda2; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/, wc_session_ids[multi][4]=5aaeb88585b27c82419fb3a3413b3a5e882efba3; expires=Thu, 16 Oct 2025 20:42:27 GMT; Max-Age=500; path=/ies.cardenalherrera.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "28515"
+   }
+}

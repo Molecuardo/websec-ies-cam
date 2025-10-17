@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.parquelisboa.alcorcon",
+   "delta_sg": 2.36974,
+   "cabeceras": {
+      "Date": "Thu, 09 Oct 2025 20:41:36 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=C0BA8E7AA0DBDBFEC7FC2EE984F2C9BC.worker1; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 09-Oct-2026 20:41:35 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 09-Oct-2026 20:41:35 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

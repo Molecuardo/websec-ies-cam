@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.majadahonda",
+   "delta_sg": 0.95312,
+   "cabeceras": {
+      "Date": "Thu, 09 Oct 2025 20:40:48 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.majadahonda/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.majadahonda/wp-json/wp/v2/pages/283>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.majadahonda/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=36268aaa1c997635133bbcc085e51197e251e42f; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/; secure; HttpOnly, wc_session_ids[all_forms]=1994760ae256c0dfb7508ed47cb5e86352ca5d9f; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/; secure; HttpOnly, wc_session_ids[multi][0]=76bc328aaf53d673fd9b518be776ed300bc89c08; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/, wc_session_ids[multi][1]=51afedfc1db1793bb88d3a4d085d6535211243e0; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/, wc_session_ids[multi][2]=edcddd9ad8465f82e95af2aa8e618f7d2608cd8f; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/, wc_session_ids[multi][3]=e4f1d1f4193e2d08447a75b6cd1b296acc0fc709; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/, wc_session_ids[multi][4]=60bdf6666ae113640759a1d6a632538f15569896; expires=Thu, 09 Oct 2025 20:49:08 GMT; Max-Age=500; path=/ies.leonardodavinci.majadahonda/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33031"
+   }
+}
