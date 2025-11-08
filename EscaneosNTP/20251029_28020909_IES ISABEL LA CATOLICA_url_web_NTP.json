@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.isabellacatolica.madrid",
+   "delta_sg": 0.557929,
+   "cabeceras": {
+      "Date": "Wed, 29 Oct 2025 20:59:25 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=764BC66E42F20675C649232D91A6D82E.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 29-Oct-2026 20:59:25 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 29-Oct-2026 20:59:25 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

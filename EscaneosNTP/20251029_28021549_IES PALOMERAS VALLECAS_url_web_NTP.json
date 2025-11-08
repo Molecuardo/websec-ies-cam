@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.palomerasvallecas.madrid",
+   "delta_sg": 0.2573,
+   "cabeceras": {
+      "Date": "Wed, 29 Oct 2025 20:59:36 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/index.php/wp-json/wp/v2/pages/783>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.palomerasvallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=e97c50f36f62b64b0ccb89a2542f2e0bc11f9fae; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=de99aeaec08e1236c159b91b4e152e9244803263; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=df0bb3825154d870f3f777338c16a36daa105264; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][1]=17c248e61d5548367922b83527d011e65e7d54ee; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][2]=b0dcca40c60f5d51a70f259b54191ee26f3652c8; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][3]=b4444484ca27f3c865f2f7118ba77320ed20fd1d; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/, wc_session_ids[multi][4]=f3b06a129580a84bae05a1c0b34c962accf1555d; expires=Wed, 29 Oct 2025 21:07:56 GMT; Max-Age=500; path=/ies.palomerasvallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "37329"
+   }
+}

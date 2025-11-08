@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.icaro.getafe/",
+   "delta_sg": -84.300856,
+   "cabeceras": {
+      "Date": "Mon, 27 Oct 2025 21:13:10 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/wp/v2/pages/447>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.icaro.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=abc560aebb297022f54937679c784cfb66080591; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=0c7846ebfc804883ff9518ab11483ec83e6bd996; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=5062c4f4b7e6c725368f84a41a27820ac5f8e1af; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][1]=5114ffe1d167f03fd549e010eae6882770c0c3be; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][2]=91bf71490222024c97592b6f5b7665d651158747; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][3]=c6096bcf0ac7126e0af2ade5b24237c95140e42b; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][4]=2ddba92ed34694d0cf56073b72b03c8e6f01cd61; expires=Mon, 27 Oct 2025 21:21:31 GMT; Max-Age=500; path=/ies.icaro.getafe/, cookiesession1=678B2867B05EB5459E416A6942D87DAD;Expires=Tue, 27 Oct 2026 21:14:34 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30629"
+   }
+}

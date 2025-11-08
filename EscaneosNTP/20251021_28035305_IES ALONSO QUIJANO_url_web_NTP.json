@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.alonsoquijano.alcala",
+   "delta_sg": 0.001534,
+   "cabeceras": {
+      "Date": "Tue, 21 Oct 2025 20:10:30 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.alonsoquijano.alcala/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.alonsoquijano.alcala/index.php/wp-json/wp/v2/pages/1063>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.alonsoquijano.alcala/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=f616056094b510fa511f36cb3b661bbae68d1898; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/; secure; HttpOnly, wc_session_ids[all_forms]=4825644ad3ed9a6b253b4735b6f543c364bb0ad4; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/; secure; HttpOnly, wc_session_ids[multi][0]=8e4f729ced7f4e959b49b3c0d45eb6f144aeb1d3; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/, wc_session_ids[multi][1]=edbd9d8a59b5cdfb723b3c2e34288f6f83267662; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/, wc_session_ids[multi][2]=dbccddd9eabd5e96bb768f1d1aeb3544f4ab741f; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/, wc_session_ids[multi][3]=cc6674479f5c5f7629a3f3d4f52038eb355cee0b; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/, wc_session_ids[multi][4]=17d6ffd768aebfda9736756a0eb8ddeafc5cc961; expires=Tue, 21 Oct 2025 20:18:50 GMT; Max-Age=500; path=/ies.alonsoquijano.alcala/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "19512"
+   }
+}

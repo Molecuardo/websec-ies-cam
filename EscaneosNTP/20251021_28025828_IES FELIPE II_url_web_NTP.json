@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.felipesegundo.madrid",
+   "delta_sg": 0.025213,
+   "cabeceras": {
+      "Date": "Tue, 21 Oct 2025 20:08:07 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.felipesegundo.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\"",
+      "Set-Cookie": "wc_session_ids[default]=8518a7488dd7d1203bacd226a198cc773c8448c0; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=e227c4f1873d691a7d1404416ec9677bbbf5f1f3; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2c133ed37157b5143d87516a7fc34de649304ac0; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/, wc_session_ids[multi][1]=dacae4c132178bcd893fe9882436435779dbbd30; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/, wc_session_ids[multi][2]=2fb90f49ebe49e43c62a192a6645480f87e68179; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/, wc_session_ids[multi][3]=4f5134d083c2f4a55c527441e33e9db22950366f; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/, wc_session_ids[multi][4]=6c1c2d4bed0d17d77f020cdde0290b87c0e9711d; expires=Tue, 21 Oct 2025 20:16:27 GMT; Max-Age=500; path=/ies.felipesegundo.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38977"
+   }
+}

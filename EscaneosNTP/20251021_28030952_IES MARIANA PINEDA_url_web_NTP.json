@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.marianapineda.madrid",
+   "delta_sg": 0.072508,
+   "cabeceras": {
+      "Date": "Tue, 21 Oct 2025 20:10:01 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.marianapineda.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.marianapineda.madrid/index.php/wp-json/wp/v2/pages/258>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.marianapineda.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=0fd50ef7546345086a3c3d3ff28703629f704702; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8f1afbc6bfc99f0f9cf4a53129e09e20a47271e2; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e7d7a8cc39e3aa3eb66aa038d5fcd3fd55bb6586; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/, wc_session_ids[multi][1]=0386ae7f2a67b468d9b3ba53b82e690882b7bf1f; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/, wc_session_ids[multi][2]=db560158feb5b4084318d5a5a550eb972a7b5d5f; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/, wc_session_ids[multi][3]=1ac5b473d020a68afc86f8983455f4cbad8dc648; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/, wc_session_ids[multi][4]=5532e4dd225f3b85cde0587616f84864a9bc0c91; expires=Tue, 21 Oct 2025 20:18:21 GMT; Max-Age=500; path=/ies.marianapineda.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29423"
+   }
+}

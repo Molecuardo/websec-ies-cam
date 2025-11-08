@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.santamarca.madrid",
+   "delta_sg": -78.734147,
+   "cabeceras": {
+      "Date": "Thu, 23 Oct 2025 20:30:24 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.santamarca.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.santamarca.madrid/index.php/wp-json/wp/v2/pages/116>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.santamarca.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=364e83a6804af59449ac13acbf5cb6f4b789f9cd; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=d85a271be0f714fdd5a6e6c435c71be60e1d2c59; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=8c23cc768db0c23017622794e43bf44ae3cb096c; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/, wc_session_ids[multi][1]=e34a899ddaa0383a9664a3049ed130361b784d9d; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/, wc_session_ids[multi][2]=124061a84ee9e12604045270899120255e8d9adc; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/, wc_session_ids[multi][3]=30f05ec4aaf4b898c227c8fdadacb8fd8b374018; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/, wc_session_ids[multi][4]=341109704986faae903295290c1d07a14c310dcd; expires=Thu, 23 Oct 2025 20:38:44 GMT; Max-Age=500; path=/ies.santamarca.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "40109"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonfelipe.getafe",
+   "delta_sg": 0.173465,
+   "cabeceras": {
+      "Date": "Mon, 20 Oct 2025 20:53:42 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonfelipe.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonfelipe.getafe/index.php/wp-json/wp/v2/pages/2577>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonfelipe.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=c3a84673ab7b739b4e5d6afa5ea2cac72445bce4; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=ba8da991b29e191771f46910ede76d6a4b49aa8f; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=f744a171fd410aabf084e69a9bae93faeea83616; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/, wc_session_ids[multi][1]=44e520e3a0787bfdcacd430f4dc0e49769ecc5ff; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/, wc_session_ids[multi][2]=6e6826ee30ade18c45e2dece075e0dedefa6ef86; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/, wc_session_ids[multi][3]=ea25b07267baaa863112f288669fe25a615a35bb; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/, wc_session_ids[multi][4]=5b6d8546e6017e8d43f92a45663969977641691a; expires=Mon, 20 Oct 2025 21:02:02 GMT; Max-Age=500; path=/ies.leonfelipe.getafe/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "32302"
+   }
+}

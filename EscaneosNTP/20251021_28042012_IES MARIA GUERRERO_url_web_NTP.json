@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.mariaguerrero.colladovillalba",
+   "delta_sg": 0.632672,
+   "cabeceras": {
+      "Date": "Tue, 21 Oct 2025 20:13:54 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=E331BC33BBCFF96C3D1FB01EA6E74E33.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Wed, 21-Oct-2026 20:13:54 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Wed, 21-Oct-2026 20:13:54 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

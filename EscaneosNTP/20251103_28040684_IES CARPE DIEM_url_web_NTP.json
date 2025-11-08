@@ -1,0 +1,18 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.carpediem.chinchon",
+   "delta_sg": 1.026619,
+   "cabeceras": {
+      "Date": "Mon, 03 Nov 2025 21:01:50 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=4CD4391B07875DA0AFBA6FC9C4B7FB05.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 03-Nov-2026 21:01:49 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 03-Nov-2026 21:01:49 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

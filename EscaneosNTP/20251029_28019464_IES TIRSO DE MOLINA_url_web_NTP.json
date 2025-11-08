@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.tirsodemolina.madrid",
+   "delta_sg": 0.201325,
+   "cabeceras": {
+      "Date": "Wed, 29 Oct 2025 20:59:00 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.tirsodemolina.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.tirsodemolina.madrid/index.php/wp-json/wp/v2/pages/1003>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.tirsodemolina.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a8171c788964febb2944f952b6b993bad7886769; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=5fb9213f2c09fb7d90325ad39850c5f8d24a6ace; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=2009133d2af007b36f0840d8d6f048068115786f; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/, wc_session_ids[multi][1]=810daa3ada99293354051c2ee402c661302499f8; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/, wc_session_ids[multi][2]=dc80c96d9c9c37a94e8a60c0992a9be282141921; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/, wc_session_ids[multi][3]=0302713f493876b17e5053f01c539428b37f7b0a; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/, wc_session_ids[multi][4]=73f2d937ca629a10b136e3a444712bbf76df7cd2; expires=Wed, 29 Oct 2025 21:07:20 GMT; Max-Age=500; path=/ies.tirsodemolina.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30327"
+   }
+}

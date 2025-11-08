@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
+   "delta_sg": 0.652038,
+   "cabeceras": {
+      "Date": "Wed, 29 Oct 2025 21:00:08 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/index.php/wp-json/wp/v2/pages/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.avenidadelostor.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=169d833f3cfe37f8de06b32f34d0daf5b21c1996; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=65ccac3c4d82a54aa3841309f2cc3ddedbf4dada; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=9e5eaf98d8dba43d5ac8a689c738d29716df0a99; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][1]=d65a0a6b2efdca68ab2a1836e5f6f3e928341eb3; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][2]=4b5b0c3139c6b4a742af0b201970075ffc48b81b; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][3]=1c33aa13314e665b0bf8e49c52ba637b4e0153da; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/, wc_session_ids[multi][4]=96d1d41b13a54e6e037160b4bf31a29b8d8e5f56; expires=Wed, 29 Oct 2025 21:08:28 GMT; Max-Age=500; path=/ies.avenidadelostor.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "38073"
+   }
+}

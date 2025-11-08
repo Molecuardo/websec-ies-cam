@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.maximotrueba.boadilla",
+   "delta_sg": 0.004638,
+   "cabeceras": {
+      "Date": "Mon, 20 Oct 2025 20:53:52 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/index.php/wp-json/wp/v2/pages/285>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.maximotrueba.boadilla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=9cac18d8a07751a18b25b7ecff0bd63f8ebf00c5; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[all_forms]=c1bb06aaa7ce76ee1293470aa1be06cac178c64a; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/; secure; HttpOnly, wc_session_ids[multi][0]=3e8141a29a21884f616d7abaf3677fcc3db9d394; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][1]=03f05f4fbb09dd0689df5aac2f24ff0b66a9ee26; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][2]=54b314d897ab4da39ab14739cb326f1d96ecdb8c; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][3]=a800b0950a16dd30a067837b7b5a417bba9e00be; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/, wc_session_ids[multi][4]=4bb6d54e35dff1412c59bcde1cf92f76a7b46d7f; expires=Mon, 20 Oct 2025 21:02:12 GMT; Max-Age=500; path=/ies.maximotrueba.boadilla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "27711"
+   }
+}

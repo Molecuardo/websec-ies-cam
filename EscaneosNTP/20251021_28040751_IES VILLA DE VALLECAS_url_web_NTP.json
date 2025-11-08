@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.284072,
+   "cabeceras": {
+      "Date": "Tue, 21 Oct 2025 20:13:16 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=af8cf4c7a2d6b7fe6e0d334a35761bae03ebd15d; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=00e847f9410f0853dfeb61974c49ca59e3a5fedc; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=e945a2cd4583fbb86f96a8452242bb6e776c788d; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=510289d416b163a54e633201460895f373bc78e4; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=83d115b9167811eb10effc21cee4df123b75cd52; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=99a1a4e3f15a94650c4f565bfe1ed471df0188d3; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=b81c84f23ce2dd6041d71fdf66c7653ff5501ea8; expires=Tue, 21 Oct 2025 20:21:36 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29108"
+   }
+}

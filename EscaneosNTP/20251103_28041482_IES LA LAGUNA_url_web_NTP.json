@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.lalaguna.parla",
+   "delta_sg": -91.888837,
+   "cabeceras": {
+      "Date": "Mon, 03 Nov 2025 21:00:43 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.lalaguna.parla/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.lalaguna.parla/index.php/wp-json/wp/v2/pages/151>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.lalaguna.parla/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=d51815222da405ac881a196e3ccaf37692069198; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/; secure; HttpOnly, wc_session_ids[all_forms]=42633c67cc4d7c50e8743c9879988546bbc2dac4; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/; secure; HttpOnly, wc_session_ids[multi][0]=82c34813abe79beed7709b34c28ac28dadd7a212; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/, wc_session_ids[multi][1]=6392c797526eb31ca2a7482d25c5747dbde9013f; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/, wc_session_ids[multi][2]=aed6351aa1dd4b54c4364cac164ce749b7cd318e; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/, wc_session_ids[multi][3]=666350d15cc63d69c5ee4bd481821ab5fdefc016; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/, wc_session_ids[multi][4]=163d3fa0a7dfe9f6a80d9de37cb0a8425d46295b; expires=Mon, 03 Nov 2025 21:09:03 GMT; Max-Age=500; path=/ies.lalaguna.parla/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "35116"
+   }
+}

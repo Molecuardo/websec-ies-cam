@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.losrosales.mostoles",
+   "delta_sg": 2.30136,
+   "cabeceras": {
+      "Date": "Mon, 27 Oct 2025 21:13:12 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=7077BF3C1375AA2A308F73171A1D23B3.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Tue, 27-Oct-2026 21:13:09 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 27-Oct-2026 21:13:09 GMT; Path=/; HttpOnly, UqZBpD3n=v1AdCGSQ__rNr; Expires=Tue, 28-Oct-2025 09:13:12 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

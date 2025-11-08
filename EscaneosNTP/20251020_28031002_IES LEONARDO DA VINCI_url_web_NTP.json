@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
+   "delta_sg": 0.092581,
+   "cabeceras": {
+      "Date": "Mon, 20 Oct 2025 20:50:33 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/index.php/wp-json/wp/v2/pages/230>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.leonardodavinci.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=b1b8978761cb7a00b15ab258eded53c2152aea4c; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=8b8bee0cd2c5ba8f299914e728d4dc71d745b9b0; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=ad6fb02d5d44e0bbe3fbdcc3d0e24f2fd85706c3; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][1]=82056ac67060ac5c6f3011fc9bd91a9a3b4840ac; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][2]=753ff22dcb088eec175276bf40c455191b190131; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][3]=05d7801091800e170220256e524342f45ff33e6a; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/, wc_session_ids[multi][4]=f97fdddacafd2868f5978104a8469970bb4d8730; expires=Mon, 20 Oct 2025 20:58:53 GMT; Max-Age=500; path=/ies.leonardodavinci.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33370"
+   }
+}

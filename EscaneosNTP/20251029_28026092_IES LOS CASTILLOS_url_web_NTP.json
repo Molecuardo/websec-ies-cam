@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.loscastillos.alcorcon",
+   "delta_sg": 0.14213,
+   "cabeceras": {
+      "Date": "Wed, 29 Oct 2025 20:59:56 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.loscastillos.alcorcon/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.loscastillos.alcorcon/index.php/wp-json/wp/v2/pages/3677>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.loscastillos.alcorcon/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=7acfcd55e7e3a141d40263ab7ef207f7db885bb3; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/; secure; HttpOnly, wc_session_ids[all_forms]=d19fffde342fda121ee42e7528fea76b01ae0b4c; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/; secure; HttpOnly, wc_session_ids[multi][0]=ddf833737e44878e916a5bfa2aae7ff690fea60b; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][1]=9fbeb89e015109fa6840db5a4021b21132dd4402; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][2]=288e9f361a03aa1f912d3bec830ceee169dc0c08; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][3]=7eeab28a65f34abc712074efb05d98dc8dc0b096; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/, wc_session_ids[multi][4]=b3fe887cfb97aa3d734f5db0ce4d82dc8ef74d2d; expires=Wed, 29 Oct 2025 21:08:16 GMT; Max-Age=500; path=/ies.loscastillos.alcorcon/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "33136"
+   }
+}
