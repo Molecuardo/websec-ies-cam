@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.reyfernando.sanfernando",
+   "delta_sg": -0.676003,
+   "cabeceras": {
+      "Date": "Fri, 14 Nov 2025 22:32:39 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=CF0DDF0463DBC76C6834453A27D074F1.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 14-Nov-2026 22:32:39 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 14-Nov-2026 22:32:39 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

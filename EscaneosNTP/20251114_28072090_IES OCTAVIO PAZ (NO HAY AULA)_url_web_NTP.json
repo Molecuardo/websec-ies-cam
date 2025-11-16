@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://www.educa2.madrid.org/web/centro.ies.octaviopaz.mostoles",
+   "delta_sg": 0.789674,
+   "cabeceras": {
+      "Date": "Fri, 14 Nov 2025 22:38:06 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=A712584D5C79C4F86F6A5FE1D7B09E36.worker3; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sat, 14-Nov-2026 22:38:04 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sat, 14-Nov-2026 22:38:04 GMT; Path=/; HttpOnly, UqZBpD3n=v1ANCGSQ__1MP; Expires=Sat, 15-Nov-2025 10:38:07 GMT; Path=/; Secure; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

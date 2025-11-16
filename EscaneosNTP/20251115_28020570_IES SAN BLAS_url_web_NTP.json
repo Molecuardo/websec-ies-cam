@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.sanblas.madrid",
+   "delta_sg": 0.527738,
+   "cabeceras": {
+      "Date": "Sat, 15 Nov 2025 20:48:44 GMT",
+      "Server": "Apache",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1",
+      "Set-Cookie": "JSESSIONID=C27B2E3C9D6D10D3BC369601DB2A3122.worker2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Expires=Sun, 15-Nov-2026 20:48:43 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Sun, 15-Nov-2026 20:48:43 GMT; Path=/; HttpOnly",
+      "Via": "1.1 www.educa2.madrid.org",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html;charset=UTF-8",
+      "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+   }
+}

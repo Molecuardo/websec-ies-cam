@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "https://site.educa.madrid.org/ies.icaro.getafe/",
+   "delta_sg": -100.708994,
+   "cabeceras": {
+      "Date": "Tue, 11 Nov 2025 22:07:18 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.icaro.getafe/index.php/wp-json/wp/v2/pages/447>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.icaro.getafe/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=a89a6a60b28da218d359f5c7e6faa0b8625c40f9; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[all_forms]=1c267f8032420ed7ae4282e11b485707d489fd54; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/; secure; HttpOnly, wc_session_ids[multi][0]=fe6cc526653b9eac92b154485f79861186bdd177; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][1]=944227a6ab9fc6c424761c7c27c15c50d974de8a; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][2]=df78e3a0eeb3dd00b0e0269817a20105475e9767; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][3]=9620078fd03d51777cbef32aac86cf521c1a0405; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/, wc_session_ids[multi][4]=9baf863704defda9d6b9907873ba07576c95ae85; expires=Tue, 11 Nov 2025 22:15:38 GMT; Max-Age=500; path=/ies.icaro.getafe/, cookiesession1=678B28670BB1168791003B87096109A1;Expires=Wed, 11 Nov 2026 22:08:59 GMT;Path=/;HttpOnly",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=100",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "30599"
+   }
+}

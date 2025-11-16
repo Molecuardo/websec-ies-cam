@@ -1,0 +1,19 @@
+{
+   "test": "ntp_url_web",
+   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
+   "delta_sg": 0.165603,
+   "cabeceras": {
+      "Date": "Sat, 15 Nov 2025 20:52:10 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.2.25",
+      "Link": "<https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/index.php/wp-json/wp/v2/pages/2103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://site.educa.madrid.org/ies.villadevallecas.madrid/>; rel=shortlink",
+      "Set-Cookie": "wc_session_ids[default]=5d215575cc27458cf1d53662d04d152dc41efe7f; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[all_forms]=00a45f94c6a3afc9ac3b252cc3ba13119c3a2e81; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/; secure; HttpOnly, wc_session_ids[multi][0]=7c988d0578a34d3da01739020392d81a3fcf473b; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][1]=315ff7a384553705ba07b5a38de8ffc1350fd7a0; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][2]=692d84bd857ce6fd8c8dcb3bd6a02565d826cea0; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][3]=2bdbd709ecd1ca7dede8ea24ee6e12e166c2131e; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/, wc_session_ids[multi][4]=b4a6cb82465ac71f596c842b09f573ef1a4aeff8; expires=Sat, 15 Nov 2025 21:00:30 GMT; Max-Age=500; path=/ies.villadevallecas.madrid/",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Strict-Transport-Security": "max-age=15552000",
+      "Content-Length": "29087"
+   }
+}
