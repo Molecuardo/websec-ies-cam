@@ -84,7 +84,8 @@ def evaluar_cabeceras(url) -> dict:
     1. X-Content-Type-Options
     nosniff → ✅ Seguro
 
-    (Ausente o cualquier otro valor) → ❌ Riesgo: el navegador puede interpretar el tipo de contenido erróneamente y ejecutar scripts maliciosos.
+    (Ausente o cualquier otro valor) →  ❌ Riesgo: el navegador puede interpretar el tipo de contenido erróneamente y 
+    ejecutar scripts maliciosos.
 
     2. X-Frame-Options
     DENY → ✅ Seguro (no permite que la página se muestre en un iframe)

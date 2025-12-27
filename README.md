@@ -243,7 +243,7 @@ This project requires the following dependencies:
 
 Build websec-ies-cam from the source and install dependencies:
 
-1. **Clone the repository:**
+1. **Clonar the repository:**
 
     ```sh
     ❯ git clone https://github.com/Molecuardo/websec-ies-cam
@@ -257,34 +257,21 @@ Build websec-ies-cam from the source and install dependencies:
 
 3. **Install the dependencies:**
 
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
- <!-- [![npm][npm-shield]][npm-link] -->
- <!-- REFERENCE LINKS -->
- <!-- [npm-shield]: https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white -->
- <!-- [npm-link]: https://www.npmjs.com/ -->
 
  **Using [npm](https://www.npmjs.com/):**
 
  ```sh
  ❯ npm install
  ```
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-### Usage
+### Utilizacion
 
-Run the project with:
-
-**Using [npm](https://www.npmjs.com/):**
-
-```sh
-npm start
-```
 
 ---
 
 ## Roadmap
 
 - [X] **`Task 1`**: <strike>Implement Basic functionality.</strike>
-- [ ] **`Task 2`**: Implement data analysis & visualization.
+- [ ] **`Task 2`**: Implementar analisis y visualizacion de datos.
 
 ---
 
