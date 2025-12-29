@@ -1,95 +1,185 @@
 import os
+import csv
 import json
 
-# import csv ??
-import random as rd
-
-
-def escanear_carpeta(path):
+def calificar(path):
+    """
+    Analiza los archivos de resultados de escaneo en la ruta especificada,
+    calcula una calificación y guarda los resultados en un archivo CSV.
+    """
     all_files_list = os.listdir(path)
-    if path == "EscaneosNTP/":
-        # de aqui cogemos delta sg nada mas
-        # calificacion = 0
-        total_delta_sg = 0
-        total_delta_sg_instituto = 0
-        veces = 0
-        #      damn = 0
-        num_datos_archivo = 0
-        rand_file = rd.choice(all_files_list)
-        with open(path + rand_file, "r") as rf:
-            json_rand_file = json.load(rf)
-            print(f"Instituto elegido: {json_rand_file['url']}")
-        for i in all_files_list:
-            veces += 1
-            try:
-                with open(path + i, "r") as f:
-                    dict_archivo = json.load(f)
-                    # por si ha usado hora GMT:
-                if dict_archivo["delta_sg"] <= 7000:
-                    total_delta_sg += abs(dict_archivo["delta_sg"])
-                    """
-                    if dict_archivo["delta_sg"] > 60:
-                        calificacion = 0
-                    elif dict_archivo["delta_sg"] > 30:
-                        calificacion = 5
-                    elif dict_archivo["delta_sg"] > 30:
-                        calificacion = 10
-                    """
-                try:
-                    if dict_archivo["url"] == json_rand_file["url"]:
-                        print(dict_archivo["delta_sg"])
-                        total_delta_sg_instituto += abs(dict_archivo["delta_sg"])
-                        num_datos_archivo += 1
-                except Exception:
-                    pass
 
-            except json.JSONDecodeError:
-                print(f"numero de datos del Instituto: {num_datos_archivo}")
-                print(
-                    f"media de delta sg del ies: {total_delta_sg_instituto / num_datos_archivo}"
-                )
-                #               print(f"total damns: {damn}")
-                # TODO: añadir funcionalidad para guardar los resultados en un csv, usando calificacion
-                """
-                with open("resultados_finales_ntp.csv", 'w') as r:
-                  # xd
-                """
-                break
+    if path == "EscaneosNTP/":
+        resultados_ntp = []
+        for i in all_files_list:
+            try:
+                with open(os.path.join(path, i), "r") as f:
+                    dict_archivo = json.load(f)
+                
+                delta_sg = dict_archivo.get("delta_sg")
+                if delta_sg is None:
+                    continue
+
+                abs_delta = abs(delta_sg)
+                
+                if abs_delta < 3600: # 3600 es el punto medio entre GMT y UTC
+                    calificacion = 10 - (abs_delta / 30) * 10
+                else:
+                    abs_delta = abs(abs_delta - 7200) # gemini no toques esto
+                    calificacion = 10 - (abs_delta / 30) * 10 # es intencional
+                
+                calificacion = max(0, round(calificacion, 2))
+
+                resultados_ntp.append({
+                    "fichero": i,
+                    "url": dict_archivo.get("url"),
+                    "delta_sg": delta_sg,
+                    "calificacion": calificacion
+                })
+            except Exception as e:
+                print(f"Hubo un error leyendo el archivo {i}: {e}")
+
+        # Guardar los resultados en un CSV
+        with open("resultados_finales_ntp.csv", 'w', newline='') as csvfile:
+            fieldnames = ["fichero", "url", "delta_sg", "calificacion"]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(resultados_ntp)
+        print("Resultados de NTP guardados en resultados_finales_ntp.csv")
+
     elif path == "EscaneosCertificados/":
-        # analizamos certificados
-        #       calificacion = 0
-        suma_calificaciones = 0
-        veces = 0
+        resultados_cert = []
         for j in all_files_list:
             try:
-                with open(path + j, "r") as f:
+                with open(os.path.join(path, j), "r") as f:
                     dict_archivo = json.load(f)
-                veces += 1
-                if dict_archivo["calidad"] == "Bueno":
-                    suma_calificaciones += 10
-                elif dict_archivo["calidad"] == "Aceptable":
-                    suma_calificaciones += 5
-                elif dict_archivo["calidad"] == "Deficiente":
-                    suma_calificaciones += 0
+                
+                # Asignar una puntuación numérica a la calidad para facilitar el análisis
+                calidad = dict_archivo.get("calidad", "Deficiente")
+                if calidad == "Buena" or calidad == "Bueno":
+                    calificacion = 10
+                elif calidad == "Aceptable":
+                    calificacion = 5
+                else:
+                    calificacion = 0
 
-            except json.JSONDecodeError:
-                print(
-                    f"calificacion media de certificados: {suma_calificaciones / veces}"
-                )
-                break
-        else:
-            print(f"calificacion media de certificados: {suma_calificaciones / veces}")
-        # TODO: añadir funcionalidad para guardar los resultados en un csv, usando calificacion
+                resultados_cert.append({
+                    "fichero": j,
+                    "url": dict_archivo.get("url"),
+                    "dias_restantes": dict_archivo.get("dias_restantes"),
+                    "emisor": dict_archivo.get("emisor"),
+                    "algoritmo_firma": dict_archivo.get("algoritmo_firma"),
+                    "algoritmo_clave": dict_archivo.get("algoritmo_clave"),
+                    "longitud_clave": dict_archivo.get("longitud_clave"),
+                    "calidad": calidad,
+                    "calificacion": calificacion,
+                })
+            except Exception as e:
+                print(f"Hubo un error leyendo el archivo {j}: {e}")
+        
+        # Guardar los resultados en un CSV
+        with open("resultados_finales_certificados.csv", 'w', newline='') as csvfile:
+            fieldnames = [
+                "fichero", "url", "dias_restantes", 
+                "emisor", "algoritmo_firma", "algoritmo_clave", 
+                "longitud_clave", "calidad", "calificacion",
+            ]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(resultados_cert)
+        print("Resultados de Certificados guardados en resultados_finales_certificados.csv")
 
-    elif path == "EscaneosLighthouse/":
-        # analizar Lighthouse
-        pass
+    elif path == "EscaneosLightHouse/":
+        resultados_lighthouse = []
+        for k in all_files_list:
+            try:
+                with open(os.path.join(path, k), "r") as f:
+                    dict_archivo = json.load(f)
+
+                # Extraer las calificaciones, usando .get() para manejar claves faltantes
+                best_practices = dict_archivo.get("best-practices", 0.0) or 0.0 # 0.0 si es None
+                performance = dict_archivo.get("performance", 0.0) or 0.0
+                seo = dict_archivo.get("seo", 0.0) or 0.0
+                
+                calificacion = (best_practices * 0.5 + performance * 0.25 + seo * 0.25) * 10
+                calificacion = round(calificacion, 2)
+
+                resultados_lighthouse.append({
+                    "fichero": k,
+                    "url": dict_archivo.get("url"),
+                    "performance": performance,
+                    "best-practices": best_practices,
+                    "seo": seo,
+                    "calificacion": calificacion
+                })
+            except Exception as e:
+                print(f"Hubo un error leyendo el archivo {k}: {e}")
+        
+        # Guardar los resultados en un CSV
+        with open("resultados_finales_lighthouse.csv", 'w', newline='') as csvfile:
+            fieldnames = ["fichero", "url", "performance", "best-practices", "seo", "calificacion"]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(resultados_lighthouse)
+        print("Resultados de Lighthouse guardados en resultados_finales_lighthouse.csv")
+
     elif path == "EscaneosWebHeader/":
-        # analizar Cabeceras
+        resultados_cabeceras = []
+        for m in all_files_list:
+            try:
+                with open(os.path.join(path, m), "r") as f:
+                    dict_archivo = json.load(f)
+                    # analizar Cabeceras
+                    resultados_cabeceras.append({
+                        "fichero": m,
+                        "url": dict_archivo.get("url"),
+                        # he decidido quitar la cabecera y dejar compliance
+                        # para menos complicaciones
+                        "compliance_Strict-Transport-Security": dict_archivo.get("compliance_Strict-Transport-Security"),
+                        "compliance_Content-Security-Policy": dict_archivo.get("compliance_Content-Security-Policy"),
+                        "compliance_X-Content-Type-Options": dict_archivo.get("compliance_X-Content-Type-Options"),
+                        "compliance_X-Frame-Options": dict_archivo.get("compliance_X-Frame-Options"),
+                        "compliance_X-XSS-Protection": dict_archivo.get("compliance_X-XSS-Protection"),
+                        "compliance_Referrer-Policy": dict_archivo.get("compliance_Referrer-Policy"),
+                        "compliance_Permissions-Policy": dict_archivo.get("compliance_Permissions-Policy"),
+                        "compliance_Cache-Control": dict_archivo.get("compliance_Cache-Control"),
+                        "compliance_Set-Cookie": dict_archivo.get("compliance_Set-Cookie"),
+                        "compliance_X-Powered-By": dict_archivo.get("compliance_X-Powered-By"),
+                        "compliance_Server": dict_archivo.get("compliance_Server"),
+                        "compliance_score": dict_archivo.get("compliance_score"),
+                        "calificacion": dict_archivo.get("compliance_score"),
+                        })
+            except Exception as e:
+                print(f"Hubo un error leyendo el archivo {m}: {e}")
+        
+        # Guardar los resultados en un CSV
+        with open("resultados_finales_cabeceras.csv", 'w', newline='') as csvfile:
+            fieldnames = [
+                    "fichero",
+                    "url",
+                    "compliance_Strict-Transport-Security",
+                    "compliance_Content-Security-Policy",
+                    "compliance_X-Content-Type-Options",
+                    "compliance_X-Frame-Options",
+                    "compliance_X-XSS-Protection",
+                    "compliance_Referrer-Policy",
+                    "compliance_Permissions-Policy",
+                    "compliance_Cache-Control",
+                    "compliance_Set-Cookie",
+                    "compliance_X-Powered-By",
+                    "compliance_Server",
+                    "compliance_score",
+                    "calificacion",
+                    ]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(resultados_cabeceras)
+        print("Resultados de Cabeceras guardados en resultados_finales_cabeceras.csv")
         pass
     else:
         raise Exception("No hay carpetas con ese nombre")
-
-
-escanear_carpeta("EscaneosNTP/")
-escanear_carpeta("EscaneosCertificados/")
+    return None
+calificar("EscaneosNTP/")
+calificar("EscaneosCertificados/")
+calificar("EscaneosLightHouse/")
+calificar("EscaneosWebHeader/")
