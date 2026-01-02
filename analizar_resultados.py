@@ -1,8 +1,9 @@
 import os
 import csv
 import json
+import pandas as pd
 
-def calificar(path):
+def calificar(path: str) -> None:
     """
     Analiza los archivos de resultados de escaneo en la ruta especificada,
     calcula una calificación y guarda los resultados en un archivo CSV.
@@ -147,7 +148,7 @@ def calificar(path):
                         "compliance_X-Powered-By": dict_archivo.get("compliance_X-Powered-By"),
                         "compliance_Server": dict_archivo.get("compliance_Server"),
                         "compliance_score": dict_archivo.get("compliance_score"),
-                        "calificacion": dict_archivo.get("compliance_score"),
+                        "calificacion": round(dict_archivo.get("compliance_score") * 10, 2), # dos decimas
                         })
             except Exception as e:
                 print(f"Hubo un error leyendo el archivo {m}: {e}")
@@ -179,7 +180,22 @@ def calificar(path):
     else:
         raise Exception("No hay carpetas con ese nombre")
     return None
-calificar("EscaneosNTP/")
-calificar("EscaneosCertificados/")
-calificar("EscaneosLightHouse/")
-calificar("EscaneosWebHeader/")
+
+# Obtenemos la nota media:
+def obtener_nota_media(path: str) -> float: 
+    path_csv = path + ".csv"
+    df = pd.read_csv(path_csv)
+    lista_calificacion = df["calificacion"] # todos los csv tienen columna de calificacion
+
+    return sum(lista_calificacion) / len(lista_calificacion)
+
+nota_media_ntp =          round(obtener_nota_media("resultados_finales_ntp"), 2)
+nota_media_certificados = round(obtener_nota_media("resultados_finales_certificados"), 2)
+nota_media_lighthouse =   round(obtener_nota_media("resultados_finales_lighthouse"), 2)
+nota_media_cabeceras =    round(obtener_nota_media("resultados_finales_cabeceras"), 2)
+
+
+print(f"Nota media en NTP: {nota_media_ntp}")
+print(f"Nota media en Certificados: {nota_media_certificados}")
+print(f"Nota media en Lighthouse: {nota_media_lighthouse}")
+print(f"Nota media en Cabeceras: {nota_media_cabeceras}")
