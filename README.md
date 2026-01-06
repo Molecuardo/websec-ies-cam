@@ -30,7 +30,7 @@
 
 This project requires the following dependencies:
 
-- **Programming Language:** Python
+- **Programming Language:** [Python](https://www.python.org/)
 - **Package Manager:** [pip](https://pip.pypa.io/en/stable/) and [npm](https://www.npmjs.com/)
 
 ### Installation
