@@ -31,7 +31,7 @@
 This project requires the following dependencies:
 
 - **Programming Language:** Python
-- **Package Manager:** Npm
+- **Package Manager:** [pip](https://pip.pypa.io/en/stable/) and [npm](https://www.npmjs.com/)
 
 ### Installation
 
@@ -49,14 +49,26 @@ Build websec-ies-cam from the source and install dependencies:
     ❯ cd websec-ies-cam
     ```
 
-3. **Install the dependencies:**
-
-
- **Using [npm](https://www.npmjs.com/):**
+4. **Hacer un entorno virtual y activarlo:**
 
  ```sh
- ❯ npm install
+ ❯ python -m venv venv && source venv/bin/activate
  ```
+
+4. **Install the dependencies:**
+
+
+ **[Google Lighthouse:](https://developer.chrome.com/docs/lighthouse/) Using [npm](https://www.npmjs.com/):**
+
+ ```sh
+ ❯ npm install lighthouse
+ ```
+ **Python dependecies:
+
+ ```sh
+ ❯ pip install -r requirements.txt
+ ```
+
 ### Utilizacion
 
 
