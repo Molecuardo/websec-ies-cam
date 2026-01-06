@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
 <img src="https://img.shields.io/badge/Lighthouse-F44B21.svg?style=flat-square&logo=Lighthouse&logoColor=white" alt="Lighthouse">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/dynamic/csv" alt="Csv">
 
 </div>
 <br>
