@@ -58,12 +58,12 @@ Build websec-ies-cam from the source and install dependencies:
 4. **Install the dependencies:**
 
 
- **[Google Lighthouse:](https://developer.chrome.com/docs/lighthouse/) Using [npm](https://www.npmjs.com/):**
+ **[Google Lighthouse](https://developer.chrome.com/docs/lighthouse/), Using [npm](https://www.npmjs.com/):**
 
  ```sh
  ❯ npm install lighthouse
  ```
- **Python dependecies:
+ **Python dependecies:**
 
  ```sh
  ❯ pip install -r requirements.txt
