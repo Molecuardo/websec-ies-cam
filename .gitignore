@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# Quitar reports de Lighthouse (95% html)
-EscaneosLighthouse/*.html
+# Quitar reports
+*.report.html
+lighthouse_report.json
 
 # Distribution / packaging
 .Python
