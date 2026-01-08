@@ -9,6 +9,7 @@ def calificar(path: str) -> None:
     calcula una calificación y guarda los resultados en un archivo CSV.
     """
     all_files_list = os.listdir(path)
+    path =  path
 
     if path == "EscaneosNTP/":
         resultados_ntp = []
@@ -41,7 +42,7 @@ def calificar(path: str) -> None:
                 print(f"Hubo un error leyendo el archivo {i}: {e}")
 
         # Guardar los resultados en un CSV
-        with open("resultados_finales_ntp.csv", 'w', newline='') as csvfile:
+        with open("Resultados/resultados_finales_ntp.csv", 'w', newline='') as csvfile:
             fieldnames = ["fichero", "url", "delta_sg", "calificacion"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
@@ -79,7 +80,7 @@ def calificar(path: str) -> None:
                 print(f"Hubo un error leyendo el archivo {j}: {e}")
         
         # Guardar los resultados en un CSV
-        with open("resultados_finales_certificados.csv", 'w', newline='') as csvfile:
+        with open("Resultados/resultados_finales_certificados.csv", 'w', newline='') as csvfile:
             fieldnames = [
                 "fichero", "url", "dias_restantes", 
                 "emisor", "algoritmo_firma", "algoritmo_clave", 
@@ -117,7 +118,7 @@ def calificar(path: str) -> None:
                 print(f"Hubo un error leyendo el archivo {k}: {e}")
         
         # Guardar los resultados en un CSV
-        with open("resultados_finales_lighthouse.csv", 'w', newline='') as csvfile:
+        with open("Resultados/resultados_finales_lighthouse.csv", 'w', newline='') as csvfile:
             fieldnames = ["fichero", "url", "performance", "best-practices", "seo", "calificacion"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
@@ -154,7 +155,7 @@ def calificar(path: str) -> None:
                 print(f"Hubo un error leyendo el archivo {m}: {e}")
         
         # Guardar los resultados en un CSV
-        with open("resultados_finales_cabeceras.csv", 'w', newline='') as csvfile:
+        with open("Resultados/resultados_finales_cabeceras.csv", 'w', newline='') as csvfile:
             fieldnames = [
                     "fichero",
                     "url",
@@ -188,14 +189,169 @@ def obtener_nota_media(path: str) -> float:
     lista_calificacion = df["calificacion"] # todos los csv tienen columna de calificacion
 
     return sum(lista_calificacion) / len(lista_calificacion)
+# queremos la cantidad menor de tiempo codificando,
+# menor cantidad de lineas, de for loops, de funciones
 
-nota_media_ntp =          round(obtener_nota_media("resultados_finales_ntp"), 2)
-nota_media_certificados = round(obtener_nota_media("resultados_finales_certificados"), 2)
-nota_media_lighthouse =   round(obtener_nota_media("resultados_finales_lighthouse"), 2)
-nota_media_cabeceras =    round(obtener_nota_media("resultados_finales_cabeceras"), 2)
+def obtener_resultados_web() -> None:
+    # Listas para almacenar los dataframes y sus tipos
+    archivos = [
+        ("Resultados/resultados_finales_ntp.csv", "media_ntp"),
+        ("Resultados/resultados_finales_certificados.csv", "media_certificado"),
+        ("Resultados/resultados_finales_lighthouse.csv", "media_lighthouse"),
+        ("Resultados/resultados_finales_cabeceras.csv", "media_cabecera")
+    ]
 
+    institutos_data = {}
 
-print(f"Nota media en NTP: {nota_media_ntp}")
-print(f"Nota media en Certificados: {nota_media_certificados}")
-print(f"Nota media en Lighthouse: {nota_media_lighthouse}")
-print(f"Nota media en Cabeceras: {nota_media_cabeceras}")
+    for archivo, tipo in archivos:
+        try:
+            df = pd.read_csv(archivo)
+            ficheros = df["fichero"].tolist()
+            calificaciones = df["calificacion"].tolist()
+            
+            for i in range(len(ficheros)):
+                fichero = ficheros[i]
+                calificacion = calificaciones[i]
+                
+                # Parsear el nombre del instituto
+                tokens = fichero.split("_")
+                if "web" in tokens[4]:
+                    nombre_instituto = tokens[2].strip()
+                    
+                    if nombre_instituto not in institutos_data:
+                        institutos_data[nombre_instituto] = {
+                            "media_ntp": [],
+                            "media_certificado": [],
+                            "media_lighthouse": [],
+                            "media_cabecera": []
+                        }
+                    
+                    institutos_data[nombre_instituto][tipo].append(calificacion)
+        except Exception as e:
+            print(f"Error leyendo {archivo}: {e}")
+
+    resultados = []
+    lista_institutos = list(institutos_data.keys())
+    print("lista_institutos: ", lista_institutos)
+    print("institutos_data: ", institutos_data)
+    for instituto in lista_institutos:
+        data = institutos_data[instituto]
+        
+        # Función para  calcular media
+        def obtener_media(lista):
+            return sum(lista) / len(lista)
+
+        media_ntp = obtener_media(data["media_ntp"])
+        media_certificado = obtener_media(data["media_certificado"])
+        media_lighthouse = obtener_media(data["media_lighthouse"])
+        media_cabecera = obtener_media(data["media_cabecera"])
+        
+        # Calcular media general
+        # media_ntp * 0.25 + media_certificado * 0.3 + media_lighthouse * 0.15 + media_cabecera * 0.35
+        media_general = (media_ntp * 0.25) + (media_certificado * 0.3) + (media_lighthouse * 0.15) + (media_cabecera * 0.35)
+
+        resultados.append({
+            "instituto": instituto,
+            "media_ntp": round(media_ntp, 2),
+            "media_certificado": round(media_certificado, 2),
+            "media_lighthouse": round(media_lighthouse, 2),
+            "media_cabecera": round(media_cabecera, 2),
+            "media_general": round(media_general, 2)
+        })
+
+    with open("Resultados/resultados_web.csv", 'w', newline='') as csvfile:
+        fieldnames = [
+                "instituto",
+                "media_ntp",
+                "media_certificado",
+                "media_lighthouse",
+                "media_cabecera",
+                "media_general"
+                      ]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(resultados)
+    print("Resultados finales guardados en resultados_web.csv")
+
+def obtener_resultados_aula() -> None:
+    # Listas para almacenar los dataframes y sus tipos
+    archivos = [
+        ("Resultados/resultados_finales_ntp.csv", "media_ntp"),
+        ("Resultados/resultados_finales_certificados.csv", "media_certificado"),
+        ("Resultados/resultados_finales_lighthouse.csv", "media_lighthouse"),
+        ("Resultados/resultados_finales_cabeceras.csv", "media_cabecera")
+    ]
+
+    institutos_data = {}
+
+    for archivo, tipo in archivos:
+        try:
+            df = pd.read_csv(archivo)
+            ficheros = df["fichero"].tolist()
+            calificaciones = df["calificacion"].tolist()
+            
+            for i in range(len(ficheros)):
+                fichero = ficheros[i]
+                calificacion = calificaciones[i]
+                
+                # Parsear el nombre del instituto
+                tokens = fichero.split("_")
+                if "aula" in tokens[4]:
+                    nombre_instituto = tokens[2].strip()
+                    
+                    if nombre_instituto not in institutos_data:
+                        institutos_data[nombre_instituto] = {
+                            "media_ntp": [],
+                            "media_certificado": [],
+                            "media_lighthouse": [],
+                            "media_cabecera": []
+                        }
+                    
+                    institutos_data[nombre_instituto][tipo].append(calificacion)
+        except Exception as e:
+            print(f"Error leyendo {archivo}: {e}")
+
+    resultados = []
+    lista_institutos = list(institutos_data.keys())
+    print("lista_institutos: ", lista_institutos)
+    print("institutos_data: ", institutos_data)
+    for instituto in lista_institutos:
+        data = institutos_data[instituto]
+        
+        # Función para  calcular media
+        def obtener_media(lista):
+            return sum(lista) / len(lista)
+
+        media_ntp = obtener_media(data["media_ntp"])
+        media_certificado = obtener_media(data["media_certificado"])
+        media_lighthouse = obtener_media(data["media_lighthouse"])
+        media_cabecera = obtener_media(data["media_cabecera"])
+        
+        # Calcular media general
+        # media_ntp * 0.25 + media_certificado * 0.3 + media_lighthouse * 0.15 + media_cabecera * 0.35
+        media_general = (media_ntp * 0.25) + (media_certificado * 0.3) + (media_lighthouse * 0.15) + (media_cabecera * 0.35)
+
+        resultados.append({
+            "instituto": instituto,
+            "media_ntp": round(media_ntp, 2),
+            "media_certificado": round(media_certificado, 2),
+            "media_lighthouse": round(media_lighthouse, 2),
+            "media_cabecera": round(media_cabecera, 2),
+            "media_general": round(media_general, 2)
+        })
+
+    with open("Resultados/resultados_aula.csv", 'w', newline='') as csvfile:
+        fieldnames = [
+                "instituto",
+                "media_ntp",
+                "media_certificado",
+                "media_lighthouse",
+                "media_cabecera",
+                "media_general"
+                      ]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(resultados)
+    print("Resultados finales guardados en resultados_aula.csv")
+
+obtener_resultados_aula()

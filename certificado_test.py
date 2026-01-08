@@ -23,7 +23,7 @@ from cryptography.hazmat.primitives.asymmetric import rsa, ec, dsa
 # %% --------------------------------------------------------------------------
 # Variables
 # ----------------------------------------------------------------------------
-carpeta = "/home/pablo/Documentos/Institutos_Pablo/"
+carpeta = "/home/pablo/academic/Institutos_Pablo/"
 fichero_excel = carpeta + "All_Institutos.xlsx"
 pestana_excel = "Listado institutos"
 carpeta_resultados = carpeta + "EscaneosCertificados/"
@@ -251,9 +251,10 @@ for index, raw in df_institutos.iterrows():
         filename_resultados += "_" + str(identificador_instituto)
         filename_resultados += "_" + nombre_instituto
         filename_resultados += "_" + u + "_Certificado.json"
-        with open(carpeta_resultados + filename_resultados, "w") as f:
-            f.write(json.dumps(dict(dict_data), indent=3, ensure_ascii=False))
-        print(str(index) + "\t" + filename_resultados)
+        print(dict_data["fecha_inicio"])
+        #with open(carpeta_resultados + filename_resultados, "w") as f:
+        #   f.write(json.dumps(dict(dict_data), indent=3, ensure_ascii=False))
+        #print(str(index) + "\t" + filename_resultados)
 
 print("Fin de escaneo")
 # Hemos tardado:
