@@ -15,9 +15,10 @@ def generar_histograma(archivo_csv, titulo, archivo_salida):
         plt.figure(figsize=(10, 6))
         
         if archivo_csv == "Resultados/resultados_web":
-            plt.hist(notas, bins=20, range=(3, 7), edgecolor='black', alpha=0.7)
+            # las bins son las barras
+            plt.hist(notas, bins=40, range=(3, 7), edgecolor='black', alpha=0.7)
         else:
-            plt.hist(notas, bins=20, range=(4.5, 7), edgecolor='black', alpha=0.7)
+            plt.hist(notas, bins=40, range=(4.5, 7), edgecolor='black', alpha=0.7)
         
         plt.title(titulo)
         plt.xlabel('Índice de Seguridad')
