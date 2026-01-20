@@ -83,7 +83,7 @@ Para ejecutar todos los tests y análisis:
 
 - [X] **`Tarea 1`**: <strike>Implementar extracción de datos.</strike>
 - [X] **`Tarea 2`**: <strike>Implementar análisis de datos.</strike>
-- [ ] **`Tarea 3`**: Implementar visualización de datos.
+- [X] **`Tarea 3`**: <strike>Implementar visualización de datos</strike>.
 
 ---
 
