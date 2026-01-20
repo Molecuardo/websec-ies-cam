@@ -3,17 +3,17 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="left">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fcybersecurity-logos&psig=AOvVaw12g3XcEmHJgsgSe05bon2Q&ust=1754398182341000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDVqtaY8Y4DFQAAAAAdAAAAABAE" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fcybersecurity-logos&psig=AOvVaw12g3XcEmHJgsgSe05bon2Q&ust=1754398182341000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDVqtaY8Y4DFQAAAAAdAAAAABAE" width="30%" style="position: relative; top: 0; right: 0;" alt="Logo del Proyecto"/>
 
 # WEBSEC-IES-CAM
 
 <!-- BADGES -->
-<img src="https://img.shields.io/github/license/Molecuardo/websec-ies-cam?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/Molecuardo/websec-ies-cam?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/Molecuardo/websec-ies-cam?style=flat-square&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/Molecuardo/websec-ies-cam?style=flat-square&color=0080ff" alt="repo-language-count">
+<img src="https://img.shields.io/github/license/Molecuardo/websec-ies-cam?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="licencia">
+<img src="https://img.shields.io/github/last-commit/Molecuardo/websec-ies-cam?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="último commit">
+<img src="https://img.shields.io/github/languages/top/Molecuardo/websec-ies-cam?style=flat-square&color=0080ff" alt="lenguaje principal">
+<img src="https://img.shields.io/github/languages/count/Molecuardo/websec-ies-cam?style=flat-square&color=0080ff" alt="número de lenguajes">
 
-<em>Built with the tools and technologies:</em>
+<em>Desarrollado con las siguientes herramientas y tecnologías:</em>
 
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
 <img src="https://img.shields.io/badge/Lighthouse-F44B21.svg?style=flat-square&logo=Lighthouse&logoColor=white" alt="Lighthouse">
@@ -24,73 +24,78 @@
 
 ---
 
-## Getting Started
+## Primeros Pasos
 
-### Prerequisites
+### Requisitos Previos
 
-This project requires the following dependencies:
+Este proyecto requiere las siguientes dependencias:
 
-- **Programming Language:** [Python](https://www.python.org/)
-- **Package Manager:** [pip](https://pip.pypa.io/en/stable/) and [npm](https://www.npmjs.com/)
+- **Lenguaje de Programación:** [Python](https://www.python.org/)
+- **Gestor de Paquetes:** [pip](https://pip.pypa.io/en/stable/) y [npm](https://www.npmjs.com/)
 
-### Installation
+### Instalación
 
-Build websec-ies-cam from the source and install dependencies:
+Compila websec-ies-cam desde el código fuente e instala las dependencias:
 
-1. **Clonar the repository:**
+1. **Clonar el repositorio:**
 
     ```sh
     ❯ git clone https://github.com/Molecuardo/websec-ies-cam
     ```
 
-2. **Navigate to the project directory:**
+2. **Navegar al directorio del proyecto:**
 
     ```sh
     ❯ cd websec-ies-cam
     ```
 
-4. **Hacer un entorno virtual y activarlo:**
+3. **Crear un entorno virtual y activarlo:**
 
  ```sh
  ❯ python -m venv venv && source venv/bin/activate
  ```
 
-4. **Install the dependencies:**
+4. **Instalar las dependencias:**
 
 
- **[Google Lighthouse](https://developer.chrome.com/docs/lighthouse/), Using [npm](https://www.npmjs.com/):**
+ **[Google Lighthouse](https://developer.chrome.com/docs/lighthouse/), usando [npm](https://www.npmjs.com/):**
 
  ```sh
  ❯ npm install lighthouse
  ```
- **Python dependecies:**
+ **Dependencias de Python:**
 
  ```sh
  ❯ pip install -r requirements.txt
  ```
 
-### Utilizacion
+### Uso
 
+Para ejecutar todos los tests y análisis:
 
----
-
-## Roadmap
-
-- [X] **`Task 1`**: <strike>Implementar extraccion de datos.</strike>
-- [X] **`Task 2`**: <strike> Implementar analisis de datos.</strike>
-- [ ] **`Task 2`**: Implementar visualizacion de datos.
+```sh
+❯ ./runall.sh
+```
 
 ---
 
-## License
+## Hoja de Ruta (Roadmap)
 
-Websec-ies-cam is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+- [X] **`Tarea 1`**: <strike>Implementar extracción de datos.</strike>
+- [X] **`Tarea 2`**: <strike>Implementar análisis de datos.</strike>
+- [ ] **`Tarea 3`**: Implementar visualización de datos.
 
 ---
 
-## Acknowledgments
+## Licencia
 
-- Credit To `Javier Sánchez Zurdo`
+Websec-ies-cam está protegido bajo la licencia [LICENSE](https://choosealicense.com/licenses). Para más detalles, consulta el archivo [LICENSE](https://choosealicense.com/licenses/).
+
+---
+
+## Agradecimientos
+
+- Crédito a `Javier Sánchez Zurdo`
 
 <div align="right">
 
@@ -98,6 +103,6 @@ Websec-ies-cam is protected under the [LICENSE](https://choosealicense.com/licen
 
 </div>
 
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[back-to-top]: https://img.shields.io/badge/-VOLVER_ARRIBA-151515?style=flat-square
 
 ---
