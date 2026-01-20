@@ -329,7 +329,7 @@ def obtener_resultados_aula() -> None:
         
         # Calcular media general
         # media_ntp * 0.25 + media_certificado * 0.3 + media_lighthouse * 0.15 + media_cabecera * 0.35
-        media_general = (media_ntp * 0.25) + (media_certificado * 0.3) + (media_lighthouse * 0.15) + (media_cabecera * 0.35)
+        media_general = (media_ntp * 0.25) + (media_certificado * 0.3) + (media_lighthouse * 0.15) + (media_cabecera * 0.30)
 
         resultados.append({
             "instituto": instituto,
@@ -354,15 +354,3 @@ def obtener_resultados_aula() -> None:
         writer.writerows(resultados)
     print("Resultados finales guardados en resultados_aula.csv")
 
-"""
-df1 = pd.read_csv("Resultados/resultados_web.csv")
-df2 = pd.read_csv("Resultados/resultados_aula.csv")
-
-nombres_web = df1["instituto"].tolist()
-nombres_aula = df2["instituto"].tolist()
-for nombre_aula in nombres_aula:
-    if nombre_aula in nombres_web:
-        continue # el instituto tiene aula y web, pasamos al siguiente
-    else:
-        print(f"instituto con aula sin web: {nombre_aula}")
-"""
